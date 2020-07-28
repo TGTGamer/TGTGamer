@@ -3,10 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '0 */12 * * *'
-  push:
-    branches:
-      - master
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:

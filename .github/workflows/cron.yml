@@ -1,17 +1,25 @@
-name: Waka Readme
+name: Update Readme
 
 on:
   schedule:
     # Runs at 12am IST
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           USERNAME: tgtgamer
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://jonathanstevens.org/news/feed/, 	https://stackoverflow.com/feeds/user/358909'

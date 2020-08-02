@@ -31,8 +31,7 @@
 3. 🎉 Merged PR [#12](https://github.com//Videndum/manage-github-secrets/pull/12) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
 4. 💪 Opened PR [#12](https://github.com//Videndum/manage-github-secrets/pull/12) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
 5. 🎉 Merged PR [#5](https://github.com//Videndum/manage-github-secrets/pull/5) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-<!--END_SECTION:activity-->
-<!--end_SECTION:activity-->
+
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)

@@ -1,3 +1,5 @@
+<img align="right" href="https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&redirect=true" src="https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true">
+
 # Hi there 👋
 
 ╔═══►⠀⠀🇯 🇴 🇳 🇦 🇹 🇭 🇦 🇳\
@@ -15,6 +17,16 @@
 ⠀⠀⠀•⠀[𝘛𝘸𝘪𝘵𝘵𝘦𝘳](https://twitter.com/tgtgamer) ⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀⠀ •⠀[𝘠𝘰𝘶𝘵𝘶𝘣𝘦](https://www.youtube.com/channel/UCmMsdBHE1inAoY72o2ZuEqg/live)\
 ⠀⠀⠀•⠀[𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮](https://www.instagram.com/tgtgamer) ⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀•⠀[𝘋𝘭𝘪𝘷𝘦](https://dlive.tv/TGTGamer)\
 └────────────────┘ └────────────────┘
+
+## Sporadic blogging
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--end_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 

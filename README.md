@@ -18,7 +18,7 @@
 ⠀⠀⠀•⠀[𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮](https://www.instagram.com/tgtgamer) ⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀ ⠀•⠀[𝘋𝘭𝘪𝘷𝘦](https://dlive.tv/TGTGamer)\
 └────────────────┘ └────────────────┘
 
-## Sporadic blogging
+**Sporadic blogging**
 
 <!-- BLOG-POST-LIST:START -->
 - [Hideout Menu](https://jonathanstevens.org/2019/11/13/hideout-menu/)
@@ -28,7 +28,7 @@
 - [Hedgehog](https://jonathanstevens.org/2019/10/09/hedgehog/)
 <!-- BLOG-POST-LIST:END -->
 
-## Recent Activity
+**Recent Activity**
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#11](https://github.com//gautamkrishnar/blog-post-workflow/issues/11) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
@@ -37,6 +37,7 @@
 4. 🎉 Merged PR [#12](https://github.com//Videndum/manage-github-secrets/pull/12) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
 5. 💪 Opened PR [#12](https://github.com//Videndum/manage-github-secrets/pull/12) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 

@@ -1,4 +1,4 @@
-name: Update Readme
+name: Update Readme - Waka
 
 on:
   schedule:
@@ -19,21 +19,3 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_LOC_CHART: false
           SHOW_LINES_OF_CODE: false
-  
-  update-recent:
-    name: Update Readme with recents
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  update-blog:
-    name: Update Readme with blogs
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: 'http://jonathanstevens.org/news/feed/, 	http://stackoverflow.com/feeds/user/358909'

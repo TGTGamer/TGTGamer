@@ -21,11 +21,11 @@
 **Sporadic blogging**
 
 <!-- BLOG-POST-LIST:START -->
-- [Hideout Menu](https://jonathanstevens.org/2019/11/13/hideout-menu/)
-- [Smode 01 – Red Particles](https://jonathanstevens.org/2019/10/31/smode-01-red-particles/)
-- [Notch 01 – Ball w/ line particles](https://jonathanstevens.org/2019/10/31/notch-01-ball-w-line-particles/)
-- [Eureka Digital Dimentions](https://jonathanstevens.org/2019/10/10/eureka-2019/)
-- [Hedgehog](https://jonathanstevens.org/2019/10/09/hedgehog/)
+- [Comment by Jonathan Stevens on Github Actions detect author_association](https://stackoverflow.com/questions/63188674/github-actions-detect-author-association)
+- [Github Actions detect author_association](https://stackoverflow.com/questions/63188674/github-actions-detect-author-association)
+- [Answer by Jonathan Stevens for React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow/59941715#59941715)
+- [React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow)
+- [React WebkitAppRegion Warnings](https://stackoverflow.com/questions/59870837/react-webkitappregion-warnings)
 <!-- BLOG-POST-LIST:END -->
 
 **Recent Activity**

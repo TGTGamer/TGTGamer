@@ -21,6 +21,11 @@
 ## Sporadic blogging
 
 <!-- BLOG-POST-LIST:START -->
+- [Hideout Menu](https://jonathanstevens.org/2019/11/13/hideout-menu/)
+- [Smode 01 – Red Particles](https://jonathanstevens.org/2019/10/31/smode-01-red-particles/)
+- [Notch 01 – Ball w/ line particles](https://jonathanstevens.org/2019/10/31/notch-01-ball-w-line-particles/)
+- [Eureka Digital Dimentions](https://jonathanstevens.org/2019/10/10/eureka-2019/)
+- [Hedgehog](https://jonathanstevens.org/2019/10/09/hedgehog/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent Activity

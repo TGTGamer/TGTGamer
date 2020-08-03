@@ -43,15 +43,15 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,432 Contributions in year 2020
+> 🏆 1,436 Contributions in year 2020
  > 
 > 📦 Used 2.2 kB in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repository 
+> 📜 8 Public Repositories 
  > 
-> 🔑 4 Owned Private Repository 
+> 🔑 4 Owned Private Repositories 
 
 **I'm a night 🦉** 
 
@@ -65,8 +65,8 @@
 📅 **I'm Most Productive on Tuesdays** 
 
 ```text
-Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.36% 
-Tuesday      99 commits     ████████░░░░░░░░░░░░░░░░░   33.11% 
+Monday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Tuesday      98 commits     ████████░░░░░░░░░░░░░░░░░   32.78% 
 Wednesday    74 commits     ██████░░░░░░░░░░░░░░░░░░░   24.75% 
 Thursday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
 Friday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 

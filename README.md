@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com//Videndum/Universal-GitAction-Workflows/pull/161) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-2. ❗️ Opened issue [#11](https://github.com//gautamkrishnar/blog-post-workflow/issues/11) in [gautamkrishnar/blog-post-workflow](https://github.com//gautamkrishnar/blog-post-workflow)
-3. ❗️ Opened issue [#58](https://github.com//folke/vscode-monorepo-workspace/issues/58) in [folke/vscode-monorepo-workspace](https://github.com//folke/vscode-monorepo-workspace)
-4. 🗣 Commented on [#156](https://github.com//Videndum/Universal-GitAction-Workflows/issues/156) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-5. 🎉 Merged PR [#12](https://github.com//Videndum/manage-github-secrets/pull/12) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+1. ❌ Closed PR [#88](https://github.com//Videndum/Smartcloud/pull/88) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. 💪 Opened PR [#88](https://github.com//Videndum/Smartcloud/pull/88) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. ❌ Closed PR [#87](https://github.com//Videndum/Smartcloud/pull/87) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. 💪 Opened PR [#86](https://github.com//Videndum/Smartcloud/pull/86) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+5. 🎉 Merged PR [#78](https://github.com//Videndum/Smartcloud/pull/78) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

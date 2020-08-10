@@ -23,11 +23,11 @@
 **Sporadic blogging**
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment by Jonathan Stevens on Github Actions detect author_association](https://stackoverflow.com/questions/63188674/github-actions-detect-author-association)
 - [Github Actions detect author_association](https://stackoverflow.com/questions/63188674/github-actions-detect-author-association)
 - [Answer by Jonathan Stevens for React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow/59941715#59941715)
 - [React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow)
 - [React WebkitAppRegion Warnings](https://stackoverflow.com/questions/59870837/react-webkitappregion-warnings)
+- [Express Server + Package Manager = TypeError: Circular structure](https://stackoverflow.com/questions/59830288/express-server-package-manager-typeerror-circular-structure)
 <!-- BLOG-POST-LIST:END -->
 
 **Recent Activity**

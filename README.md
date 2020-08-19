@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com//TGTGamer/devspace/pull/19) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-2. 💪 Opened PR [#19](https://github.com//TGTGamer/devspace/pull/19) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-3. 🎉 Merged PR [#96](https://github.com//Videndum/Smartcloud/pull/96) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. 💪 Opened PR [#96](https://github.com//Videndum/Smartcloud/pull/96) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-5. 🎉 Merged PR [#94](https://github.com//Videndum/Smartcloud/pull/94) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 🎉 Merged PR [#20](https://github.com//TGTGamer/devspace/pull/20) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+2. 🎉 Merged PR [#21](https://github.com//TGTGamer/devspace/pull/21) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+3. 🎉 Merged PR [#19](https://github.com//TGTGamer/devspace/pull/19) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+4. 💪 Opened PR [#19](https://github.com//TGTGamer/devspace/pull/19) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+5. 🎉 Merged PR [#96](https://github.com//Videndum/Smartcloud/pull/96) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

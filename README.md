@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com//Videndum/manage-github-secrets/pull/20) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-2. 💪 Opened PR [#20](https://github.com//Videndum/manage-github-secrets/pull/20) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-3. 🎉 Merged PR [#22](https://github.com//TGTGamer/devspace/pull/22) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-4. 🎉 Merged PR [#20](https://github.com//TGTGamer/devspace/pull/20) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-5. 🎉 Merged PR [#21](https://github.com//TGTGamer/devspace/pull/21) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+1. 🎉 Merged PR [#21](https://github.com//Videndum/manage-github-secrets/pull/21) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+2. 🎉 Merged PR [#23](https://github.com//TGTGamer/devspace/pull/23) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+3. 🎉 Merged PR [#25](https://github.com//TGTGamer/devspace/pull/25) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+4. 🎉 Merged PR [#26](https://github.com//TGTGamer/devspace/pull/26) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+5. 🎉 Merged PR [#24](https://github.com//TGTGamer/devspace/pull/24) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

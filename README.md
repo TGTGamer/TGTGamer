@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com//Videndum/Universal-GitAction-Workflows/pull/168) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-2. 🎉 Merged PR [#29](https://github.com//TGTGamer/devspace/pull/29) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-3. 🎉 Merged PR [#28](https://github.com//TGTGamer/devspace/pull/28) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-4. 🎉 Merged PR [#30](https://github.com//TGTGamer/devspace/pull/30) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
-5. 🎉 Merged PR [#27](https://github.com//TGTGamer/devspace/pull/27) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+1. ❗️ Opened issue [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. 💪 Opened PR [#168](https://github.com//Videndum/Universal-GitAction-Workflows/pull/168) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+3. 🎉 Merged PR [#29](https://github.com//TGTGamer/devspace/pull/29) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+4. 🎉 Merged PR [#28](https://github.com//TGTGamer/devspace/pull/28) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
+5. 🎉 Merged PR [#30](https://github.com//TGTGamer/devspace/pull/30) in [TGTGamer/devspace](https://github.com//TGTGamer/devspace)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

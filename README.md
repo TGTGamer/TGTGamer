@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com//teepsdonnelly/debt-collector/pull/7) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-2. ❌ Closed PR [#1](https://github.com//TGTGamer/debt-collector/pull/1) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-3. ❌ Closed PR [#168](https://github.com//Videndum/Universal-GitAction-Workflows/pull/168) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-4. 🎉 Merged PR [#172](https://github.com//Videndum/Universal-GitAction-Workflows/pull/172) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-5. 🎉 Merged PR [#171](https://github.com//Videndum/Universal-GitAction-Workflows/pull/171) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+1. 🎉 Merged PR [#5](https://github.com//TGTGamer/debt-collector/pull/5) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+2. 💪 Opened PR [#5](https://github.com//TGTGamer/debt-collector/pull/5) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+3. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+4. 🎉 Merged PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. 💪 Opened PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

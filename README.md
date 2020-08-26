@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com//IvanFon/super-labeler-action/issues/7) in [IvanFon/super-labeler-action](https://github.com//IvanFon/super-labeler-action)
-2. ❗️ Opened issue [#220](https://github.com//robvanderleek/create-issue-branch/issues/220) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-3. ❗️ Opened issue [#219](https://github.com//robvanderleek/create-issue-branch/issues/219) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-4. 🗣 Commented on [#142](https://github.com//robvanderleek/create-issue-branch/issues/142) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-5. 🎉 Merged PR [#110](https://github.com//Videndum/Smartcloud/pull/110) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 💪 Opened PR [#7](https://github.com//teepsdonnelly/debt-collector/pull/7) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+2. ❌ Closed PR [#1](https://github.com//TGTGamer/debt-collector/pull/1) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+3. ❌ Closed PR [#168](https://github.com//Videndum/Universal-GitAction-Workflows/pull/168) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+4. 🎉 Merged PR [#172](https://github.com//Videndum/Universal-GitAction-Workflows/pull/172) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+5. 🎉 Merged PR [#171](https://github.com//Videndum/Universal-GitAction-Workflows/pull/171) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

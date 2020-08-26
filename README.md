@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#220](https://github.com//robvanderleek/create-issue-branch/issues/220) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-2. ❗️ Opened issue [#219](https://github.com//robvanderleek/create-issue-branch/issues/219) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-3. 🗣 Commented on [#142](https://github.com//robvanderleek/create-issue-branch/issues/142) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
-4. 🎉 Merged PR [#110](https://github.com//Videndum/Smartcloud/pull/110) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-5. ❗️ Closed issue [#109](https://github.com//Videndum/Smartcloud/issues/109) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 🗣 Commented on [#7](https://github.com//IvanFon/super-labeler-action/issues/7) in [IvanFon/super-labeler-action](https://github.com//IvanFon/super-labeler-action)
+2. ❗️ Opened issue [#220](https://github.com//robvanderleek/create-issue-branch/issues/220) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
+3. ❗️ Opened issue [#219](https://github.com//robvanderleek/create-issue-branch/issues/219) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
+4. 🗣 Commented on [#142](https://github.com//robvanderleek/create-issue-branch/issues/142) in [robvanderleek/create-issue-branch](https://github.com//robvanderleek/create-issue-branch)
+5. 🎉 Merged PR [#110](https://github.com//Videndum/Smartcloud/pull/110) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

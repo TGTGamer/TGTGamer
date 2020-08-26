@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//TGTGamer/debt-collector/pull/5) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-2. 💪 Opened PR [#5](https://github.com//TGTGamer/debt-collector/pull/5) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+1. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+2. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 3. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-4. 🎉 Merged PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. 💪 Opened PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+4. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

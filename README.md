@@ -35,9 +35,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 2. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-3. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-4. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+3. ❗️ Closed issue [#7](https://github.com//TGTGamer/debt-collector/issues/7) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+4. 🗣 Commented on [#7](https://github.com//TGTGamer/debt-collector/issues/7) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. ❗️ Closed issue [#6](https://github.com//TGTGamer/debt-collector/issues/6) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

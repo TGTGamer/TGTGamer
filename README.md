@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com//teepsdonnelly/debt-collector/issues/8) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-2. 💪 Opened PR [#25](https://github.com//TGTGamer/debt-collector/pull/25) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-3. ❌ Closed PR [#21](https://github.com//TGTGamer/debt-collector/pull/21) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-4. ❌ Closed PR [#24](https://github.com//TGTGamer/debt-collector/pull/24) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. 💪 Opened PR [#24](https://github.com//TGTGamer/debt-collector/pull/24) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+1. 💪 Opened PR [#114](https://github.com//Videndum/Smartcloud/pull/114) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. ❗️ Opened issue [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. 🗣 Commented on [#8](https://github.com//teepsdonnelly/debt-collector/issues/8) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+4. 💪 Opened PR [#25](https://github.com//TGTGamer/debt-collector/pull/25) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. ❌ Closed PR [#21](https://github.com//TGTGamer/debt-collector/pull/21) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

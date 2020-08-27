@@ -33,9 +33,9 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com//peter-evans/slash-command-dispatch/issues/73) in [peter-evans/slash-command-dispatch](https://github.com//peter-evans/slash-command-dispatch)
-2. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-3. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. ❗️ Closed issue [#156](https://github.com//Videndum/Universal-GitAction-Workflows/issues/156) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+2. 🗣 Commented on [#156](https://github.com//Videndum/Universal-GitAction-Workflows/issues/156) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+3. 🗣 Commented on [#73](https://github.com//peter-evans/slash-command-dispatch/issues/73) in [peter-evans/slash-command-dispatch](https://github.com//peter-evans/slash-command-dispatch)
 4. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 5. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->

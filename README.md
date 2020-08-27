@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-2. ❗️ Opened issue [#23](https://github.com//IvanFon/super-labeler-action/issues/23) in [IvanFon/super-labeler-action](https://github.com//IvanFon/super-labeler-action)
-3. 💪 Opened PR [#115](https://github.com//Videndum/Smartcloud/pull/115) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. ❌ Closed PR [#114](https://github.com//Videndum/Smartcloud/pull/114) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-5. 💪 Opened PR [#114](https://github.com//Videndum/Smartcloud/pull/114) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. 🗣 Commented on [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+5. 🗣 Commented on [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

@@ -33,11 +33,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com//TGTGamer/debt-collector/pull/18) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-2. 🗣 Commented on [#8](https://github.com//teepsdonnelly/debt-collector/issues/8) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-3. 💪 Opened PR [#8](https://github.com//teepsdonnelly/debt-collector/pull/8) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-4. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. 🗣 Commented on [#3](https://github.com//TGTGamer/debt-collector/issues/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+1. 🗣 Commented on [#8](https://github.com//teepsdonnelly/debt-collector/issues/8) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+2. 💪 Opened PR [#25](https://github.com//TGTGamer/debt-collector/pull/25) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+3. ❌ Closed PR [#21](https://github.com//TGTGamer/debt-collector/pull/21) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+4. ❌ Closed PR [#24](https://github.com//TGTGamer/debt-collector/pull/24) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. 💪 Opened PR [#24](https://github.com//TGTGamer/debt-collector/pull/24) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->

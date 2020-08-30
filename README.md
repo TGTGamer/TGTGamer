@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-2. ❌ Closed PR [#13](https://github.com//teepsdonnelly/debt-collector/pull/13) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-3. 💪 Opened PR [#13](https://github.com//teepsdonnelly/debt-collector/pull/13) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
-4. 🎉 Merged PR [#3](https://github.com//TGTGamer/debt-collector/pull/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. 💪 Opened PR [#3](https://github.com//TGTGamer/debt-collector/pull/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+1. ❗️ Reopened issue [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. ❗️ Closed issue [#104](https://github.com//Videndum/Smartcloud/issues/104) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. ❗️ Closed issue [#103](https://github.com//Videndum/Smartcloud/issues/103) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. ❗️ Closed issue [#102](https://github.com//Videndum/Smartcloud/issues/102) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+5. ❗️ Closed issue [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

@@ -1,6 +1,8 @@
 <img align="right" href="https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&redirect=true" src="https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true">
 
 # Hi there 👋
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTGTGamer%2FTGTGamer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTGTGamer%2FTGTGamer?ref=badge_shield)
+
 
 ╔═══►⠀⠀🇯 🇴 🇳 🇦 🇹 🇭 🇦 🇳\
 ╠════►⠀⠀ᴍ ᴀ ʟ ᴇ ⠀ • ⠀ 🇬 🇦 🇾 ⠀ • ⠀ s ɪ ɴ ɢ ʟ ᴇ\
@@ -119,3 +121,7 @@ TypeScript               1 repos             █████░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTGTGamer%2FTGTGamer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTGTGamer%2FTGTGamer?ref=badge_large)

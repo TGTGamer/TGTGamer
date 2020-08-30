@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com//Videndum/super-labeler-action/pull/2) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
-2. ❌ Closed PR [#1](https://github.com//TGTGamer/super-labeler-action/pull/1) in [TGTGamer/super-labeler-action](https://github.com//TGTGamer/super-labeler-action)
-3. ❌ Closed PR [#1](https://github.com//TGTGamer/debt-collector/pull/1) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-4. ❌ Closed PR [#1](https://github.com//Videndum/debt-collector/pull/1) in [Videndum/debt-collector](https://github.com//Videndum/debt-collector)
-5. 🗣 Commented on [#9](https://github.com//teepsdonnelly/debt-collector/issues/9) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+1. 💪 Opened PR [#3](https://github.com//Videndum/super-labeler-action/pull/3) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
+2. ❌ Closed PR [#2](https://github.com//Videndum/super-labeler-action/pull/2) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
+3. ❌ Closed PR [#1](https://github.com//TGTGamer/super-labeler-action/pull/1) in [TGTGamer/super-labeler-action](https://github.com//TGTGamer/super-labeler-action)
+4. ❌ Closed PR [#1](https://github.com//TGTGamer/debt-collector/pull/1) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. ❌ Closed PR [#1](https://github.com//Videndum/debt-collector/pull/1) in [Videndum/debt-collector](https://github.com//Videndum/debt-collector)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

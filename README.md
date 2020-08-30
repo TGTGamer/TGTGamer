@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-2. ❌ Closed PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-3. 💪 Opened PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. ❗️ Closed issue [#23](https://github.com//IvanFon/super-labeler-action/issues/23) in [IvanFon/super-labeler-action](https://github.com//IvanFon/super-labeler-action)
-5. 🗣 Commented on [#3](https://github.com//Videndum/super-labeler-action/issues/3) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
+1. 🎉 Merged PR [#173](https://github.com//Videndum/Universal-GitAction-Workflows/pull/173) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+2. 💪 Opened PR [#173](https://github.com//Videndum/Universal-GitAction-Workflows/pull/173) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
+3. 🎉 Merged PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. 💪 Opened PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+5. ❌ Closed PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

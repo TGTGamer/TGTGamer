@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#173](https://github.com//Videndum/Universal-GitAction-Workflows/pull/173) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-2. 💪 Opened PR [#173](https://github.com//Videndum/Universal-GitAction-Workflows/pull/173) in [Videndum/Universal-GitAction-Workflows](https://github.com//Videndum/Universal-GitAction-Workflows)
-3. 🎉 Merged PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. 💪 Opened PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-5. ❌ Closed PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 💪 Opened PR [#4](https://github.com//TGTGamer/debt-collector/pull/4) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+2. ❌ Closed PR [#13](https://github.com//teepsdonnelly/debt-collector/pull/13) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+3. 💪 Opened PR [#13](https://github.com//teepsdonnelly/debt-collector/pull/13) in [teepsdonnelly/debt-collector](https://github.com//teepsdonnelly/debt-collector)
+4. 🎉 Merged PR [#3](https://github.com//TGTGamer/debt-collector/pull/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
+5. 💪 Opened PR [#3](https://github.com//TGTGamer/debt-collector/pull/3) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

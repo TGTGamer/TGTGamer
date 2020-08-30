@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com//Videndum/super-labeler-action/pull/3) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
-2. ❌ Closed PR [#2](https://github.com//Videndum/super-labeler-action/pull/2) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
-3. ❌ Closed PR [#1](https://github.com//TGTGamer/super-labeler-action/pull/1) in [TGTGamer/super-labeler-action](https://github.com//TGTGamer/super-labeler-action)
-4. ❌ Closed PR [#1](https://github.com//TGTGamer/debt-collector/pull/1) in [TGTGamer/debt-collector](https://github.com//TGTGamer/debt-collector)
-5. ❌ Closed PR [#1](https://github.com//Videndum/debt-collector/pull/1) in [Videndum/debt-collector](https://github.com//Videndum/debt-collector)
+1. 💪 Opened PR [#119](https://github.com//Videndum/Smartcloud/pull/119) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+2. ❌ Closed PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. 💪 Opened PR [#118](https://github.com//Videndum/Smartcloud/pull/118) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. ❗️ Closed issue [#23](https://github.com//IvanFon/super-labeler-action/issues/23) in [IvanFon/super-labeler-action](https://github.com//IvanFon/super-labeler-action)
+5. 🗣 Commented on [#3](https://github.com//Videndum/super-labeler-action/issues/3) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

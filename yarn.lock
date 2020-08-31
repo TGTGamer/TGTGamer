@@ -881,10 +881,17 @@
     core-js-pure "^3.0.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.1", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.1", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
+"@babel/runtime@^7.10.2", "@babel/runtime@^7.10.3", "@babel/runtime@^7.3.1", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
   version "7.10.5"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.10.5.tgz#303d8bd440ecd5a491eae6117fd3367698674c5c"
   integrity sha512-otddXKhdNn7d0ptoFRHtMLa8LqDxLYwTjB4nYgM1yy5N6gU/MUf8zqyyLltCH3yAVitBzmwK4us+DD0l/MauAg==
+  dependencies:
+    regenerator-runtime "^0.13.4"
+
+"@babel/runtime@^7.11.0":
+  version "7.11.2"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.11.2.tgz#f549c13c754cc40b87644b9fa9f09a6a95fe0736"
+  integrity sha512-TeWkU52so0mPtDcaCTxNBI/IHiz0pZgr8VEFqXFtZWpYD08ZB6FaSwVAS8MKRQAP3bYKiVjwysOJgMFY28o6Tw==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -5666,12 +5673,12 @@ gatsby-plugin-typescript@^2.4.14, gatsby-plugin-typescript@^2.4.16:
     "@babel/runtime" "^7.10.3"
     babel-plugin-remove-graphql-queries "^2.9.15"
 
-gatsby-plugin-webpack-bundle-analyser-v2@^1.1.10:
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-webpack-bundle-analyser-v2/-/gatsby-plugin-webpack-bundle-analyser-v2-1.1.10.tgz#756ad6c7e01387d6044a26d7f7f6821a8e31f49a"
-  integrity sha512-VQtMIRcflAlMpauQZy/VnCb5SzTWhYw1jKZaVwAm+oaIdHav8xCAyg9hoQ849x46dUdk8/H3dnz5U6h+Z2MbLA==
+gatsby-plugin-webpack-bundle-analyser-v2@^1.1.11:
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-webpack-bundle-analyser-v2/-/gatsby-plugin-webpack-bundle-analyser-v2-1.1.12.tgz#b57542f5a7b51c600a8587c45cc187b67ad91f9d"
+  integrity sha512-lROCkLOKZJLqOm9kuffVKYRA9bWmedBn0YXdzjEZXVg+W18TmvvP2c4v9Dln+EHW5NHmuD3xNE9njOmHlB9lmw==
   dependencies:
-    "@babel/runtime" "^7.10.1"
+    "@babel/runtime" "^7.11.0"
     webpack-bundle-analyzer "^3.8.0"
 
 gatsby-react-router-scroll@^3.0.12:

@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-2. ❗️ Closed issue [#104](https://github.com//Videndum/Smartcloud/issues/104) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-3. ❗️ Closed issue [#103](https://github.com//Videndum/Smartcloud/issues/103) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. ❗️ Closed issue [#102](https://github.com//Videndum/Smartcloud/issues/102) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-5. ❗️ Closed issue [#98](https://github.com//Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+1. 🎉 Merged PR [#30](https://github.com//Videndum/manage-github-secrets/pull/30) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+2. 💪 Opened PR [#129](https://github.com//Videndum/Smartcloud/pull/129) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+3. ❗️ Closed issue [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
+4. ❌ Closed PR [#6](https://github.com//Videndum/super-labeler-action/pull/6) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
+5. ❌ Closed PR [#5](https://github.com//Videndum/super-labeler-action/pull/5) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

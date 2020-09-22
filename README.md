@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com//Videndum/manage-github-secrets/pull/30) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-2. 💪 Opened PR [#129](https://github.com//Videndum/Smartcloud/pull/129) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-3. ❗️ Closed issue [#113](https://github.com//Videndum/Smartcloud/issues/113) in [Videndum/Smartcloud](https://github.com//Videndum/Smartcloud)
-4. ❌ Closed PR [#6](https://github.com//Videndum/super-labeler-action/pull/6) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
-5. ❌ Closed PR [#5](https://github.com//Videndum/super-labeler-action/pull/5) in [Videndum/super-labeler-action](https://github.com//Videndum/super-labeler-action)
+1. 🎉 Merged PR [#44](https://github.com//Videndum/manage-github-secrets/pull/44) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+2. 🗣 Commented on [#44](https://github.com//Videndum/manage-github-secrets/issues/44) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+3. ❗️ Closed issue [#16](https://github.com//Videndum/manage-github-secrets/issues/16) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+4. ❗️ Closed issue [#15](https://github.com//Videndum/manage-github-secrets/issues/15) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+5. ❗️ Closed issue [#14](https://github.com//Videndum/manage-github-secrets/issues/14) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com//Videndum/manage-github-secrets/pull/44) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-2. 🗣 Commented on [#44](https://github.com//Videndum/manage-github-secrets/issues/44) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-3. ❗️ Closed issue [#16](https://github.com//Videndum/manage-github-secrets/issues/16) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-4. ❗️ Closed issue [#15](https://github.com//Videndum/manage-github-secrets/issues/15) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
-5. ❗️ Closed issue [#14](https://github.com//Videndum/manage-github-secrets/issues/14) in [Videndum/manage-github-secrets](https://github.com//Videndum/manage-github-secrets)
+1. 🎉 Merged PR [#44](https://github.com/Videndum/manage-github-secrets/pull/44) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+2. 🗣 Commented on [#44](https://github.com/Videndum/manage-github-secrets/issues/44) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+3. ❗️ Closed issue [#16](https://github.com/Videndum/manage-github-secrets/issues/16) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+4. ❗️ Closed issue [#15](https://github.com/Videndum/manage-github-secrets/issues/15) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+5. ❗️ Closed issue [#14](https://github.com/Videndum/manage-github-secrets/issues/14) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

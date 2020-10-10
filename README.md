@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Videndum/manage-github-secrets/pull/55) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-2. 🎉 Merged PR [#54](https://github.com/Videndum/manage-github-secrets/pull/54) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-3. 🎉 Merged PR [#50](https://github.com/Videndum/manage-github-secrets/pull/50) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-4. ❌ Closed PR [#4](https://github.com/Videndum/super-labeler-action/pull/4) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-5. 🎉 Merged PR [#53](https://github.com/Videndum/manage-github-secrets/pull/53) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+1. 🗣 Commented on [#56](https://github.com/Videndum/manage-github-secrets/issues/56) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+2. 🎉 Merged PR [#55](https://github.com/Videndum/manage-github-secrets/pull/55) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+3. 🎉 Merged PR [#54](https://github.com/Videndum/manage-github-secrets/pull/54) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+4. 🎉 Merged PR [#50](https://github.com/Videndum/manage-github-secrets/pull/50) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+5. ❌ Closed PR [#4](https://github.com/Videndum/super-labeler-action/pull/4) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

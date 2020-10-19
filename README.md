@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/Videndum/manage-github-secrets/pull/57) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-2. 💪 Opened PR [#24](https://github.com/IvanFon/super-labeler-action/pull/24) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-3. ❗️ Opened issue [#7](https://github.com/Videndum/super-labeler-action/issues/7) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-4. 🗣 Commented on [#56](https://github.com/Videndum/manage-github-secrets/issues/56) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-5. 🎉 Merged PR [#55](https://github.com/Videndum/manage-github-secrets/pull/55) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+1. 🎉 Merged PR [#59](https://github.com/Videndum/manage-github-secrets/pull/59) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+2. 🎉 Merged PR [#57](https://github.com/Videndum/manage-github-secrets/pull/57) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+3. 💪 Opened PR [#24](https://github.com/IvanFon/super-labeler-action/pull/24) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+4. ❗️ Opened issue [#7](https://github.com/Videndum/super-labeler-action/issues/7) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+5. 🗣 Commented on [#56](https://github.com/Videndum/manage-github-secrets/issues/56) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

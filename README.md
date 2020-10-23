@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/IvanFon/super-labeler-action/issues/24) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-2. 🎉 Merged PR [#61](https://github.com/Videndum/manage-github-secrets/pull/61) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-3. 🎉 Merged PR [#59](https://github.com/Videndum/manage-github-secrets/pull/59) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-4. 🎉 Merged PR [#57](https://github.com/Videndum/manage-github-secrets/pull/57) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-5. 💪 Opened PR [#24](https://github.com/IvanFon/super-labeler-action/pull/24) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+1. ❌ Closed PR [#129](https://github.com/Videndum/Smartcloud/pull/129) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
+2. 🎉 Merged PR [#64](https://github.com/Videndum/manage-github-secrets/pull/64) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+3. 🎉 Merged PR [#60](https://github.com/Videndum/manage-github-secrets/pull/60) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+4. 🗣 Commented on [#24](https://github.com/IvanFon/super-labeler-action/issues/24) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+5. 🎉 Merged PR [#61](https://github.com/Videndum/manage-github-secrets/pull/61) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

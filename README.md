@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/Videndum/manage-github-secrets/pull/70) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-2. 🎉 Merged PR [#69](https://github.com/Videndum/manage-github-secrets/pull/69) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-3. 🎉 Merged PR [#67](https://github.com/Videndum/manage-github-secrets/pull/67) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-4. ❌ Closed PR [#129](https://github.com/Videndum/Smartcloud/pull/129) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
-5. 🎉 Merged PR [#64](https://github.com/Videndum/manage-github-secrets/pull/64) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+1. 🎉 Merged PR [#62](https://github.com/Videndum/manage-github-secrets/pull/62) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+2. 🎉 Merged PR [#71](https://github.com/Videndum/manage-github-secrets/pull/71) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+3. 🎉 Merged PR [#70](https://github.com/Videndum/manage-github-secrets/pull/70) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+4. 🎉 Merged PR [#69](https://github.com/Videndum/manage-github-secrets/pull/69) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+5. 🎉 Merged PR [#67](https://github.com/Videndum/manage-github-secrets/pull/67) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

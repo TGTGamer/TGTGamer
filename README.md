@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#98](https://github.com/Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
-2. 💪 Opened PR [#145](https://github.com/Videndum/Smartcloud/pull/145) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
-3. 🎉 Merged PR [#144](https://github.com/Videndum/Smartcloud/pull/144) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
-4. 🎉 Merged PR [#187](https://github.com/Videndum/Universal-GitAction-Workflows/pull/187) in [Videndum/Universal-GitAction-Workflows](https://github.com/Videndum/Universal-GitAction-Workflows)
-5. ❗️ Closed issue [#157](https://github.com/Videndum/Universal-GitAction-Workflows/issues/157) in [Videndum/Universal-GitAction-Workflows](https://github.com/Videndum/Universal-GitAction-Workflows)
+1. 🗣 Commented on [#26](https://github.com/wip/action/issues/26) in [wip/action](https://github.com/wip/action)
+2. 🎉 Merged PR [#143](https://github.com/Videndum/Smartcloud/pull/143) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
+3. 🗣 Commented on [#98](https://github.com/Videndum/Smartcloud/issues/98) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
+4. 💪 Opened PR [#145](https://github.com/Videndum/Smartcloud/pull/145) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
+5. 🎉 Merged PR [#144](https://github.com/Videndum/Smartcloud/pull/144) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

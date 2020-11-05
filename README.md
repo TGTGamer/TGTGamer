@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-2. 🗣 Commented on [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-3. 🎉 Merged PR [#9](https://github.com/Videndum/super-labeler-action/pull/9) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-4. ❗️ Closed issue [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-5. 🎉 Merged PR [#148](https://github.com/Videndum/Smartcloud/pull/148) in [Videndum/Smartcloud](https://github.com/Videndum/Smartcloud)
+1. 🎉 Merged PR [#189](https://github.com/Videndum/Universal-GitAction-Workflows/pull/189) in [Videndum/Universal-GitAction-Workflows](https://github.com/Videndum/Universal-GitAction-Workflows)
+2. ❗️ Closed issue [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+3. 🗣 Commented on [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+4. ❗️ Reopened issue [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+5. 🗣 Commented on [#8](https://github.com/Videndum/super-labeler-action/issues/8) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

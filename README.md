@@ -25,11 +25,11 @@
 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/ming-tsai/ming-tsai/pull/16) in [ming-tsai/ming-tsai](https://github.com/ming-tsai/ming-tsai)
-2. 💪 Opened PR [#78](https://github.com/Videndum/manage-github-secrets/pull/78) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-3. ❌ Closed PR [#15](https://github.com/Videndum/super-labeler-action/pull/15) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-4. 💪 Opened PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-5. ❌ Closed PR [#13](https://github.com/Videndum/super-labeler-action/pull/13) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+1. 🗣 Commented on [#25](https://github.com/IvanFon/super-labeler-action/issues/25) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+2. 💪 Opened PR [#16](https://github.com/ming-tsai/ming-tsai/pull/16) in [ming-tsai/ming-tsai](https://github.com/ming-tsai/ming-tsai)
+3. 💪 Opened PR [#78](https://github.com/Videndum/manage-github-secrets/pull/78) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+4. ❌ Closed PR [#15](https://github.com/Videndum/super-labeler-action/pull/15) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+5. 💪 Opened PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
 
 **Sporadic blogging**

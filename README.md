@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/IvanFon/super-labeler-action/issues/25) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-2. 💪 Opened PR [#16](https://github.com/ming-tsai/ming-tsai/pull/16) in [ming-tsai/ming-tsai](https://github.com/ming-tsai/ming-tsai)
-3. 💪 Opened PR [#78](https://github.com/Videndum/manage-github-secrets/pull/78) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-4. ❌ Closed PR [#15](https://github.com/Videndum/super-labeler-action/pull/15) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-5. 💪 Opened PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+1. ❗️ Closed issue [#4](https://github.com/TGTGamer/TGTGamer/issues/4) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+2. ❗️ Closed issue [#3](https://github.com/TGTGamer/TGTGamer/issues/3) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+3. ❌ Closed PR [#6](https://github.com/TGTGamer/TGTGamer/pull/6) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+4. ❌ Closed PR [#5](https://github.com/TGTGamer/TGTGamer/pull/5) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+5. 🗣 Commented on [#25](https://github.com/IvanFon/super-labeler-action/issues/25) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
 <!--END_SECTION:activity-->
 
 </details>

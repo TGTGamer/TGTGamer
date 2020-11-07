@@ -24,6 +24,7 @@
 
 <details>
   <summary><b>Activity</b></summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25](https://github.com/IvanFon/super-labeler-action/issues/25) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
 2. 💪 Opened PR [#16](https://github.com/ming-tsai/ming-tsai/pull/16) in [ming-tsai/ming-tsai](https://github.com/ming-tsai/ming-tsai)
@@ -31,6 +32,7 @@
 4. ❌ Closed PR [#15](https://github.com/Videndum/super-labeler-action/pull/15) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
 5. 💪 Opened PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>

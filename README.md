@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-2. 🎉 Merged PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-3. ❗️ Closed issue [#11](https://github.com/Videndum/super-labeler-action/issues/11) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-4. ❗️ Closed issue [#4](https://github.com/TGTGamer/TGTGamer/issues/4) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-5. ❗️ Closed issue [#3](https://github.com/TGTGamer/TGTGamer/issues/3) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+1. ❌ Closed PR [#451](https://github.com/sdras/awesome-actions/pull/451) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+2. ❗️ Opened issue [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+3. 🎉 Merged PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+4. ❗️ Closed issue [#11](https://github.com/Videndum/super-labeler-action/issues/11) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+5. ❗️ Closed issue [#4](https://github.com/TGTGamer/TGTGamer/issues/4) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 <!--END_SECTION:activity-->
 
 </details>

@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#191](https://github.com/Videndum/Universal-GitAction-Workflows/issues/191) in [Videndum/Universal-GitAction-Workflows](https://github.com/Videndum/Universal-GitAction-Workflows)
-2. ❗️ Opened issue [#16](https://github.com/Videndum/super-labeler-action/issues/16) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-3. ❌ Closed PR [#451](https://github.com/sdras/awesome-actions/pull/451) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-4. ❗️ Opened issue [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-5. 🎉 Merged PR [#14](https://github.com/Videndum/super-labeler-action/pull/14) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+1. 💪 Opened PR [#17](https://github.com/Videndum/super-labeler-action/pull/17) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+2. ❗️ Opened issue [#191](https://github.com/Videndum/Universal-GitAction-Workflows/issues/191) in [Videndum/Universal-GitAction-Workflows](https://github.com/Videndum/Universal-GitAction-Workflows)
+3. ❗️ Opened issue [#16](https://github.com/Videndum/super-labeler-action/issues/16) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+4. ❌ Closed PR [#451](https://github.com/sdras/awesome-actions/pull/451) in [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
+5. ❗️ Opened issue [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
 <!--END_SECTION:activity-->
 
 </details>

@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/Videndum/super-labeler-action/pull/19) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
-2. ❌ Closed PR [#27](https://github.com/IvanFon/super-labeler-action/pull/27) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-3. 🗣 Commented on [#27](https://github.com/IvanFon/super-labeler-action/issues/27) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-4. 💪 Opened PR [#27](https://github.com/IvanFon/super-labeler-action/pull/27) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-5. 🗣 Commented on [#17](https://github.com/Videndum/super-labeler-action/issues/17) in [Videndum/super-labeler-action](https://github.com/Videndum/super-labeler-action)
+1. 🗣 Commented on [#25](https://github.com/IvanFon/super-labeler-action/issues/25) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+2. 🗣 Commented on [#18](https://github.com/IvanFon/super-labeler-action/issues/18) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+3. 🗣 Commented on [#20](https://github.com/IvanFon/super-labeler-action/issues/20) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+4. 🗣 Commented on [#21](https://github.com/IvanFon/super-labeler-action/issues/21) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+5. 🗣 Commented on [#22](https://github.com/IvanFon/super-labeler-action/issues/22) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
 <!--END_SECTION:activity-->
 
 </details>

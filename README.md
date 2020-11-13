@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Videndum/label-mastermind/issues/3) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-2. ❗️ Opened issue [#2](https://github.com/Videndum/label-mastermind/issues/2) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-3. 🎉 Merged PR [#78](https://github.com/Videndum/manage-github-secrets/pull/78) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-4. 🎉 Merged PR [#79](https://github.com/Videndum/manage-github-secrets/pull/79) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
-5. 🎉 Merged PR [#76](https://github.com/Videndum/manage-github-secrets/pull/76) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+1. 💪 Opened PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+2. ❗️ Opened issue [#3](https://github.com/Videndum/label-mastermind/issues/3) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+3. ❗️ Opened issue [#2](https://github.com/Videndum/label-mastermind/issues/2) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+4. 🎉 Merged PR [#78](https://github.com/Videndum/manage-github-secrets/pull/78) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
+5. 🎉 Merged PR [#79](https://github.com/Videndum/manage-github-secrets/pull/79) in [Videndum/manage-github-secrets](https://github.com/Videndum/manage-github-secrets)
 <!--END_SECTION:activity-->
 
 </details>

@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-2. ❗️ Opened issue [#13124](https://github.com/storybookjs/storybook/issues/13124) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 💪 Opened PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-4. ❗️ Opened issue [#3](https://github.com/Videndum/label-mastermind/issues/3) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-5. ❗️ Opened issue [#2](https://github.com/Videndum/label-mastermind/issues/2) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+1. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+2. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+3. 🎉 Merged PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+4. ❗️ Opened issue [#13124](https://github.com/storybookjs/storybook/issues/13124) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 💪 Opened PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
 <!--END_SECTION:activity-->
 
 </details>

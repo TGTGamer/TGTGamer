@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
-2. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
-3. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-4. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-5. 🎉 Merged PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+1. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+2. ❗️ Closed issue [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+3. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+4. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+5. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
 <!--END_SECTION:activity-->
 
 </details>

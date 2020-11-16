@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-2. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-3. 🎉 Merged PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-4. ❗️ Opened issue [#13124](https://github.com/storybookjs/storybook/issues/13124) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 💪 Opened PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+1. ❗️ Closed issue [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+2. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+3. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+4. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+5. 🎉 Merged PR [#4](https://github.com/Videndum/label-mastermind/pull/4) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
 <!--END_SECTION:activity-->
 
 </details>

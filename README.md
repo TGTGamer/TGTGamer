@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
-2. ❗️ Closed issue [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+1. 🎉 Merged PR [#1](https://github.com/Videndum/release-mastermind/pull/1) in [Videndum/release-mastermind](https://github.com/Videndum/release-mastermind)
+2. 💪 Opened PR [#1](https://github.com/Videndum/release-mastermind/pull/1) in [Videndum/release-mastermind](https://github.com/Videndum/release-mastermind)
 3. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
-4. 🎉 Merged PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
-5. 💪 Opened PR [#5](https://github.com/Videndum/label-mastermind/pull/5) in [Videndum/label-mastermind](https://github.com/Videndum/label-mastermind)
+4. ❗️ Closed issue [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
+5. 🗣 Commented on [#6](https://github.com/heinrichreimer/action-github-changelog-generator/issues/6) in [heinrichreimer/action-github-changelog-generator](https://github.com/heinrichreimer/action-github-changelog-generator)
 <!--END_SECTION:activity-->
 
 </details>

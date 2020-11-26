@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Videndum/action-masterminds/pull/12) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-2. 🎉 Merged PR [#11](https://github.com/Videndum/action-masterminds/pull/11) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-3. 💪 Opened PR [#11](https://github.com/Videndum/action-masterminds/pull/11) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-4. 🎉 Merged PR [#9](https://github.com/Videndum/action-masterminds/pull/9) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-5. 💪 Opened PR [#9](https://github.com/Videndum/action-masterminds/pull/9) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+1. ❗️ Opened issue [#15](https://github.com/Videndum/action-masterminds/issues/15) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+2. ❗️ Opened issue [#14](https://github.com/Videndum/action-masterminds/issues/14) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+3. ❗️ Opened issue [#13](https://github.com/Videndum/action-masterminds/issues/13) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+4. 🗣 Commented on [#7](https://github.com/Videndum/action-masterminds/issues/7) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+5. 🗣 Commented on [#6](https://github.com/Videndum/action-masterminds/issues/6) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
 <!--END_SECTION:activity-->
 
 </details>

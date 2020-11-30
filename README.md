@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
-2. 💪 Opened PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
-3. 💪 Opened PR [#3086](https://github.com/getsentry/sentry-javascript/pull/3086) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
-5. ❗️ Opened issue [#25](https://github.com/Videndum/action-masterminds/issues/25) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+1. 🗣 Commented on [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
+3. 💪 Opened PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
+4. 💪 Opened PR [#3086](https://github.com/getsentry/sentry-javascript/pull/3086) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+5. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
 <!--END_SECTION:activity-->
 
 </details>

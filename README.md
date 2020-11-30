@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
-2. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
-3. ❗️ Opened issue [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
-4. 🎉 Merged PR [#23](https://github.com/Videndum/action-masterminds/pull/23) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-5. ❗️ Closed issue [#22](https://github.com/Videndum/action-masterminds/issues/22) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+1. ❗️ Opened issue [#25](https://github.com/Videndum/action-masterminds/issues/25) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+2. 🎉 Merged PR [#24](https://github.com/Videndum/action-masterminds/pull/24) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+3. 💪 Opened PR [#24](https://github.com/Videndum/action-masterminds/pull/24) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+4. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
+5. 🗣 Commented on [#57](https://github.com/ottomated/CrewLink/issues/57) in [ottomated/CrewLink](https://github.com/ottomated/CrewLink)
 <!--END_SECTION:activity-->
 
 </details>

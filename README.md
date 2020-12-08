@@ -102,11 +102,6 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/Videndum/action-masterminds/pull/26) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-2. 💪 Opened PR [#26](https://github.com/Videndum/action-masterminds/pull/26) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-3. 🗣 Commented on [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
-5. 💪 Opened PR [#2](https://github.com/Videndum/utilities/pull/2) in [Videndum/utilities](https://github.com/Videndum/utilities)
 <!--END_SECTION:activity-->
 
 </details>

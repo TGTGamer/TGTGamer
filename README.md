@@ -149,7 +149,6 @@ TypeScript               1 repo              ████░░░░░░░�
 - [Answer by Jonathan Stevens for React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow/59941715#59941715)
 - [React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow)
 - [React WebkitAppRegion Warnings](https://stackoverflow.com/questions/59870837/react-webkitappregion-warnings)
-- [Express Server + Package Manager = TypeError: Circular structure](https://stackoverflow.com/questions/59830288/express-server-package-manager-typeerror-circular-structure)
 - [Hideout Menu](https://jonathanstevens.org/2019/11/13/hideout-menu/)
 - [Smode 01 – Red Particles](https://jonathanstevens.org/2019/10/31/smode-01-red-particles/)
 - [Notch 01 – Ball w/ line particles](https://jonathanstevens.org/2019/10/31/notch-01-ball-w-line-particles/)

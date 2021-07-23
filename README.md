@@ -102,11 +102,11 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-3. ❗️ Opened issue [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-4. ❗️ Opened issue [#4844](https://github.com/TownyAdvanced/Towny/issues/4844) in [TownyAdvanced/Towny](https://github.com/TownyAdvanced/Towny)
-5. 💪 Opened PR [#152](https://github.com/garagepoort/StaffPlusPlus/pull/152) in [garagepoort/StaffPlusPlus](https://github.com/garagepoort/StaffPlusPlus)
+1. 🗣 Commented on [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+2. ❗️ Opened issue [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+3. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+4. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+5. ❗️ Opened issue [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 6. ❗️ Closed issue [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)
 7. 🗣 Commented on [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)
 8. ❗️ Opened issue [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)

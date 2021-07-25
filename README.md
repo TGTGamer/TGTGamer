@@ -102,12 +102,12 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-2. ❗️ Opened issue [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
-3. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+1. 🎉 Merged PR [#76](https://github.com/Videndum/action-masterminds/pull/76) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+2. 🗣 Commented on [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
+3. ❗️ Opened issue [#166](https://github.com/Videndum/action-masterminds/issues/166) in [Videndum/action-masterminds](https://github.com/Videndum/action-masterminds)
 4. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-5. ❗️ Opened issue [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-6. ❗️ Closed issue [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)
+5. 🗣 Commented on [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+6. ❗️ Opened issue [#5581](https://github.com/discordjs/discord.js/issues/5581) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 7. 🗣 Commented on [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)
 8. ❗️ Opened issue [#5294](https://github.com/Zrips/CMI/issues/5294) in [Zrips/CMI](https://github.com/Zrips/CMI)
 9. ❗️ Closed issue [#45](https://github.com/Videndum/Minecraft-issue-tracking/issues/45) in [Videndum/Minecraft-issue-tracking](https://github.com/Videndum/Minecraft-issue-tracking)

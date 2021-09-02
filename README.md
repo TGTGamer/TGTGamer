@@ -144,13 +144,6 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Blogging & StackExchange</b></summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer by Jonathan Stevens for Fetch status on audio stream - HTTP Response](https://stackoverflow.com/questions/67752301/fetch-status-on-audio-stream-http-response/67757137#67757137)
-- [Fetch status on audio stream - HTTP Response](https://stackoverflow.com/questions/67752301/fetch-status-on-audio-stream-http-response)
-- [Correct usage of ORM in framework](https://stackoverflow.com/questions/65446243/correct-usage-of-orm-in-framework)
-- [Github Actions detect author_association](https://stackoverflow.com/questions/63188674/github-actions-detect-author-association)
-- [Answer by Jonathan Stevens for React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow/59941715#59941715)
-- [React styling - Overflow issues - Expo & Electron single workflow](https://stackoverflow.com/questions/59939824/react-styling-overflow-issues-expo-electron-single-workflow)
-- [React WebkitAppRegion Warnings](https://stackoverflow.com/questions/59870837/react-webkitappregion-warnings)
 - [Hideout Menu](https://jonathanstevens.org/2019/11/13/hideout-menu/)
 - [Smode 01 – Red Particles](https://jonathanstevens.org/2019/10/31/smode-01-red-particles/)
 - [Notch 01 – Ball w/ line particles](https://jonathanstevens.org/2019/10/31/notch-01-ball-w-line-particles/)
@@ -158,15 +151,8 @@ TypeScript               1 repo              ████░░░░░░░�
 - [Hedgehog](https://jonathanstevens.org/2019/10/09/hedgehog/)
 - [Heart Beat](https://jonathanstevens.org/2019/10/09/heart-beat/)
 - [D Major’s Logo](https://jonathanstevens.org/2019/10/08/d-majors-logo/)
-- [Dialogflow & Express -- Fulfilment](https://stackoverflow.com/questions/57964582/dialogflow-express-fulfilment)
 - [Establishment Website](https://jonathanstevens.org/2019/08/13/establishment-website/)
 - [New Website](https://jonathanstevens.org/2019/06/18/redesigned-website/)
 - [Reckoning 2019](https://jonathanstevens.org/2019/01/28/reckoning-2019/)
-- [Answer by Jonathan Stevens for SVG Changing specific colour - CSS & JS](https://stackoverflow.com/questions/51461082/svg-changing-specific-colour-css-js/51467484#51467484)
-- [SVG Changing specific colour - CSS & JS](https://stackoverflow.com/questions/51461082/svg-changing-specific-colour-css-js)
-- [Complex Wireframe to solid for use in Autodesk 2018](https://stackoverflow.com/questions/47948929/complex-wireframe-to-solid-for-use-in-autodesk-2018)
-- [Cookie based Redirection using Javascript](https://stackoverflow.com/questions/47686107/cookie-based-redirection-using-javascript)
-- [How to make the bot know if its messaged someone before? C# based SteamBot](https://stackoverflow.com/questions/44035406/how-to-make-the-bot-know-if-its-messaged-someone-before-c-sharp-based-steambot)
-- [How to convert fs:path to variable](https://stackoverflow.com/questions/43879791/how-to-convert-fspath-to-variable)
 <!-- BLOG-POST-LIST:END -->
 </details>

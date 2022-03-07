@@ -102,12 +102,12 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10611](https://github.com/hashicorp/terraform-provider-google/issues/10611) in [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google)
-2. 🎉 Merged PR [#26](https://github.com/Videndum/Eventiva/pull/26) in [Videndum/Eventiva](https://github.com/Videndum/Eventiva)
-3. 💪 Opened PR [#26](https://github.com/Videndum/Eventiva/pull/26) in [Videndum/Eventiva](https://github.com/Videndum/Eventiva)
-4. 🗣 Commented on [#10](https://github.com/sjwall/mdx-mermaid/issues/10) in [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid)
-5. ❗️ Opened issue [#10](https://github.com/sjwall/mdx-mermaid/issues/10) in [sjwall/mdx-mermaid](https://github.com/sjwall/mdx-mermaid)
-6. ❌ Closed PR [#15](https://github.com/Videndum/Eventiva/pull/15) in [Videndum/Eventiva](https://github.com/Videndum/Eventiva)
+1. ❌ Closed PR [#22](https://github.com/Resnovas/Eventiva/pull/22) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+2. ❌ Closed PR [#5](https://github.com/Resnovas/Eventiva/pull/5) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+3. ❌ Closed PR [#23](https://github.com/Resnovas/Eventiva/pull/23) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+4. ❌ Closed PR [#1](https://github.com/Resnovas/Eventiva/pull/1) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+5. 🎉 Merged PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+6. 💪 Opened PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
 7. 💪 Opened PR [#15](https://github.com/Videndum/Eventiva/pull/15) in [Videndum/Eventiva](https://github.com/Videndum/Eventiva)
 8. 🎉 Merged PR [#247](https://github.com/Videndum/smartcloud/pull/247) in [Videndum/smartcloud](https://github.com/Videndum/smartcloud)
 9. 🗣 Commented on [#11](https://github.com/Videndum/utilities/issues/11) in [Videndum/utilities](https://github.com/Videndum/utilities)

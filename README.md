@@ -102,13 +102,13 @@ TypeScript               1 repo              ████░░░░░░░�
   <summary><b>Activity</b></summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/Resnovas/Eventiva/pull/22) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-2. ❌ Closed PR [#5](https://github.com/Resnovas/Eventiva/pull/5) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-3. ❌ Closed PR [#23](https://github.com/Resnovas/Eventiva/pull/23) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-4. ❌ Closed PR [#1](https://github.com/Resnovas/Eventiva/pull/1) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-5. 🎉 Merged PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-6. 💪 Opened PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-7. 💪 Opened PR [#15](https://github.com/Videndum/Eventiva/pull/15) in [Videndum/Eventiva](https://github.com/Videndum/Eventiva)
+1. 🗣 Commented on [#3261](https://github.com/microsoft/rushstack/issues/3261) in [microsoft/rushstack](https://github.com/microsoft/rushstack)
+2. ❌ Closed PR [#22](https://github.com/Resnovas/Eventiva/pull/22) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+3. ❌ Closed PR [#5](https://github.com/Resnovas/Eventiva/pull/5) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+4. ❌ Closed PR [#23](https://github.com/Resnovas/Eventiva/pull/23) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+5. ❌ Closed PR [#1](https://github.com/Resnovas/Eventiva/pull/1) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+6. 🎉 Merged PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+7. 💪 Opened PR [#80](https://github.com/Resnovas/Eventiva/pull/80) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
 8. 🎉 Merged PR [#247](https://github.com/Videndum/smartcloud/pull/247) in [Videndum/smartcloud](https://github.com/Videndum/smartcloud)
 9. 🗣 Commented on [#11](https://github.com/Videndum/utilities/issues/11) in [Videndum/utilities](https://github.com/Videndum/utilities)
 10. ❗️ Closed issue [#671](https://github.com/prisma/language-tools/issues/671) in [prisma/language-tools](https://github.com/prisma/language-tools)

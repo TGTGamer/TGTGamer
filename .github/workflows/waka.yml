@@ -18,3 +18,10 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_LOC_CHART: false
           SHOW_LINES_OF_CODE: false
+      - uses: actions/setup-node@v1
+        with:
+            node-version: 12
+      - run: npx wakatime-to-toggl -w "$WAKATIME_API_KEY" -t "$TOGGL_API_KEY"
+        env:
+            TOGGL_API_KEY: '${{ secrets.TOGGL_API_KEY }}'
+            WAKATIME_API_KEY: '${{ secrets.WAKATIME_API_KEY }}'

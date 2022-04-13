@@ -15,4 +15,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 100
-          feed_list: 'http://jonathanstevens.org/news/feed/, 	http://stackoverflow.com/feeds/user/7988421'
+          feed_list: 'http://stackoverflow.com/feeds/user/7988421'

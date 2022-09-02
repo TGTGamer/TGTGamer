@@ -364,3 +364,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 * Add Cypress ([#16](https://github.com/LekoArts/gatsby-themes/issues/16)) ([ca0ed29](https://github.com/LekoArts/gatsby-themes/commit/ca0ed29)), closes [#10](https://github.com/LekoArts/gatsby-themes/issues/10)
 * Add gatsby-theme-cara ([#12](https://github.com/LekoArts/gatsby-themes/issues/12)) ([e798a7d](https://github.com/LekoArts/gatsby-themes/commit/e798a7d))
 * Add plop.js generators ([#26](https://github.com/LekoArts/gatsby-themes/issues/26)) ([95cf0ad](https://github.com/LekoArts/gatsby-themes/commit/95cf0ad)), closes [#25](https://github.com/LekoArts/gatsby-themes/issues/25)
+

@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7¢er=true&vCenter=true&width=435&lines=%3C+%F0%9F%91%8B+Hola%2C+World!+%3E;%3C+%F0%9F%91%8B+Hello%2C+World!+%3E;%3C+%F0%9F%91%8B+Bonjour%2C+World!+%3E;%3C+%F0%9F%91%8B+Welcome%2C+World+%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7¢er=true&vCenter=true&width=275&lines=%3C+%F0%9F%91%8B+Hola%2C+World!+%3E;%3C+%F0%9F%91%8B+Hello%2C+World!+%3E;%3C+%F0%9F%91%8B+Bonjour%2C+World!+%3E;%3C+%F0%9F%91%8B+Welcome%2C+World+%3E)](https://git.io/typing-svg)
 
 </div>  
   
@@ -11,26 +11,17 @@
 
 </div>  
   
-
-### I'm Jonathan, a full-time remote developer focusing on serverless infrastructure👨‍💻  
-  
-
-- 🔭 I’m currently working on [Eventiva](https://github.com/resnovas/eventiva) and [Zerdalab UX Projects](https://github.com/Zerdalab)  
-  
-
-- 🌱 I’m currently learning [Terraform](https://www.terraform.io/), [Mitosis](https://mitosis.builder.io/) and [Qwik](https://qwik.builder.io/)  
-  
-
-- ❓ Find me answering community coding questions in [The Coding Den](https://discord.com/invite/code) and [TypeScript Community](https://discord.gg/typescript)  
-  
-
 <div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>  
   
+###  I'm Jonathan, a full-time remote developer focusing on serverless infrastructure👨‍💻
 
+I’m currently working on [Eventiva](https://github.com/resnovas/eventiva) and [Zerdalab UX Projects](https://github.com/Zerdalab)  
+I’m currently learning [Terraform](https://www.terraform.io/), [Mitosis](https://mitosis.builder.io/) and [Qwik](https://qwik.builder.io/)  
+Find me answering community coding questions in [The Coding Den](https://discord.com/invite/code) and [TypeScript Community](https://discord.gg/typescript)  
+
+</div>
 <br/>  
+
 
 
 ## My Skill Set  
@@ -132,11 +123,13 @@
 
 
 ## Project Status  
-<!--<p align="center">
-    <img src=https://pagespeed-insights.herokuapp.com?url=github.com/TGTGamer/TGTGamer width="600px">
-</p>-->  
-  
 
+<p align="center">
+    <img src=https://pagespeed-insights.herokuapp.com?url=github.com/TGTGamer/TGTGamer width="600px">
+</p>
+  
+<div align="center">
+  
 [📈 Service Live Status](https://resnovas.github.io/Eventiva/): <!--live status--> **🟩 All systems operational**
 
 <!--start: status pages-->
@@ -150,7 +143,7 @@
 | <img alt="" src="https://icons.duckduckgo.com/ip3/null.ico" height="13"> DH1 Management | 🟩 Up | [dh-1-management.yml](https://github.com/Resnovas/Eventiva/commits/HEAD/history/dh-1-management.yml) | <details><summary><img alt="Response time graph" src="./graphs/dh-1-management/response-time-week.png" height="20"> 530ms</summary><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="Response time 495" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fresponse-time.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="24-hour response time 582" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fresponse-time-day.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="7-day response time 530" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fresponse-time-week.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="30-day response time 516" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fresponse-time-month.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="1-year response time 495" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fresponse-time-year.json"></a></details> | <details><summary><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management">100.00%</a></summary><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="All-time uptime 98.34%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fuptime.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="24-hour uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fuptime-day.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="7-day uptime 100.00%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fuptime-week.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="30-day uptime 96.86%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fuptime-month.json"></a><br><a href="https://Resnovas.github.io/Eventiva/history/dh-1-management"><img alt="1-year uptime 98.34%" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FResnovas%2FEventiva%2FHEAD%2Fapi%2Fdh-1-management%2Fuptime-year.json"></a></details>
 
 <!--end: status pages-->  
-  
+</div>    
 
 ###### <div align="center">Please note a majority of these are hosted on a local server in my office - so downtime expected 📶</div>  
   
@@ -159,7 +152,8 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
+<div align="center"><table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TGTGamer&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
@@ -167,7 +161,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGTGamer&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
-</td></tr></table>  
+</td></tr></table></div>  
 
 <br/>  
 
@@ -325,6 +319,3 @@ TypeScript               1 repo              ████░░░░░░░�
 <!-- BLOG-POST-LIST:END -->  
 </details>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

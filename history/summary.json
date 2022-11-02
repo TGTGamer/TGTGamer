@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/resnovas.github.io.ico",
     "slug": "rambo-ui",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 48,
     "timeDay": 48,
     "timeWeek": 48,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-11-02": 109
+      "2022-11-02": 138
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "$HOSTINGBACKEND2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
-    "status": "down",
-    "uptime": "31.18%",
-    "uptimeDay": "31.18%",
-    "uptimeWeek": "31.18%",
-    "uptimeMonth": "31.18%",
-    "uptimeYear": "31.18%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "status": "up",
+    "uptime": "24.76%",
+    "uptimeDay": "24.76%",
+    "uptimeWeek": "24.76%",
+    "uptimeMonth": "24.76%",
+    "uptimeYear": "24.76%",
+    "time": 520,
+    "timeDay": 520,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2022-11-02": 75
+      "2022-11-02": 104
     }
   },
   {

@@ -1,7 +1,7 @@
 url: $HOSTINGBACKEND2
-status: up
-code: 200
-responseTime: 533
-lastUpdated: 2022-11-02T22:47:22.417Z
+status: down
+code: 404
+responseTime: 103
+lastUpdated: 2022-11-02T22:56:05.300Z
 startTime: Wed Nov 02 2022 16:12:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

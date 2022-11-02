@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/resnovas.github.io.ico",
     "slug": "rambo-ui",
     "status": "down",
-    "uptime": "6.43%",
-    "uptimeDay": "6.43%",
-    "uptimeWeek": "6.43%",
-    "uptimeMonth": "6.43%",
-    "uptimeYear": "6.43%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 48,
     "timeDay": 48,
     "timeWeek": 48,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-11-02": 0
+      "2022-11-02": 9
     }
   },
   {
@@ -132,18 +132,20 @@
     "url": "$HOSTINGBACKEND2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 774,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
+    "time": 645,
+    "timeDay": 645,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
+    "dailyMinutesDown": {
+      "2022-11-02": 0
+    }
   },
   {
     "name": "Chat Systems",

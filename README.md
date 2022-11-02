@@ -109,7 +109,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&show_offline=true&bar_color_cover=true)
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
 
 </td></tr></table>
 

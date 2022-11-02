@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7¢er=true&vCenter=true&width=275&lines=%3C+%F0%9F%91%8B+Hola%2C+World!+%3E;%3C+%F0%9F%91%8B+Hello%2C+World!+%3E;%3C+%F0%9F%91%8B+Bonjour%2C+World!+%3E;%3C+%F0%9F%91%8B+Welcome%2C+World+%3E)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AA9F7¢er=true&vCenter=true&width=275&lines=%3C+%F0%9F%91%8B+Hola%2C+World!+%3E;%3C+%F0%9F%91%8B+Hello%2C+World!+%3E;%3C+%F0%9F%91%8B+Bonjour%2C+World!+%3E;%3C+%F0%9F%91%8B+Welcome%2C+World+%3E)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tgtgamer&no-bg=true&no-frame=true&column=-1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=tgtgamer&no-bg=true&no-frame=true&column=-1&margin-w=15)
 
 </div>  
   
@@ -154,7 +154,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TGTGamer&theme=windows-dark&hide_border=true&background=DD000000)](https://git.io/streak-stats)</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=TGTGamer&theme=windows-dark&hide_border=true&background=DD000000)</div>
 
 <div align="center"><table><tr><td valign="top" width="50%">
 

@@ -153,6 +153,11 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 ## Github Stats  
 
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TGTGamer&theme=windows-dark&hide_border=true&background=DD000000)](https://git.io/streak-stats)</div> 
+
 <div align="center"><table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=TGTGamer&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
@@ -164,10 +169,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 </td></tr></table></div>  
 
 <br/>  
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TGTGamer&theme=windows-dark&hide_border=true&background=DD000000)](https://git.io/streak-stats)</div>  
+ 
   
 
 <br/>  

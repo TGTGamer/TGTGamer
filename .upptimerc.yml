@@ -1,0 +1,31 @@
+# Change these first
+owner: TGTGamer # Your GitHub organization or username, where this repository lives
+repo: TGTGamer # The name of this repository
+
+sites:
+  - name: Resnovas - **under development**
+    url: https://resnovas.co.uk
+  - name: Guard Dog Gaming - **under development**
+    url: https://www.gdgaming.net
+  - name: Smartcloud
+    url: https://resnovas.github.io/smartcloud/
+  - name: Eventiva - Status Page
+    url: https://resnovas.github.io/Eventiva
+  - name: Rambo UI
+    url: https://resnovas.github.io/Rambo-UI
+  - name: Web Hosting Systems
+    url: http://panel.resnovas.net/
+  - name: Web Hosting Backend Service Primary
+    url: $HOSTINGBACKEND
+  - name: Web Hosting Backend Service Secondary
+    url: $HOSTINGBACKEND2
+  - name: Chat Systems
+    url: https://chat.resnovas.com
+  - name: Feature Control
+    url: https://feature.resnovas.com
+  - name: DH1 Management
+    url: $DH1MANAGEMENT
+
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration

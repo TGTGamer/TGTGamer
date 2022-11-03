@@ -88,7 +88,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-11-03": 372,
+      "2022-11-03": 426,
       "2022-11-02": 468
     }
   },
@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
     "status": "down",
-    "uptime": "33.79%",
-    "uptimeDay": "33.79%",
-    "uptimeWeek": "33.79%",
-    "uptimeMonth": "33.79%",
-    "uptimeYear": "33.79%",
+    "uptime": "31.74%",
+    "uptimeDay": "31.74%",
+    "uptimeWeek": "31.74%",
+    "uptimeMonth": "31.74%",
+    "uptimeYear": "31.74%",
     "time": 426,
     "timeDay": 426,
     "timeWeek": 426,
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2022-11-03": 253,
+      "2022-11-03": 307,
       "2022-11-02": 303
     }
   },
@@ -154,53 +154,59 @@
     "url": "https://chat.resnovas.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.resnovas.com.ico",
     "slug": "chat-systems",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1161,
     "timeDay": 1161,
     "timeWeek": 1161,
     "timeMonth": 1161,
     "timeYear": 1161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 1
+    }
   },
   {
     "name": "Feature Control",
     "url": "https://feature.resnovas.com",
     "icon": "https://icons.duckduckgo.com/ip3/feature.resnovas.com.ico",
     "slug": "feature-control",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 550,
     "timeDay": 550,
     "timeWeek": 550,
     "timeMonth": 550,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 1
+    }
   },
   {
     "name": "DH1 Management",
     "url": "$DH1MANAGEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dh-1-management",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 521,
     "timeDay": 521,
     "timeWeek": 521,
     "timeMonth": 521,
     "timeYear": 521,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-03": 0
+    }
   }
 ]

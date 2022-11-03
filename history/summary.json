@@ -88,7 +88,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-11-03": 1297,
+      "2022-11-03": 1314,
       "2022-11-02": 468
     }
   },
@@ -133,19 +133,19 @@
     "url": "$HOSTINGBACKEND2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
-    "status": "up",
-    "uptime": "43.73%",
-    "uptimeDay": "45.82%",
-    "uptimeWeek": "43.73%",
-    "uptimeMonth": "43.73%",
-    "uptimeYear": "43.73%",
-    "time": 499,
-    "timeDay": 508,
-    "timeWeek": 499,
-    "timeMonth": 499,
-    "timeYear": 499,
+    "status": "down",
+    "uptime": "44.77%",
+    "uptimeDay": "47.63%",
+    "uptimeWeek": "44.77%",
+    "uptimeMonth": "44.77%",
+    "uptimeYear": "44.77%",
+    "time": 492,
+    "timeDay": 500,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2022-11-03": 692,
+      "2022-11-03": 683,
       "2022-11-02": 303
     }
   },

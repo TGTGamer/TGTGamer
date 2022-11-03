@@ -88,7 +88,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-11-03": 1198,
+      "2022-11-03": 1207,
       "2022-11-02": 468
     }
   },
@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
     "status": "up",
-    "uptime": "40.43%",
-    "uptimeDay": "40.74%",
-    "uptimeWeek": "40.43%",
-    "uptimeMonth": "40.43%",
-    "uptimeYear": "40.43%",
+    "uptime": "41.22%",
+    "uptimeDay": "41.91%",
+    "uptimeWeek": "41.22%",
+    "uptimeMonth": "41.22%",
+    "uptimeYear": "41.22%",
     "time": 477,
     "timeDay": 480,
     "timeWeek": 477,
     "timeMonth": 477,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2022-11-03": 691,
+      "2022-11-03": 683,
       "2022-11-02": 303
     }
   },
@@ -172,19 +172,19 @@
     "url": "https://feature.resnovas.com",
     "icon": "https://icons.duckduckgo.com/ip3/feature.resnovas.com.ico",
     "slug": "feature-control",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 538,
-    "timeDay": 561,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 505,
+    "timeDay": 509,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2022-11-03": 0
+      "2022-11-03": 9
     }
   },
   {

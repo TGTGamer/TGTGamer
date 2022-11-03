@@ -252,7 +252,6 @@ Last Updated on 02/11/2022 22:57:29 UTC
 <br/>
 
 <details><summary> Blogging & StackExchange </summary><!-- BLOG-POST-LIST:START -->
-
 - [Redux Dispatch not updating state](https://stackoverflow.com/questions/74034488/redux-dispatch-not-updating-state)
 - [Answer by Jonathan Stevens for Fetch status on audio stream - HTTP Response](https://stackoverflow.com/questions/67752301/fetch-status-on-audio-stream-http-response/67757137#67757137)
 - [Fetch status on audio stream - HTTP Response](https://stackoverflow.com/questions/67752301/fetch-status-on-audio-stream-http-response)
@@ -267,7 +266,6 @@ Last Updated on 02/11/2022 22:57:29 UTC
 - [Cookie based Redirection using Javascript](https://stackoverflow.com/questions/47686107/cookie-based-redirection-using-javascript)
 - [How to make the bot know if its messaged someone before? C# based SteamBot](https://stackoverflow.com/questions/44035406/how-to-make-the-bot-know-if-its-messaged-someone-before-c-sharp-based-steambot)
 - [How to convert fs:path to variable](https://stackoverflow.com/questions/43879791/how-to-convert-fspath-to-variable)
-
 <!-- BLOG-POST-LIST:END -->
 </details>
 <br />

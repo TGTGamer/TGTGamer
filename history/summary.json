@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/resnovas.co.uk.ico",
     "slug": "resnovas-under-development",
     "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1618,
     "timeDay": 1986,
     "timeWeek": 1618,
     "timeMonth": 1618,
     "timeYear": 1618,
-    "dailyMinutesDown": {
-      "2022-11-03": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guard Dog Gaming - **under development**",
@@ -90,7 +88,7 @@
     "timeMonth": 79,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-11-03": 1337,
+      "2022-11-03": 1349,
       "2022-11-02": 468
     }
   },
@@ -135,19 +133,19 @@
     "url": "$HOSTINGBACKEND2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-hosting-backend-service-secondary",
-    "status": "down",
-    "uptime": "44.21%",
-    "uptimeDay": "47.43%",
-    "uptimeWeek": "44.21%",
-    "uptimeMonth": "44.21%",
-    "uptimeYear": "44.21%",
-    "time": 492,
-    "timeDay": 498,
-    "timeWeek": 492,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "status": "up",
+    "uptime": "43.93%",
+    "uptimeDay": "46.62%",
+    "uptimeWeek": "43.93%",
+    "uptimeMonth": "43.93%",
+    "uptimeYear": "43.93%",
+    "time": 494,
+    "timeDay": 499,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {
-      "2022-11-03": 706,
+      "2022-11-03": 717,
       "2022-11-02": 303
     }
   },

@@ -256,7 +256,9 @@ Last Updated on 05/11/2022 18:39:42 UTC
 
 <br/>
 
-<details><summary> Activity </summary><table><tr><td valign="top" width="50%">
+<details><summary> Activity </summary>
+  
+<table><tr><td valign="top" width="50%">
 
 <!--START_SECTION:activity-->
 
@@ -296,13 +298,14 @@ Last Updated on 05/11/2022 18:39:42 UTC
 34. ❗️ Opened issue [#103](https://github.com/TGTGamer/TGTGamer/issues/103) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 <!--END_SECTION:activity-->
 
-</td><td valign="top" width="50%">
-
 </td></tr></table></details>
 
 <br/>
 
-<details><summary> Blogging & StackExchange </summary><!-- BLOG-POST-LIST:START -->
+<details>
+ <summary> Blogging & StackExchange </summary>
+  
+<!-- BLOG-POST-LIST:START -->
 - [Tensorflow React - Error: modelWeightsID must be a number or number array when import](https://stackoverflow.com/questions/74309939/tensorflow-react-error-modelweightsid-must-be-a-number-or-number-array-when-i)
 - [Redux Dispatch not updating state](https://stackoverflow.com/questions/74034488/redux-dispatch-not-updating-state)
 - [Answer by Jonathan Stevens for Fetch status on audio stream - HTTP Response](https://stackoverflow.com/questions/67752301/fetch-status-on-audio-stream-http-response/67757137#67757137)
@@ -319,5 +322,6 @@ Last Updated on 05/11/2022 18:39:42 UTC
 - [How to make the bot know if its messaged someone before? C# based SteamBot](https://stackoverflow.com/questions/44035406/how-to-make-the-bot-know-if-its-messaged-someone-before-c-sharp-based-steambot)
 - [How to convert fs:path to variable](https://stackoverflow.com/questions/43879791/how-to-convert-fspath-to-variable)
 <!-- BLOG-POST-LIST:END -->
+  
 </details>
 <br />

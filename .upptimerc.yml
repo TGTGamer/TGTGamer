@@ -17,8 +17,6 @@ sites:
     url: http://panel.resnovas.net/
   - name: Web Hosting Backend Service Primary
     url: $HOSTINGBACKEND
-  - name: Web Hosting Backend Service Secondary
-    url: $HOSTINGBACKEND2
   - name: Chat Systems
     url: https://chat.resnovas.com
   - name: Feature Control

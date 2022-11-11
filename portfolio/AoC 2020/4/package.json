@@ -1,0 +1,46 @@
+{
+  "name": "@tgtgamer/aoc-2020-4",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tgtgamer/aoc.git"
+  },
+  "homepage": "",
+  "bugs": {
+    "email": "bugs.aoc@videndum.studio",
+    "url": "https://github.com/tgtgamer/aoc/issues"
+  },
+  "author": {
+    "name": "Jonathan Stevens",
+    "email": "jonathan@videndum.studios",
+    "url": "http://videndum.studios"
+  },
+  "contributors": [
+    "Contributors can be found in readme.md"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "doc": "docs",
+    "test": "__tests__"
+  },
+  "keywords": [],
+  "scripts": {
+    "format": "prettier --config .prettier.json --write .",
+    "format-check": "prettier --config .prettier.json --check .",
+    "start": "tsc && yarn test",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "@types/node": "^14.0.14",
+    "prettier": "^2.1.2",
+    "prettier-plugin-organize-imports": "^1.1.1",
+    "prettier-plugin-pkg": "^0.8.0",
+    "ts-jest": "^26.4.3",
+    "tslint": "^6.1.0",
+    "typescript": "^3.9.5"
+  }
+}

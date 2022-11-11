@@ -1,0 +1,73 @@
+---
+labels: ['leetcode']
+description: 'A leetcode code question'
+---
+
+This project is my attempt at leetcode challange: 1672. Richest Customer Wealth
+
+You can attempt this challenge yourself here: https://leetcode.com/problems/richest-customer-wealth/
+
+# Attempt 1
+
+## Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+
+## Approach
+<!-- Describe your approach to solving the problem. -->
+
+
+## Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+## Code
+
+```ts
+export function maximumWealth(accounts: Array<number[]>): number {
+	let result: number = 0
+
+	for (let account of accounts) {
+		let total: number = 0
+		for (let sum of account) {
+			total += sum
+		}
+		result = total > result ? total : result
+	}
+
+	return result
+};
+```
+
+# Attempt 2
+
+## Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+
+## Approach
+<!-- Describe your approach to solving the problem. -->
+
+
+## Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+## Code
+
+```ts
+export function maximumWealthV2(accounts: Array<number[]>): number {
+		const result = accounts.reduce((prev, curr) => {
+			const sum = curr.reduce((prev, curr) => prev + curr, 0)
+			return sum >= prev ? sum : prev
+		}, 0)
+		return result
+};
+}
+```

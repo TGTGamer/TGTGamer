@@ -1,0 +1,47 @@
+/**
+ * this is the main configuration file of your bit workspace.
+ * for full documentation, please see: https://bit.dev/docs/workspace/workspace-configuration
+ **/ {
+  "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
+  "teambit.workspace/workspace": {
+    "name": "TGTGamer Coding Portfolio",
+    "icon": "https://static.bit.dev/bit-logo.svg",
+    "defaultDirectory": "portfolio/{scope}/{name}",
+    "defaultScope": "tgtgamer.leetcode"
+  },
+  "teambit.workspace/variants": {
+    "portfolio/aoc": {
+      "teambit.pkg/pkg": {
+        "packageManagerPublishArgs": [
+          "--access public"
+        ],
+        "packageJson": {
+          "private": false,
+          "name": "@tgtgam3r/aoc-{name}"
+        }
+      }
+    },
+    "portfolio/leetcode": {
+      "teambit.pkg/pkg": {
+        "packageManagerPublishArgs": [
+          "--access public"
+        ],
+        "packageJson": {
+          "private": false,
+          "name": "@tgtgam3r/leetcode-{name}"
+        }
+      }
+    }
+  },
+  "teambit.dependencies/dependency-resolver": {
+    "packageManager": "teambit.dependencies/pnpm",
+    "policy": {
+      "dependencies": {},
+      "devDependencies": {
+        "react": "18.2.0"
+      },
+      "peerDependencies": {}
+    },
+    "linkCoreAspects": true
+  }
+}

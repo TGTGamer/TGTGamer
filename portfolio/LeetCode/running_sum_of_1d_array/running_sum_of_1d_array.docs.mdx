@@ -1,0 +1,74 @@
+---
+labels: ['leetcode']
+description: 'A leetcode code question'
+---
+
+This project is my attempt at leetcode challange: 1480. Running Sum of 1d Array
+
+You can attempt this challenge yourself here: https://leetcode.com/problems/running-sum-of-1d-array
+
+# Attempt 1
+
+## Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+
+## Approach
+<!-- Describe your approach to solving the problem. -->
+
+
+## Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+## Code
+
+```ts
+export function runningSum(nums: number[]): number[] {
+    // Let a total number so that we can only iterate once over the array
+    let total: number = 0
+    // Create a new array to store the running sum
+    let runningSum: number[] = []
+    // Iterate over the array
+    nums.forEach(num => {
+        total += num
+        runningSum.push(total)
+    })
+    // return the running sum
+    return runningSum
+};
+```
+
+# Attempt 2
+
+## Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+
+## Approach
+<!-- Describe your approach to solving the problem. -->
+
+
+## Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+## Code
+
+```ts
+export function runningSumv2(nums: number[]): number[] {
+    // Create a new array to store the running sum
+    let runningSum: number[] = []
+    // Iterate over the array
+    for (let i in nums) {
+        runningSum.push(nums[i] + (Number(i) > 0 ? runningSum[Number(i) - 1] : 0))
+    }
+    return runningSum
+};
+```

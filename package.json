@@ -3,6 +3,9 @@
     "name": "Jonathan Stevens",
     "email": "jonathan@resnovas.com"
   },
+  "scripts": {
+    "post-install": "bit import && bit link"
+  },
   "license": "GPL-3.0-or-later",
   "private": false
 }

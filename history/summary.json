@@ -88,7 +88,7 @@
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2022-11-12": 4,
+      "2022-11-12": 450,
       "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
@@ -142,10 +142,10 @@
     "url": "https://chat.resnovas.com",
     "icon": "https://icons.duckduckgo.com/ip3/chat.resnovas.com.ico",
     "slug": "chat-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 999,
@@ -154,6 +154,7 @@
     "timeMonth": 999,
     "timeYear": 999,
     "dailyMinutesDown": {
+      "2022-11-12": 1,
       "2022-11-04": 20
     }
   },
@@ -162,18 +163,19 @@
     "url": "https://feature.resnovas.com",
     "icon": "https://icons.duckduckgo.com/ip3/feature.resnovas.com.ico",
     "slug": "feature-control",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 372,
     "timeDay": 157,
     "timeWeek": 331,
     "timeMonth": 372,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2022-11-12": 0,
       "2022-11-04": 20
     }
   },

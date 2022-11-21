@@ -23,7 +23,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <div align="center">
 
-[![bit.cloud](../assets/1/../../TGTGamer/assets/Bit.cloud.png)](https://bit.cloud/tgtgamer)
+[![bit.cloud](./assets/Bit.cloud.png)](https://bit.cloud/tgtgamer)
 
 </div> 
 

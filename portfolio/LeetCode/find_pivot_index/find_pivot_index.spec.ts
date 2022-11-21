@@ -41,21 +41,38 @@
 
 import * as findPivotIndex from './find_pivot_index';
 
-it('1', async () => {
-  expect(findPivotIndex.pivotIndex([1, 7, 3, 6, 5, 6])).toBe(3)
+describe('Pivot Index', () => {
+  it('[1, 7, 3, 6, 5, 6]', () => {
+    const param = [1, 7, 3, 6, 5, 6]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(3)
+  })
+  it('[1, 2, 3]', () => {
+    const param = [1, 2, 3]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(-1)
+  })
+  it('[2, 1, -1]', () => {
+    const param = [2, 1, -1]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(0)
+  })
 })
-it('2', async () => {
-  expect(findPivotIndex.pivotIndex([1, 2, 3])).toBe(-1)
-})
-it('3', async () => {
-  expect(findPivotIndex.pivotIndex([2, 1, -1])).toBe(0)
-})
-it('4', async () => {
-  expect(findPivotIndex.pivotIndexSlow([1, 7, 3, 6, 5, 6])).toBe(3)
-})
-it('5', async () => {
-  expect(findPivotIndex.pivotIndexSlow([1, 2, 3])).toBe(-1)
-})
-it('6', async () => {
-  expect(findPivotIndex.pivotIndexSlow([2, 1, -1])).toBe(0)
+
+describe('Slower Pivot Index', () => {
+  it('Slower: [1, 7, 3, 6, 5, 6]', () => {
+    const param = [1, 7, 3, 6, 5, 6]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(3)
+  })
+  it('Slower: [1, 2, 3]', () => {
+    const param = [1, 2, 3]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(-1)
+  })
+  it('Slower: [2, 1, -1]', () => {
+    const param = [2, 1, -1]
+    const test = findPivotIndex.pivotIndex(param)
+    expect(test).toBe(0)
+  })
 })

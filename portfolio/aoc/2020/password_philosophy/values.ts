@@ -1,4 +1,5 @@
-15-16 m: mhmjmzrmmlmmmmmm
+
+export const values = `15-16 m: mhmjmzrmmlmmmmmm
 5-6 d: dcdddhzld
 3-4 s: vqssdcbl
 3-6 b: bbhbbbqbbb
@@ -997,4 +998,5 @@
 6-14 s: qpvlfbsgswsnwsmpz
 9-12 t: tvwstttttttktwt
 4-6 g: vslqbgg
-9-16 d: dsdddddddrdddddhdbdd
+9-16 d: dsdddddddrdddddhdbdd`
+export const valuesSplit = values.split("\n")

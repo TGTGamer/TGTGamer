@@ -50,25 +50,27 @@ const accounts: number[] = [
     1456
 ]
 
-test('check default values', async () => {
-    let values = await get2(accounts)
-    expect(values[0] * values[1]).toBe(514579)
+describe('get2', () => {
+    test('should be the correct value (demo case)', () => {
+        let values = get2(accounts)
+        expect(values[0] * values[1]).toBe(514579)
+    })
+
+    test('should be the correct value', () => {
+        let values = get2(acc)
+        expect(values[0] + values[1]).toBe(2020)
+    })
 })
 
-test('check my values for 2', async () => {
-    let values = await get2(acc)
-    expect(values[0] + values[1]).toBe(2020)
-    console.log(values[0] * values[1])
-})
-
-test('check default values', async () => {
-    let values = await get3(accounts)
-    expect(values[0] * values[1] * values[2]).toBe(241861950)
-})
+describe('get3', () => {
+    test('should be the correct value (demo case)', () => {
+        let values = get3(accounts)
+        expect(values[0] * values[1] * values[2]).toBe(241861950)
+    })
 
 
-test('check my values for 3', async () => {
-    let values = await get3(acc)
-    expect(values[0] + values[1] + values[2]).toBe(2020)
-    console.log(values[0] * values[1] * values[2])
+    test('should be the correct value ', () => {
+        let values = get3(acc)
+        expect(values[0] + values[1] + values[2]).toBe(2020)
+    })
 })

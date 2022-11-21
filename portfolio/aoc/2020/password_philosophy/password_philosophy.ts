@@ -47,7 +47,6 @@ export function countValid(input: string[]) {
         const password = data[2].split("")
         const count = password.filter(letter => letter == character).length
         if (count >= Number(range[0]) && count <= Number(range[1])) {
-            console.log(count, range)
             valid++
         }
     }

@@ -9,63 +9,36 @@
  */
 
 {
-    "2020/passport_processing": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.aoc",
-        "mainFile": "index.ts",
-        "rootDir": "portfolio/aoc/2020/passport_processing",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
-    },
     "2020/password_philosophy": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.aoc",
+        "scope": "tgtgamer.aoc",
+        "version": "0.0.3",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/aoc/2020/password_philosophy",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/aoc/2020/password_philosophy"
     },
     "2020/report_repair": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.aoc",
+        "scope": "tgtgamer.aoc",
+        "version": "0.0.3",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/aoc/2020/report_repair",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/aoc/2020/report_repair"
     },
     "2020/toboggan_trajectory": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.aoc",
+        "scope": "tgtgamer.aoc",
+        "version": "0.0.3",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/aoc/2020/toboggan_trajectory",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/aoc/2020/toboggan_trajectory"
     },
     "find_pivot_index": {
+        "scope": "tgtgamer.leetcode",
+        "version": "0.0.2",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/find_pivot_index"
+    },
+    "number_of_steps_to_reduce_a_number_to_zero": {
         "scope": "",
         "version": "",
+        "defaultScope": "tgtgamer.leetcode",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/find_pivot_index",
+        "rootDir": "portfolio/leetcode/number_of_steps_to_reduce_a_number_to_zero",
         "config": {
             "teambit.harmony/node": {},
             "teambit.envs/envs": {
@@ -74,28 +47,16 @@
         }
     },
     "richest_customer_wealth": {
-        "scope": "",
-        "version": "",
+        "scope": "tgtgamer.leetcode",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/richest_customer_wealth",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/leetcode/richest_customer_wealth"
     },
     "running_sum_of_1d_array": {
-        "scope": "",
-        "version": "",
+        "scope": "tgtgamer.leetcode",
+        "version": "0.0.2",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/running_sum_of_1d_array",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/leetcode/running_sum_of_1d_array"
     },
     "$schema-version": "15.0.0"
 }

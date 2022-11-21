@@ -40,12 +40,18 @@
 
 import * as runningSumOf1DArray from './running_sum_of_1d_array';
 
-it('Test Case', async () => {
-    expect(runningSumOf1DArray.runningSum([1, 2, 3, 4])).toBe(
-        [1, 3, 6, 10])
+describe('Running Sum', () => {
+    it('[1, 2, 3, 4]', async () => {
+        const param = [1, 2, 3, 4]
+        const test = runningSumOf1DArray.runningSum(param)
+        expect(test).toStrictEqual([1, 3, 6, 10])
+    })
 })
 
-it('Test Case', async () => {
-    expect(runningSumOf1DArray.runningSumv2([1, 2, 3, 4])).toBe(
-        [1, 3, 6, 10])
+describe('Running Sum V2', () => {
+    it('[1, 2, 3, 4]', async () => {
+        const param = [1, 2, 3, 4]
+        const test = runningSumOf1DArray.runningSumv2(param)
+        expect(test).toStrictEqual([1, 3, 6, 10])
+    })
 })

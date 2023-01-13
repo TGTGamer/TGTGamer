@@ -176,36 +176,36 @@ Find me answering community coding questions in [The Coding Den](https://discord
 <br/>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 🏆 310 Contributions in the Year 2022
->
-> 📦 743.9 kB Used in GitHub's Storage
->
+> 🏆 10 Contributions in the Year 2023
+ > 
+> 📦 790.7 kB Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
->
-> 📜 20 Public Repositories
->
-> 🔑 5 Private Repositories
->
-> **I Mostly Code in TypeScript**
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.86%
-Dockerfile               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29%
-Markdown                 2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29%
-PHP                      2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29%
-JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.14%
+TypeScript               7 repos             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.0% 
+Dockerfile               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29% 
+PHP                      2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29% 
+JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.14% 
+C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.14%
 
 ```
 
+
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/TGTGamer/TGTGamer/master/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/TGTGamer/TGTGamer/master/charts/bar_graph.png) 
 
-Last Updated on 09/11/2022 18:41:18 UTC
 
+ Last Updated on 13/01/2023 18:36:35 UTC
 <!--END_SECTION:waka-->
 
 <br/>

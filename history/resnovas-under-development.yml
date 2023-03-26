@@ -1,7 +1,7 @@
 url: https://resnovas.co.uk
-status: up
-code: 200
-responseTime: 4823
-lastUpdated: 2023-03-26T16:03:42.962Z
+status: down
+code: 429
+responseTime: 588
+lastUpdated: 2023-03-26T16:15:18.147Z
 startTime: Wed Nov 02 2022 16:11:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

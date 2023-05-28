@@ -247,13 +247,13 @@ Last Updated on 27/05/2023 18:42:00 UTC
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/Eventiva/Eventiva/pull/13) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-2. 🎉 Merged PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
-3. 💪 Opened PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
-4. ❗️ Opened issue [#12](https://github.com/Eventiva/Eventiva/issues/12) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-5. 🗣 Commented on [#11](https://github.com/Eventiva/Eventiva/issues/11) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-6. 🎉 Merged PR [#518](https://github.com/Resnovas/smartcloud/pull/518) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-7. 🎉 Merged PR [#514](https://github.com/Resnovas/smartcloud/pull/514) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+1. ❗️ Closed issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+2. 🗣 Commented on [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+3. ❗️ Opened issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+4. 🎉 Merged PR [#13](https://github.com/Eventiva/Eventiva/pull/13) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. 🎉 Merged PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
+6. 💪 Opened PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
+7. ❗️ Opened issue [#12](https://github.com/Eventiva/Eventiva/issues/12) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 8. 🎉 Merged PR [#520](https://github.com/Resnovas/smartcloud/pull/520) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 9. 🎉 Merged PR [#10](https://github.com/Eventiva/Eventiva/pull/10) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 10. 🗣 Commented on [#135](https://github.com/contributor-assistant/github-action/issues/135) in [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action)

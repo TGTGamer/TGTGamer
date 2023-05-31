@@ -248,14 +248,14 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-2. 🔒 Closed issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-3. 🗣 Commented on [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-4. ❗ Opened issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-5. 🎉 Merged PR [#13](https://github.com/Eventiva/Eventiva/pull/13) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-6. 🎉 Merged PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
-7. 💪 Opened PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
-8. 🎉 Merged PR [#520](https://github.com/Resnovas/smartcloud/pull/520) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+1. 💪 Opened PR [#32](https://github.com/IvanFon/super-labeler-action/pull/32) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+2. 🗣 Commented on [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
+3. 🔒 Closed issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+4. 🗣 Commented on [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+5. ❗ Opened issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+6. 🎉 Merged PR [#13](https://github.com/Eventiva/Eventiva/pull/13) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+7. 🎉 Merged PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
+8. 💪 Opened PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
 9. 🎉 Merged PR [#10](https://github.com/Eventiva/Eventiva/pull/10) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 10. 🗣 Commented on [#135](https://github.com/contributor-assistant/github-action/issues/135) in [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action)
 11. 💪 Opened PR [#10](https://github.com/Eventiva/Eventiva/pull/10) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

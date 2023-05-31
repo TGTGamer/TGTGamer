@@ -248,9 +248,9 @@ Last Updated on 30/05/2023 18:45:01 UTC
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#26](https://github.com/IvanFon/super-labeler-action/issues/26) in [IvanFon/super-labeler-action](https://github.com/IvanFon/super-labeler-action)
-2. ❗️ Closed issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+2. 🔒 Closed issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 3. 🗣 Commented on [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-4. ❗️ Opened issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+4. ❗ Opened issue [#383](https://github.com/TGTGamer/TGTGamer/issues/383) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 5. 🎉 Merged PR [#13](https://github.com/Eventiva/Eventiva/pull/13) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 6. 🎉 Merged PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)
 7. 💪 Opened PR [#3](https://github.com/Eventiva/.github/pull/3) in [Eventiva/.github](https://github.com/Eventiva/.github)

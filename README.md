@@ -14,8 +14,8 @@
   
 ###  I'm Jonathan, a full-time remote developer focusing on serverless infrastructure👨‍💻
 
-I’m currently working on [Eventiva](https://github.com/eventiva/eventiva)
-I’m currently learning [Terraform](https://www.terraform.io/), [Mitosis](https://mitosis.builder.io/) and [Qwik](https://qwik.builder.io/)  
+I’m currently working on [Eventiva](https://github.com/eventiva/eventiva) </br>
+I’m currently learning [Terraform](https://www.terraform.io/), [Mitosis](https://mitosis.builder.io/) and [Qwik](https://qwik.builder.io/) </br>
 Find me answering community coding questions in [The Coding Den](https://discord.com/invite/code) and [TypeScript Community](https://discord.gg/typescript)
 
 </div>

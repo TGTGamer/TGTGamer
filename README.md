@@ -250,7 +250,7 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 1. ❗ Opened issue [#23122](https://github.com/storybookjs/storybook/issues/23122) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
 2. 🔒 Closed issue [#384](https://github.com/TGTGamer/TGTGamer/issues/384) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-3. 🗣 Commented on [#384](https://github.com/TGTGamer/TGTGamer/issues/384) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+3. 🗣 Commented on [#384](https://github.com/TGTGamer/TGTGamer/issues/384#issuecomment-1583962436) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 4. ❗ Opened issue [#384](https://github.com/TGTGamer/TGTGamer/issues/384) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 5. 🗣 Commented on [#1017](https://github.com/mampfes/hacs_waste_collection_schedule/issues/1017) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 6. ❗ Opened issue [#1017](https://github.com/mampfes/hacs_waste_collection_schedule/issues/1017) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)

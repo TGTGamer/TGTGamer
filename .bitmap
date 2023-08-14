@@ -27,6 +27,19 @@
         "mainFile": "index.ts",
         "rootDir": "portfolio/aoc/2020/toboggan_trajectory"
     },
+    "evolution_chain": {
+        "scope": "",
+        "version": "",
+        "defaultScope": "tgtgamer.pokeapi",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/pokeapi/evolution_chain",
+        "config": {
+            "teambit.harmony/node": {},
+            "teambit.envs/envs": {
+                "env": "teambit.harmony/node"
+            }
+        }
+    },
     "find_pivot_index": {
         "scope": "tgtgamer.leetcode",
         "version": "0.0.2",

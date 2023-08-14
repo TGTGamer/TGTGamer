@@ -1,0 +1,49 @@
+---
+labels: ['PokeAPI']
+description: 'A technical challenge to test my use of NodeJS via the PokeAPI.'
+---
+
+# Technical test
+*This project has been created in response to a job interview process dated 14/08/23*
+
+Ash Ketchum caught some Pokémon and wants to find the evolution chain, but he can't find it in his Pokedex.
+
+Ash wants to start training with those Pokémon and he is asking for some help to find the evolution chain and the variations on which they evolve using the Poke API, whose documentation can be found here https://pokeapi.co/docs/v2
+
+You need to return a string containing an object json encoded `{“name”: “butterfree”, “variations”: []}`, variations contains a list of similar objects. A Pokémon can have multiple evolution variations and we need to find them all.
+
+*Note:*
+- Variations contains all possible evolutions, not only consecutive evolutions. For example, metapod is not the only variation of caterpie, butterfree is also a variation because it's the evolution from metapod.
+- Variations are in order, for example if the input provided is butterfree or caterpie then the output is exactly the same because they are part of the same evolution chain.
+
+**Hint:** As well as the documentation above, the following resource is considered a good starting point using the pokemon name https://pokeapi.co/api/v2/pokemon. From here one can establish the pokemon-species and from there the evolution-chain based on the https://pokeapi.co/api/v2/pokemon-species and https://pokeapi.co/api/v2/evolution-chain resources respectively.
+
+It is up to the candidate to decide how to navigate the API and transform the data to the required output.
+
+Once complete:
+- Please setup a publicly accessible repository on Github.com
+- Commit your working example as if it were production ready code
+- Please include any tests that are relevant to your test
+- Finally, include a Readme with some lightweight documentation on how a developer, with possibly no experience of Node, may install the relevant dependencies and run your script and tests if relevant.
+
+
+## Intuition
+<!-- Describe your first thoughts on how to solve this problem. -->
+
+## Approach
+<!-- Describe your approach to solving the problem. -->
+
+## Complexity
+- Time complexity:
+<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+
+- Space complexity:
+<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+
+## Code
+
+API:
+
+```ts
+function evolutionChain(): string;
+```

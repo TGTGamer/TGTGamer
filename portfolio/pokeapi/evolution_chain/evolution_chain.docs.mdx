@@ -3,7 +3,7 @@ labels: ['PokeAPI']
 description: 'A technical challenge to test my use of NodeJS via the PokeAPI.'
 ---
 
-# Technical test
+# PokeAPI Technical test
 *This project has been created in response to a job interview process dated 14/08/23*
 
 Ash Ketchum caught some Pokémon and wants to find the evolution chain, but he can't find it in his Pokedex.
@@ -26,19 +26,143 @@ Once complete:
 - Please include any tests that are relevant to your test
 - Finally, include a Readme with some lightweight documentation on how a developer, with possibly no experience of Node, may install the relevant dependencies and run your script and tests if relevant.
 
-
 ## Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
+
+1. I don't know enough about pokemon to know if my understanding of the terminology is correct. As I only have a single evening to complete this task, I will be making some assumptions. 
+2. Assumption 1: A Evolution species is the same as a variation. For this task I will be using them interchangeably.
+3. Assumption 2: A pokemon can only evolve into an evolution which is present on the evolution chain as specified by the pokeapi endpoints.
+4. Assumption 3: A evolution chain from base pokemon to highest evolution is all that's required. It should be in order always and should not be looped on self referencing.
+5. Assumption 4: The designer of the task knew as much about pokemon as me, so when I do a search for "variations" on the pokeapi documentation and it reads: " For variations within a Pokémon species, which do differ in more than just visuals, the 'Pokémon' entity is used to represent such a variety." I am going assume this isn't relevant to the task, instead for this task, they are referring to the "evolution_chain" and the species with that chain (see assumption 1). For this assumption, I reached out to a few colleagues in my network to get their views on the phrasing of the task, and they agreed this interpretation is viable.
+6. Assumption 5: A evolution can be referenced multiple times in a single object. Using the example from the notes, you would end up with a object which looks like this: 
+  ```json
+  {
+    name: 'caterpie',
+    variations: [
+      {
+        name: 'metapod',
+        variations: [ 
+          { 
+            name: 'butterfree', 
+            variations: [] 
+          } 
+        ]
+      },
+      { 
+        name: 'butterfree', 
+        variations: [] 
+      }
+    ]
+  }
+  ```
+1. I need to return an object which is type checked. I will use typescript to ensure this.
+2. The pokeapi has two methods off access, one by graphql and one for rest. The graphql API is more powerful and would be my first choice if I was developing this for myself. If I have the time, I will implement both methods and compare the results, however this may not be feasible within my time constraints.
+3. The pokeapi are public and free to use, however their fair use policy requests caching to be built in. https://pokeapi.co/docs/v2#fairuse
+4.  There is a lot of pokemon. 1281 at the time of writing. I will need to be careful with my memory usage and ensure I am not making too many requests at once and pagenation is going to be heavily used.
+5.  There are going to be a few approaches I can take to handle this, and I won't have time to explore them all. I need to commit to one, maybe two and see them through. 
+6.  The output is very simple, and I would expect that the use case would change over time. I need to ensure my code is commented in anticipation of future changes (and it's a good practice 😊).
+7.  The task has specifically requested tests, so I need to ensure that I provide 100% coverage of the code I write. I should write the tests in tangent with the code, and not after the fact.
 
 ## Approach
 <!-- Describe your approach to solving the problem. -->
 
-## Complexity
-- Time complexity:
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
+This repository has been setup with a component first approach. This means that the code is written as individual components rather than an expansive library. This is a common approach in ReactJS, and I have found it to be very useful in my own projects. I have also found it to be useful in NodeJS projects, as it allows me to easily identify the components of the project, and their dependencies. It also allows for individual versioning of componets. If this code was included in a larger project, it would be required into the project as a dependency via a package manager such as npm or yarn. The package ID for this code is `@tgtgamer/pokeapi.evolution_chain`
 
-- Space complexity:
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+To make this process easier, I utilise the Bit.Dev command line and interfaces. This can be installed from [here](https://bit.dev/) however is not needed to run this code. The recomended method of starting this project is using Bit.dev, however I will explain additional methods below.
+
+
+#### Output
+
+The output needs to be typed to ensure it outputs correctly. I am told to present the data as `{“name”: “butterfree”, “variations”: []}`. Which in tern means the correct typing is: 
+
+```ts
+type Variations = {
+		name: string;
+		variations: Variations[];
+}
+```
+
+Any varification which is looked up can be referenced in another variation. 
+
+It is also worth noting that the pokemon-species api returns a "evolution_chain" result, which can be used to quickly filter that species into the correct evolution chain. This is a much more efficient method than looping through all the pokemon and checking their evolution chain.
+
+The pokemon-species can be found in the pokemon specific api response. For example, the pokemon-species for bulbasaur can be found at https://pokeapi.co/api/v2/pokemon/1/
+
+#### GraphQL API implmentation
+I am going to start with the graphQL implemention as it is the quickest to implement and the most powerful. Because the data is returned in almost the correct structure, we only need to remap the data to the correct output. We can use the graphQL playground to test our queries before we implement them in code, and because we are confident in the fact GraphQL handles this request better than rest, we will use the results of the GraphQL within our testing of the restful API implementation.
+
+The quickest and easiest way to get a clientside GraphQL implementation is to use the Apollo Client, however as we are focusing on serverside code and not building out an entire application, we will be using the `graphql-request` library. This library is a lightweight implementation of the GraphQL client, and is the recommended library for server side implementations.
+
+Our data for this project can be accessed using the following graphQL query: https://beta.pokeapi.co/graphql/console/
+
+```graphql
+query byID ($id: Int){
+  pokemon_v2_pokemon(where: {id: {_eq: $id}}) {
+    name
+    pokemon_v2_pokemonspecy {
+      evolution_chain_id
+      pokemon_v2_evolutionchain {
+        pokemon_v2_pokemonspecies {
+          name
+          evolves_from_species_id
+          id
+        }
+      }
+    }
+  }
+}
+
+query byName ($name: String) {
+  pokemon_v2_pokemon(where: {name: {_eq: $name}}) {
+    name
+    pokemon_v2_pokemonspecy {
+      evolution_chain_id
+      pokemon_v2_evolutionchain {
+        pokemon_v2_pokemonspecies {
+          name
+          evolves_from_species_id
+          id
+        }
+      }
+    }
+  }
+}
+```
+which results in: 
+```json
+{
+  "data": {
+    "pokemon_v2_pokemon": [
+      {
+        "name": "caterpie",
+        "pokemon_v2_pokemonspecy": {
+          "evolution_chain_id": 4,
+          "pokemon_v2_evolutionchain": {
+            "pokemon_v2_pokemonspecies": [
+              {
+                "name": "caterpie"
+              },
+              {
+                "name": "metapod"
+              },
+              {
+                "name": "butterfree"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
+
+```
+
+#### RESTful API implmentation
+
+
+## Complexity
+- Time complexity: roughly 5h04m - Tracked by timer from initial readthrough and api review to commit
 
 ## Code
 

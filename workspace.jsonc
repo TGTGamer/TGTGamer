@@ -1,7 +1,7 @@
 /**
  * this is the main configuration file of your bit workspace.
  * for full documentation, please see: https://bit.dev/docs/workspace/workspace-configuration
- **/ {
+ **/{
   "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
   "teambit.workspace/workspace": {
     "name": "TGTGamer Coding Portfolio",
@@ -36,15 +36,16 @@
   "teambit.dependencies/dependency-resolver": {
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
-      "dependencies": {},
-      "devDependencies": {
-        "@mui/material": "5.10.13",
-        "react": "18.2.0"
+      "dependencies": {
+        "@apollo/client": "^3.8.1",
+        "graphql": "^16.8.0",
+        "graphql-request": "^6.1.0",
+        "node-fetch": "^2.6.1"
       },
       "peerDependencies": {
-        "react-dom": "18.2.0",
         "@emotion/react": "11.10.5",
-        "@emotion/styled": "11.10.5"
+        "@emotion/styled": "11.10.5",
+        "react-dom": "18.2.0"
       }
     },
     "linkCoreAspects": true

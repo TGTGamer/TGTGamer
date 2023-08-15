@@ -2,8 +2,8 @@
  * @format
  * -----
  * Project: TGTGamer
- * File: index.ts
- * Path: \portfolio\pokeapi\evolution_chain\index.ts
+ * File: evolution_chain_graphql.spec.ts
+ * Path: \portfolio\pokeapi\evolution_chain\evolution_chain_graphql.spec.ts
  * Created Date: Monday, August 14th 2023
  * Author: Jonathan Stevens (Email: jonathan@resnovas.com, Github: https://github.com/TGTGamer)
  * -----
@@ -21,7 +21,7 @@
  * the Creative Commons Zero v1.0 Universal (CC0-1.0) published as the License,
  * or (at your option) any later version of this license.
  * 
- * This program is distributed in the hope that it will be useful, 
+ * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * Creative Commons Zero v1.0 Universal for more details.
@@ -32,9 +32,44 @@
  * 
  * DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE - PLEASE SEE THE LICENSE FILE FOR DETAILS
  * -----
- * Last Modified: 14-08-2023
+ * Last Modified: 15-08-2023
  * By: Jonathan Stevens (Email: jonathan@resnovas.com, Github: https://github.com/TGTGamer)
  * Current Version: 1.0.0
  */
 
-export { evolutionChainGraphQL } from './evolution_chain_graphql';
+import { evolutionChainGraphQL } from './evolution_chain_graphql'; 
+
+it('Should return all variations of the input value', async () => { 
+  expect(await evolutionChainGraphQL({name: "metapod"})).toMatchObject({
+		name: 'caterpie',
+		variations: [
+			{
+				name: 'metapod',
+				variations: [ 
+					{ 
+						name: 'butterfree', 
+						variations: [] 
+					} 
+				]
+			},
+			{ name: 'butterfree', variations: [] }
+		]
+	});
+});
+it('Should return all variations of the input value', async () => { 
+  expect(await evolutionChainGraphQL({id: 11})).toMatchObject({
+		name: 'caterpie',
+		variations: [
+			{
+				name: 'metapod',
+				variations: [ 
+					{ 
+						name: 'butterfree', 
+						variations: [] 
+					} 
+				]
+			},
+			{ name: 'butterfree', variations: [] }
+		]
+	});
+});

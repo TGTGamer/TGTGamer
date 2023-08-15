@@ -3,6 +3,7 @@
     "name": "Jonathan Stevens",
     "email": "jonathan@resnovas.com"
   },
+  "version": "1.0.0",
   "scripts": {
     "post-install": "bit import && bit link"
   },

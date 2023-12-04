@@ -248,11 +248,11 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#687](https://github.com/frappe/lms/issues/687) in [frappe/lms](https://github.com/frappe/lms)
-2. 🎉 Merged PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-3. 💪 Opened PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-4. ❌ Closed PR [#15](https://github.com/Eventiva/Eventiva/pull/15) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-5. ❌ Closed PR [#14](https://github.com/Eventiva/Eventiva/pull/14) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+1. 🎉 Merged PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. 💪 Opened PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. ❗ Opened issue [#687](https://github.com/frappe/lms/issues/687) in [frappe/lms](https://github.com/frappe/lms)
+4. 🎉 Merged PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. 💪 Opened PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 6. 🎉 Merged PR [#17](https://github.com/Eventiva/Eventiva/pull/17) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 7. 🎉 Merged PR [#5](https://github.com/Eventiva/.github/pull/5) in [Eventiva/.github](https://github.com/Eventiva/.github)
 8. 💪 Opened PR [#5](https://github.com/Eventiva/.github/pull/5) in [Eventiva/.github](https://github.com/Eventiva/.github)

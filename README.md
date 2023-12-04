@@ -248,13 +248,13 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-2. 💪 Opened PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-3. ❗ Opened issue [#687](https://github.com/frappe/lms/issues/687) in [frappe/lms](https://github.com/frappe/lms)
-4. 🎉 Merged PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-5. 💪 Opened PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-6. 🎉 Merged PR [#17](https://github.com/Eventiva/Eventiva/pull/17) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-7. 🎉 Merged PR [#5](https://github.com/Eventiva/.github/pull/5) in [Eventiva/.github](https://github.com/Eventiva/.github)
+1. 🎉 Merged PR [#20](https://github.com/Eventiva/Eventiva/pull/20) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. 💪 Opened PR [#20](https://github.com/Eventiva/Eventiva/pull/20) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. 🎉 Merged PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+4. 💪 Opened PR [#19](https://github.com/Eventiva/Eventiva/pull/19) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. ❗ Opened issue [#687](https://github.com/frappe/lms/issues/687) in [frappe/lms](https://github.com/frappe/lms)
+6. 🎉 Merged PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+7. 💪 Opened PR [#18](https://github.com/Eventiva/Eventiva/pull/18) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 8. 💪 Opened PR [#5](https://github.com/Eventiva/.github/pull/5) in [Eventiva/.github](https://github.com/Eventiva/.github)
 9. 💪 Opened PR [#17](https://github.com/Eventiva/Eventiva/pull/17) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 10. ❌ Closed PR [#16](https://github.com/Eventiva/Eventiva/pull/16) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

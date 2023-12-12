@@ -50,6 +50,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -181,7 +184,7 @@ jobs:
           base_skip: yes
           config_timezone: Europe/London
           plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 15
+          plugin_leetcode_limit_recent: 6
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_user: tgtgam3r

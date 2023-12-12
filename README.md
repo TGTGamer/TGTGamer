@@ -104,10 +104,6 @@ Find me answering community coding questions in [The Coding Den](https://discord
 ![Metrics](metrics/section-achievements.svg)
 
 
-<br/>
-
-## Connect with me
-
 <table style="border: none;"><tr style="border: none;"><td valign="top" width="80%" style="border: none;">
 
 ![Metrics](metrics/section-code.svg)

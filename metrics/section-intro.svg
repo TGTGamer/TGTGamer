@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>catchpoint/workflow-telemetry-action</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Github action to collect metrics (CPU, memory, I/O, etc ...) from your workflows to help you debug and optimize your CI/CD pipeline</div>
@@ -321,7 +321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>protontypes/continuous-reforestation</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -427,7 +427,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 20:02:57 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 20:19:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

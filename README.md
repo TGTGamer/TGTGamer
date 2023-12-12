@@ -89,11 +89,11 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </td></tr></table>
 
-<table style="border: none;"><tr style="border: none;"><td valign="top" width="50%" style="border: none;>
+<table style="border: none;"><tr style="border: none;"><td valign="top" width="50%" style="border: none;">
 
 ![Metrics](metrics/section-sponsors.svg)
 
-</td><td valign="top" width="50%" style="border: none;>
+</td><td valign="top" width="50%" style="border: none;">
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
 
@@ -108,14 +108,14 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 ## Connect with me
 
-<table style="border: none;"><tr style="border: none;"><td valign="top" width="80%" style="border: none;>
+<table style="border: none;"><tr style="border: none;"><td valign="top" width="80%" style="border: none;">
 
 ![Metrics](metrics/section-code.svg)
 
 ![Metrics](metrics/section-followup.svg)
 
 
-</td><td valign="top" width="20%" style="border: none;>
+</td><td valign="top" width="20%" style="border: none;">
 
 <div align="center">
 

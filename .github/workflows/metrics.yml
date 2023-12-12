@@ -70,4 +70,4 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
-          filename: metrics-section-one.*
+          filename: metrics/section-one.*

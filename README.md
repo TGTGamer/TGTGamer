@@ -27,7 +27,9 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </div>
 
-![Metrics](https://metrics.lecoq.io/tgtgamer?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FLondon&config.display=columns)
+
+![Metrics](metrics/section-one.svg)
+
 
 
 ## My Skill Set

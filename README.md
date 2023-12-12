@@ -37,6 +37,12 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 ![Metrics](metrics/section-habbits.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="games/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="games/github-snake.svg" />
+  <img alt="github-snake" src="games/github-snake.svg" />
+</picture>
+
 ![Metrics](metrics/section-languages.svg)
 
 </div>

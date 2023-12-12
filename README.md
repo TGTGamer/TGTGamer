@@ -89,24 +89,33 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </td></tr></table>
 
-<div align="center">
+<table style="border: none;"><tr style="border: none;"><td valign="top" width="50%" style="border: none;>
 
-![Metrics](metrics/section-leetcode.svg)
 ![Metrics](metrics/section-sponsors.svg)
 
-</div>
+</td><td valign="top" width="50%" style="border: none;>
 
-<div align="center">
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
+
+![Metrics](metrics/section-leetcode.svg)
+
+</td></tr></table>
 
 ![Metrics](metrics/section-achievements.svg)
 
-</div>
 
 <br/>
 
 ## Connect with me
 
-<table><tr><td valign="top" width="20%">
+<table style="border: none;"><tr style="border: none;"><td valign="top" width="80%" style="border: none;>
+
+![Metrics](metrics/section-code.svg)
+
+![Metrics](metrics/section-followup.svg)
+
+
+</td><td valign="top" width="20%" style="border: none;>
 
 <div align="center">
 
@@ -147,21 +156,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 </a>  
 </div>
 
-</td><td valign="top" width="80%">
-
-<div align="center">
-
-![Metrics](metrics/section-code.svg)
-
-![Metrics](metrics/section-followup.svg)
-
-</div>
-
 </td></tr></table>
-
-<br/>
-
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
 
 <br/>
 

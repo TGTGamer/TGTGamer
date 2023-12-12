@@ -50,6 +50,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: yes

@@ -27,12 +27,19 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </div>
 
+<div align="center">
 
-![Metrics](metrics/section-one.svg)
+![Metrics](metrics/section-intro.svg)
 
+</div>
 
+<div align="center">
 
-## My Skill Set
+![Metrics](metrics/section-habbits.svg)
+
+![Metrics](metrics/section-languages.svg)
+
+</div>
 
 <table><tr><td valign="top" width="33%">
 
@@ -82,51 +89,79 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 </td></tr></table>
 
+<div align="center">
+
+![Metrics](metrics/section-leetcode.svg)
+![Metrics](metrics/section-sponsors.svg)
+
+</div>
+
+<div align="center">
+
+![Metrics](metrics/section-achievements.svg)
+
+</div>
+
 <br/>
 
 ## Connect with me
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="20%">
 
 <div align="center">
+
 <a href="https://github.com/TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://dev.to/TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/tgtgamer" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://www.facebook.com/jonathanstevens144" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://instagram.com/tgtgamer" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://gitlab.com/TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://hashnode.com/@TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://codepen.com/TGTGamer" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="80%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
+<div align="center">
+
+![Metrics](metrics/section-code.svg)
+
+![Metrics](metrics/section-followup.svg)
+
+</div>
 
 </td></tr></table>
 
 <br/>
 
-
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=21xc6lko2t6sn466piiwtnhuq&cover_image=true&theme=novatorem&bar_color_cover=true)
 
 <br/>
 

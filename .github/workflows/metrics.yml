@@ -57,6 +57,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+      
+      - name: Upload Snake Animations
+        uses: actions/upload-pages-artifact@v2.0.0
+        with:
+          path: dist
 
       - uses: lowlighter/metrics@latest
         with:

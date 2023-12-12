@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Platane/snk</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</div>
@@ -427,7 +427,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 20:19:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 20:35:05 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

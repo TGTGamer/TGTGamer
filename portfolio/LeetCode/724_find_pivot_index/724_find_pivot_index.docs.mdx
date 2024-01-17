@@ -3,28 +3,31 @@ labels: ['leetcode']
 description: 'A leetcode code question'
 ---
 
+# 724. Find Pivot Index
+
 This project is my attempt at leetcode challange: 724. Find Pivot Index
 
-You can attempt this challenge yourself here: https://leetcode.com/problems/find-pivot-index/
+You can attempt this challenge yourself [here(https://leetcode.com/problems/find-pivot-index/)]
 
-# Attempt 1
+## Attempt 1
 
-## Intuition
+### Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
 
+### Approach
 
-## Approach
 <!-- Describe your approach to solving the problem. -->
 
+### Complexity
 
-## Complexity
 - Time complexity:
+
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-## Code
+### Code
 
 ```ts
 export function pivotIndexSlow(nums: number[]): number {
@@ -71,31 +74,36 @@ function findIndex(nums: number[], index: number): Number | Boolean {
 
 ```
 
-# Attempt 2
+## Attempt 2
 
-## Intuition
+### Intuition 2
 <!-- Describe your first thoughts on how to solve this problem. -->
 
+### Approach 2
 
-## Approach
 <!-- Describe your approach to solving the problem. -->
 
+### Complexity 2
 
-## Complexity
 - Time complexity:
+
 <!-- Add your time complexity here, e.g. $$O(n)$$ -->
 
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 
-## Code
+### Code 2
 
 ```ts
+
 export function pivotIndex(nums: number[]): number {
   let total = 0, compare = 0, index: number | undefined;
   // Calculate the entire sum of the array
   for (let i of nums) total += i
-  // calculate the sum of each step, minus from the total (removing the index item) and see if they match
+
+  // calculate the sum of each step, minus from the total 
+  // (removing the index item) and see if they match
+
   for (let i in nums) {
       if (compare === (total - compare - nums[Number(i)])) {
           index = Number(i) //?
@@ -107,4 +115,5 @@ export function pivotIndex(nums: number[]): number {
   if (index == undefined) return -1
   return index
 }
+
 ```

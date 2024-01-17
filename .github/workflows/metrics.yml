@@ -48,7 +48,8 @@ on:
       - master
       - main
     paths-ignore:
-      - .github
+      - .github/**
+      - .github/workflows/**
 
 permissions:
   contents: read

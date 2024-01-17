@@ -1,7 +1,7 @@
 /*
  * Project: TGTGamer
- * File: richest_customer_wealth.ts
- * Path: \portfolio\LeetCode\richest_customer_wealth\richest_customer_wealth.ts
+ * File: 1672_richest_customer_wealth.ts
+ * Path: \portfolio\LeetCode\1672_richest_customer_wealth\1672_richest_customer_wealth.ts
  * Created Date: Friday, November 11th 2022
  * Author: Jonathan Stevens (Email: jonathan@resnovas.com, Github: https://github.com/TGTGamer)
  * -----

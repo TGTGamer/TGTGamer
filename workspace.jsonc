@@ -1,53 +1,84 @@
 /**
  * this is the main configuration file of your bit workspace.
- * for full documentation, please see: https://bit.dev/docs/workspace/workspace-configuration
+ * for full documentation, please see: https://bit.dev/reference/workspace/workspace-json
  **/{
   "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
+  /**
+   * main configuration of the Bit workspace.
+   **/
   "teambit.workspace/workspace": {
+    /**
+     * the name of the component workspace. used for development purposes.
+     **/
     "name": "TGTGamer Coding Portfolio",
+    /**
+     * set the icon to be shown on the Bit server.
+     **/
     "icon": "https://static.bit.dev/bit-logo.svg",
+    /**
+     * default directory to place a component during `bit import` and `bit create`.
+     * the following placeholders are available:
+     * name - component name includes namespace, e.g. 'ui/button'.
+     * scopeId - full scope-id includes the owner, e.g. 'teambit.compilation'.
+     * scope - scope name only, e.g. 'compilation'.
+     * owner - owner name in bit.dev, e.g. 'teambit'.
+     **/
     "defaultDirectory": "portfolio/{scope}/{name}",
-    "defaultScope": "tgtgamer.leetcode"
+    /**
+     * default scope for all components in workspace.
+     **/
+    "defaultScope": "tgtgamer.leetcode",
+    "defaultOwner": "tgtgamer",
+    "resolveAspectsFromNodeModules": true,
+    "resolveEnvsFromRoots": true
   },
-  "teambit.workspace/variants": {
-    "portfolio/aoc": {
-      "teambit.pkg/pkg": {
-        "packageManagerPublishArgs": [
-          "--access public"
-        ],
-        "packageJson": {
-          "private": false,
-          "name": "@tgtgam3r/aoc-{name}"
-        }
-      }
-    },
-    "portfolio/leetcode": {
-      "teambit.pkg/pkg": {
-        "packageManagerPublishArgs": [
-          "--access public"
-        ],
-        "packageJson": {
-          "private": false,
-          "name": "@tgtgam3r/leetcode-{name}"
-        }
-      }
-    }
+  /**
+   * comment in to include generator templates in your workspace.
+   * browse more dev environments: https://bit.dev/docs/getting-started/composing/dev-environments
+  **/
+  "teambit.generator/generator": {
+    // "envs": [
+    //   "teambit.node/node",
+    //   "teambit.mdx/mdx",
+    //   "teambit.harmony/aspect",
+    //   "teambit.harmony/node",
+    //   "teambit.react/react"
+    // ]
   },
+  // "teambit.workspace/variants": {
+  //   "portfolio/aoc": {
+  //     "teambit.pkg/pkg": {
+  //       "packageManagerPublishArgs": [
+  //         "--access public"
+  //       ],
+  //       "packageJson": {
+  //         "private": false,
+  //         "name": "@tgtgam3r/aoc-{name}"
+  //       }
+  //     }
+  //   },
+  //   "portfolio/leetcode": {
+  //     "teambit.pkg/pkg": {
+  //       "packageManagerPublishArgs": [
+  //         "--access public"
+  //       ],
+  //       "packageJson": {
+  //         "private": false,
+  //         "name": "@tgtgam3r/leetcode-{name}"
+  //       }
+  //     }
+  //   }
+  // },
   "teambit.dependencies/dependency-resolver": {
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
-      "dependencies": {
-        "@apollo/client": "^3.8.1",
-        "graphql": "^16.8.0",
-        "graphql-request": "^6.1.0",
-        "node-fetch": "^2.6.1"
-      },
-      "peerDependencies": {
-        "@emotion/react": "11.10.5",
-        "@emotion/styled": "11.10.5",
-        "react-dom": "18.2.0"
-      }
+      "dependencies": {},
+      "peerDependencies": {}
     },
-    "linkCoreAspects": true
+    "linkCoreAspects": true,
+    "rootComponents": true
+  },
+  "teambit.workspace/workspace-config-files": {
+    "enableWorkspaceConfigWrite": true
   }
 }

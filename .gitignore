@@ -4,3 +4,5 @@
 **/lib
 **/coverage
 **/web
+.eslintrc.json
+.prettierrc.cjs

@@ -3,73 +3,95 @@
 /**
  * The Bitmap file is an auto generated file used by Bit to track all your Bit components. It maps the component to a folder in your file system.
  * This file should be committed to VCS(version control).
- * Components are listed using their component ID (https://bit.dev/docs/components/component-id).
+ * Components are listed using their component ID (https://bit.dev/reference/components/component-id).
  * If you want to delete components you can use the "bit remove <component-id>" command.
- * See the docs (https://bit.dev/docs/components/removing-components) for more information, or use "bit remove --help".
+ * See the docs (https://bit.dev/reference/components/removing-components) for more information, or use "bit remove --help".
  */
 
 {
+    "1342_number_of_steps_to_reduce_a_number_to_zero": {
+        "name": "1342_number_of_steps_to_reduce_a_number_to_zero",
+        "scope": "tgtgamer.leetcode",
+        "version": "659bf48875f0cde1831dfcbe3555a69ccaae8107",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/1342_number_of_steps_to_reduce_a_number_to_zero"
+    },
+    "1480_running_sum_of_1d_array": {
+        "name": "1480_running_sum_of_1d_array",
+        "scope": "tgtgamer.leetcode",
+        "version": "f6beabc4c100a25fa59c756721720232387fe540",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/1480_running_sum_of_1d_array"
+    },
+    "1672_richest_customer_wealth": {
+        "name": "1672_richest_customer_wealth",
+        "scope": "tgtgamer.leetcode",
+        "version": "b0d3ec1a7e9c897b9b0a1a45ad099b99197d3bae",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/1672_richest_customer_wealth"
+    },
     "2020/password_philosophy": {
+        "name": "2020/password_philosophy",
         "scope": "tgtgamer.aoc",
-        "version": "0.0.3",
+        "version": "1b694e836f11331f00918e1417b6f8fb5a6b8813",
         "mainFile": "index.ts",
         "rootDir": "portfolio/aoc/2020/password_philosophy"
     },
     "2020/report_repair": {
+        "name": "2020/report_repair",
         "scope": "tgtgamer.aoc",
-        "version": "0.0.3",
+        "version": "d985a027647c1561602574c595c4c3e69a81dae4",
         "mainFile": "index.ts",
         "rootDir": "portfolio/aoc/2020/report_repair"
     },
     "2020/toboggan_trajectory": {
+        "name": "2020/toboggan_trajectory",
         "scope": "tgtgamer.aoc",
-        "version": "0.0.3",
+        "version": "a3d82ab986edb2e876b1bbd911c85ac249e61a90",
         "mainFile": "index.ts",
         "rootDir": "portfolio/aoc/2020/toboggan_trajectory"
     },
+    "205_isomorphic_strings": {
+        "name": "205_isomorphic_strings",
+        "scope": "tgtgamer.leetcode",
+        "version": "9ec4a712043b7e574e819fc1c1ac648c78907bcd",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/205_isomorphic_strings"
+    },
+    "206_reverse_linked_list": {
+        "name": "206_reverse_linked_list",
+        "scope": "tgtgamer.leetcode",
+        "version": "0bb66e8407c9ed24b01874b9889dde1dbbdae35d",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/206_reverse_linked_list"
+    },
+    "21_merge_two_sorted_lists": {
+        "name": "21_merge_two_sorted_lists",
+        "scope": "tgtgamer.leetcode",
+        "version": "77770abea7fe097e7d73647313b0cb55b66a49ce",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/21_merge_two_sorted_lists"
+    },
+    "392_is_subsequence": {
+        "name": "392_is_subsequence",
+        "scope": "tgtgamer.leetcode",
+        "version": "ec0f8e92d75e879f8ac84e221cf067e9f1d88919",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/392_is_subsequence"
+    },
+    "724_find_pivot_index": {
+        "name": "724_find_pivot_index",
+        "scope": "tgtgamer.leetcode",
+        "version": "9b65eec9f9d7ef39decd5147e63efa8424f97238",
+        "mainFile": "index.ts",
+        "rootDir": "portfolio/leetcode/724_find_pivot_index"
+    },
     "evolution_chain": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.pokeapi",
+        "name": "evolution_chain",
+        "scope": "tgtgamer.pokeapi",
+        "version": "fb35668485d6adb8bbf7b95b6aa1c1d194e71b6d",
         "mainFile": "index.ts",
-        "rootDir": "portfolio/pokeapi/evolution_chain",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
+        "rootDir": "portfolio/pokeapi/evolution_chain"
     },
-    "find_pivot_index": {
-        "scope": "tgtgamer.leetcode",
-        "version": "0.0.2",
-        "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/find_pivot_index"
-    },
-    "number_of_steps_to_reduce_a_number_to_zero": {
-        "scope": "",
-        "version": "",
-        "defaultScope": "tgtgamer.leetcode",
-        "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/number_of_steps_to_reduce_a_number_to_zero",
-        "config": {
-            "teambit.harmony/node": {},
-            "teambit.envs/envs": {
-                "env": "teambit.harmony/node"
-            }
-        }
-    },
-    "richest_customer_wealth": {
-        "scope": "tgtgamer.leetcode",
-        "version": "0.0.2",
-        "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/richest_customer_wealth"
-    },
-    "running_sum_of_1d_array": {
-        "scope": "tgtgamer.leetcode",
-        "version": "0.0.2",
-        "mainFile": "index.ts",
-        "rootDir": "portfolio/leetcode/running_sum_of_1d_array"
-    },
-    "$schema-version": "15.0.0"
+    "$schema-version": "17.0.0"
 }

@@ -38,15 +38,15 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            git subrepo push projects/modules/segment_connect
+                            git subrepo push projects/modules/vetting
 
 subrepo:
-  subdir:   "projects/modules/segment_connect"
-  merged:   "dd12a51"
+  subdir:   "projects/modules/vetting"
+  merged:   "1218c95"
 upstream:
-  origin:   "https://github.com/Eventiva/segment_connect"
+  origin:   "https://github.com/Eventiva/vetting"
   branch:   "develop"
-  commit:   "dd12a51"
+  commit:   "1218c95"
 git-subrepo:
   version:  "0.4.6"
   origin:   "???"
@@ -56,8 +56,8 @@ git-subrepo:
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">1801b20e</span>
-                            <span class="code">projects/modules/segment_connect/.gitrepo</span>
+                            <span class="code">eaf62f1e</span>
+                            <span class="code">projects/modules/vetting/.gitrepo</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--2</span>
@@ -68,7 +68,7 @@ git-subrepo:
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,7 +6,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[subrepo]<br /></span><span class="token prefix unchanged">·</span><span class="token line">remote = https://github.com/Eventiva/segment_connect<br /></span><span class="token prefix unchanged">·</span><span class="token line">branch = develop<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">commit = 8d5594f5152bea2e8bb9b0ad9515de0b5b040e7b<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">commit = dd12a51f60eeb1c4a50a5c4fcf73e1d8eac29b37<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">method = merge<br /></span><span class="token prefix unchanged">·</span><span class="token line">cmdver = 0.4.6<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">parent = 52db65fefd1a6a7ccf84f118d7e3392c0345d180<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">parent = 2953818fbbc8fff80d3179abcc6bb0a60db918fc</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,7 +6,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[subrepo]<br /></span><span class="token prefix unchanged">·</span><span class="token line">remote = https://github.com/Eventiva/vetting<br /></span><span class="token prefix unchanged">·</span><span class="token line">branch = develop<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">commit = 8973a56cfc8cebe684223998f7695eaa22fe3fa2<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">commit = 1218c9544ca19c0f734d3a89f0f0c2612f2c6c73<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">method = merge<br /></span><span class="token prefix unchanged">·</span><span class="token line">cmdver = 0.4.6<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">parent = bc160b070f39a104d70f7573018f295e1c7b6d48<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">parent = 489363ec59ba6beada27486802f0e6774929a3c1</span></span></code>
                         </div>
                     </section>
                 </div>

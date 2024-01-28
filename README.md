@@ -168,12 +168,12 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#281](https://github.com/Eventiva/Eventiva/pull/281) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-2. ❌ Closed PR [#280](https://github.com/Eventiva/Eventiva/pull/280) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-3. 🎉 Merged PR [#277](https://github.com/Eventiva/Eventiva/pull/277) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-4. ❌ Closed PR [#279](https://github.com/Eventiva/Eventiva/pull/279) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-5. 🎉 Merged PR [#278](https://github.com/Eventiva/Eventiva/pull/278) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-6. ❌ Closed PR [#6](https://github.com/Eventiva/.trunk/pull/6) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
+1. 🗣 Commented on [#165](https://github.com/ItzDerock/discord-html-transcripts/issues/165#issuecomment-1913650654) in [ItzDerock/discord-html-transcripts](https://github.com/ItzDerock/discord-html-transcripts)
+2. ❌ Closed PR [#281](https://github.com/Eventiva/Eventiva/pull/281) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. ❌ Closed PR [#280](https://github.com/Eventiva/Eventiva/pull/280) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+4. 🎉 Merged PR [#277](https://github.com/Eventiva/Eventiva/pull/277) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. ❌ Closed PR [#279](https://github.com/Eventiva/Eventiva/pull/279) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+6. 🎉 Merged PR [#278](https://github.com/Eventiva/Eventiva/pull/278) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 7. ❌ Closed PR [#4](https://github.com/Eventiva/.trunk/pull/4) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
 8. ❌ Closed PR [#3](https://github.com/Eventiva/.trunk/pull/3) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
 9. ❌ Closed PR [#32](https://github.com/Eventiva/.trunk/pull/32) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)

@@ -168,9 +168,9 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#274](https://github.com/Eventiva/Eventiva/pull/274) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-2. ❌ Closed PR [#2](https://github.com/Eventiva/.trunk/pull/2) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
-3. ❌ Closed PR [#1](https://github.com/Eventiva/.trunk/pull/1) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
+1. 🎉 Merged PR [#277](https://github.com/Eventiva/Eventiva/pull/277) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. ❌ Closed PR [#279](https://github.com/Eventiva/Eventiva/pull/279) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. 🎉 Merged PR [#278](https://github.com/Eventiva/Eventiva/pull/278) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 4. ❌ Closed PR [#7](https://github.com/Eventiva/.trunk/pull/7) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
 5. ❌ Closed PR [#5](https://github.com/Eventiva/.trunk/pull/5) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
 6. ❌ Closed PR [#6](https://github.com/Eventiva/.trunk/pull/6) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)

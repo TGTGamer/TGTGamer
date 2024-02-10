@@ -168,14 +168,14 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#302](https://github.com/Eventiva/Eventiva/pull/302) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-2. 🎉 Merged PR [#300](https://github.com/Eventiva/Eventiva/pull/300) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-3. 🎉 Merged PR [#301](https://github.com/Eventiva/Eventiva/pull/301) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-4. 💪 Opened PR [#300](https://github.com/Eventiva/Eventiva/pull/300) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-5. ❌ Closed PR [#299](https://github.com/Eventiva/Eventiva/pull/299) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
-6. ❌ Closed PR [#9](https://github.com/Eventiva/gaming/pull/9) in [Eventiva/gaming](https://github.com/Eventiva/gaming)
-7. ❌ Closed PR [#3](https://github.com/Eventiva/change-report/pull/3) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
-8. ❌ Closed PR [#1](https://github.com/Eventiva/change-report/pull/1) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
+1. ❌ Closed PR [#306](https://github.com/Eventiva/Eventiva/pull/306) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. ❌ Closed PR [#305](https://github.com/Eventiva/Eventiva/pull/305) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. 🎉 Merged PR [#302](https://github.com/Eventiva/Eventiva/pull/302) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+4. 🎉 Merged PR [#300](https://github.com/Eventiva/Eventiva/pull/300) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. 🎉 Merged PR [#301](https://github.com/Eventiva/Eventiva/pull/301) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+6. 💪 Opened PR [#300](https://github.com/Eventiva/Eventiva/pull/300) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+7. ❌ Closed PR [#299](https://github.com/Eventiva/Eventiva/pull/299) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+8. ❌ Closed PR [#9](https://github.com/Eventiva/gaming/pull/9) in [Eventiva/gaming](https://github.com/Eventiva/gaming)
 9. ❌ Closed PR [#5](https://github.com/Eventiva/vetting/pull/5) in [Eventiva/vetting](https://github.com/Eventiva/vetting)
 10. ❌ Closed PR [#293](https://github.com/Eventiva/.trunk/pull/293) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)
 11. ❌ Closed PR [#292](https://github.com/Eventiva/.trunk/pull/292) in [Eventiva/.trunk](https://github.com/Eventiva/.trunk)

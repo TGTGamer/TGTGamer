@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/github-script</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write workflows scripting the GitHub API in JavaScript</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>robotology/gh-action-nightly-merge</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically merge the stable branch into the development one</div>
@@ -430,7 +430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2024, 04:07:15 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Feb 2024, 08:07:49 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

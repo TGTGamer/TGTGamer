@@ -168,11 +168,11 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/Eventiva/change-report/pull/2) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
-2. ❌ Closed PR [#5](https://github.com/Eventiva/change-report/pull/5) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
-3. ❌ Closed PR [#17](https://github.com/Eventiva/control_centre/pull/17) in [Eventiva/control_centre](https://github.com/Eventiva/control_centre)
-4. ❌ Closed PR [#6](https://github.com/Eventiva/teamspeak_integration/pull/6) in [Eventiva/teamspeak_integration](https://github.com/Eventiva/teamspeak_integration)
-5. ❌ Closed PR [#1](https://github.com/Eventiva/repo-template/pull/1) in [Eventiva/repo-template](https://github.com/Eventiva/repo-template)
+1. 🎉 Merged PR [#420](https://github.com/Eventiva/Eventiva/pull/420) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. ❌ Closed PR [#419](https://github.com/Eventiva/Eventiva/pull/419) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. ❌ Closed PR [#2](https://github.com/Eventiva/change-report/pull/2) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
+4. ❌ Closed PR [#5](https://github.com/Eventiva/change-report/pull/5) in [Eventiva/change-report](https://github.com/Eventiva/change-report)
+5. ❌ Closed PR [#17](https://github.com/Eventiva/control_centre/pull/17) in [Eventiva/control_centre](https://github.com/Eventiva/control_centre)
 6. 🎉 Merged PR [#417](https://github.com/Eventiva/Eventiva/pull/417) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 7. 💪 Opened PR [#417](https://github.com/Eventiva/Eventiva/pull/417) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 8. ❌ Closed PR [#416](https://github.com/Eventiva/Eventiva/pull/416) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

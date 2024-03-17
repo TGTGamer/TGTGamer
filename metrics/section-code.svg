@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="239" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
     <defs>
         <style/>
     </defs>
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 16 Mar 2024, 14:59:51
+                            On 17 Mar 2024, 15:31:19
                         </div>
                     </section>
                 </div>
@@ -38,86 +38,27 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(aspect-template.ts): add AspectTemplate class to generate files for creating an aspect
-feat(aspect-template.ts): add AspectTemplateOptions interface to define options for creating an aspect
-feat(aspect-template.ts): implement generateFiles method in AspectTemplate class to generate aspect files
-feat(aspect-template.ts): implement prompt method in AspectTemplate class to prompt user for input
-feat(aspect-template.ts): implement from method in AspectTemplate class to create an instance of AspectTemplate
-feat(aspect-user-input.ts): add AspectUserInput type to define user input for creating an aspect
-feat(default-runtimes.ts): add defaultRuntimes array to define default runtimes for an aspect
+                            feat(ping): add Ping aspect for Discord bot commands
 
-feat(aspect-runtime.ts): add aspect-runtime.ts file to generate runtime for aspect
-feat(aspect-template.ts): add aspect-template.ts file to generate aspect file
-feat(config-template.ts): add config-template.ts file to generate config file
-feat(docs-template.ts): add docs-template.ts file to generate docs file
-feat(index-template.ts): add index-template.ts file to generate index file
-feat(slot-template.ts): add slot-template.ts file to generate slot file
+This commit adds the Ping aspect for Discord bot commands. The following files were added or modified:
 
-feat(harmony-templates): add test-template.ts file to generate test files for Harmony components
-feat(harmony-templates): add eslintConfigFile function to generate eslintrc.js file for Harmony components
-feat(harmony-templates): add jestConfigFile function to generate jest.config.js file for Harmony components
-feat(harmony-templates): add prettierConfigFile function to generate prettier.config.js file for Harmony components
-feat(harmony-templates): add tsConfigFile function to generate tsconfig.json file for Harmony components
-feat(harmony-templates): add webpackTransformerFile function to generate webpack.config.ts file for Harmony components
-feat(harmony-templates): add envDocsFile function to generate docs.mdx file for Harmony components
+- Added `projects/bots/commands/ping/index.ts` file, which exports the `PingAspect` and `PingDiscord` types.
+- Added `projects/bots/commands/ping/ping-config.ts` file, which defines the `PingConfig` type.
+- Added `projects/bots/commands/ping/ping.aspect.ts` file, which exports the `PingAspect`.
+- Added `projects/bots/commands/ping/ping.discord.runtime.ts` file, which defines the `PingDiscord` class.
+- Added `projects/bots/commands/ping/ping.discord.spec.ts` file, which contains a test for retrieving the `PingDiscord` aspect.
+- Added `projects/bots/commands/ping/ping.docs.mdx` file, which provides documentation for the Ping aspect.
 
-feat(harmony-env-template): add new files for environment template
-
-- Added `env-jsonc.ts` file to define component dependencies and dev dependencies for the environment.
-- Added `index-file.ts` file to export the environment.
-- Added `node-env-bit-env.ts` file to define the extended Bit official Harmony environment.
-- Added `asset.ts` file to declare module types for asset files.
-- Added `style.ts` file to declare module types for style files.
-
-feat(harmony-env-template): add new template for creating a customized nodejs dev environment
-feat(harmony-platform-template): add new template for creating an harmony platform to compose business aspects into a unified platform
-
-feat(harmony-templates): add new files and options for Harmony templates
-
-- Added a new file `harmony-templates-options.ts` to define options for Harmony templates.
-- Added a new file `harmony-templates.docs.mdx` to provide documentation for Harmony templates.
-- Added a new file `harmony-templates.spec.ts` for testing Harmony templates.
-- Added a new file `harmony-templates.ts` to create a list of Harmony templates based on the provided options.
-- Added a new file `index.ts` to export the Harmony templates and related files.
-- Added a new file `app-file.ts` to generate the platform app file.
-- Added a new file `backend.ts` to generate the backend types file.
-- Added a new file `client-mount.tsx` to generate the client mounter file.
-
-The changes were made to enhance the functionality of the Harmony templates by providing more customization options and generating additional files for the templates.
-
-feat(platform-aspect): add platform aspect files
-
-- Add `config.ts` file to define the configuration for the platform aspect.
-- Add `gateway.ts` file to implement the platform gateway functionality.
-- Add `index-file.ts` file to export the aspect and its related types.
-- Add `node-tests.ts` file to write tests for the node runtime.
-- Add `platform-node.ts` file to implement the platform node runtime functionality.
-- Add `platform-ui-template.ts` file to implement the platform UI template functionality.
-- Add `route.ts` file to define the route type and slot for the platform UI.
-
-These files are added to support the platform aspect and its related functionalities.
-
-feat(platform-aspect): add server-mount.ts file to handle server-side rendering of the platform app
-feat(platform-aspect): add ui-tests.ts file to test the platform UI
-feat(platform-aspect): add platform-aspect-template.ts file to generate the platform aspect template
-feat(platform-aspect): add runtime-def.ts file to define the runtime for the platform
-feat(platform-aspect): add runtime-docs.ts file to provide documentation for the platform runtime
-feat(platform-aspect): add runtime-impl.ts file to implement the platform runtime
-feat(platform-aspect): add runtime-index.ts file to export the platform runtime
-feat(platform-aspect): add runtime-test.ts file for testing the platform runtime
-
-feat(runtime-template.ts): add HarmonyRuntimeTemplate class to generate files for building an harmony runtime environment
-
-The HarmonyRuntimeTemplate class is added to generate files for building an harmony runtime environment. It takes in options such as name, description, hidden, env, and installMissingDeps. The generateFiles method generates the necessary files for the runtime, including the runtime index file, runtime definition file, runtime implementation file, aspect file, and runtime documentation file. The class also includes a static from method to create an instance of the HarmonyRuntimeTemplate class with the provided options.
+The Ping aspect can be composed into a Harmony platform to enable Ping functionality for Discord bots.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a4e8339c</span>
-                            <span class="code">projects/modules/generators/harmony-templates/harmony-env-template/files/config/eslintrc.ts</span>
+                            <span class="code">c5861c4a</span>
+                            <span class="code">projects/bots/commands/ping/ping.discord.spec.ts</span>
                             <span class="code">
-                                <span class="snippet additions">++8</span>
+                                <span class="snippet additions">++11</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -126,7 +67,7 @@ The HarmonyRuntimeTemplate class is added to generate files for building an harm
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export const eslintConfigFile = () =&gt; {<br /></span><span class="token prefix inserted">+</span><span class="token line">return {<br /></span><span class="token prefix inserted">+</span><span class="token line">  relativePath: './config/eslintrc.js',<br /></span><span class="token prefix inserted">+</span><span class="token line">  content: `module.exports = {<br /></span><span class="token prefix inserted">+</span><span class="token line">extends: [require.resolve('@teambit/react.react-env/config/eslintrc')],<br /></span><span class="token prefix inserted">+</span><span class="token line">};`,<br /></span><span class="token prefix inserted">+</span><span class="token line">};<br /></span><span class="token prefix inserted">+</span><span class="token line">};</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,11 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { loadAspect } from '@bitdev/harmony.testing.load-aspect';<br /></span><span class="token prefix inserted">+</span><span class="token line">import type { PingDiscord } from './ping.discord.runtime.js';<br /></span><span class="token prefix inserted">+</span><span class="token line">import { PingAspect } from './ping.aspect.js';<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">it('should retrieve the aspect', async () =&gt; {<br /></span><span class="token prefix inserted">+</span><span class="token line"> const ping = await loadAspect&lt;PingDiscord&gt;(PingAspect, {<br /></span><span class="token prefix inserted">+</span><span class="token line">   runtime: 'discord',<br /></span><span class="token prefix inserted">+</span><span class="token line"> });<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line"> expect(ping).toBeTruthy();<br /></span><span class="token prefix inserted">+</span><span class="token line">});    </span></span></code>
                         </div>
                     </section>
                 </div>

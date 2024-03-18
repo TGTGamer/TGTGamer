@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="239" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="159" class="">
     <defs>
         <style/>
     </defs>
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 17 Mar 2024, 15:31:19
+                            On 16 Mar 2024, 14:59:51
                         </div>
                     </section>
                 </div>
@@ -38,24 +38,42 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(discord): add Discord runtime implementation
+                            feat(symphony-platform): add symphony platform template
 
-- Added `discord-definition.ts` file to define the Discord runtime.
-- Added `discord.aspect.ts` file to create the Discord aspect.
-- Added `discord.docs.mdx` file to provide documentation for the Discord runtime.
-- Added `discord.ts` file to implement the Discord runtime class.
-- Added `index.ts` file to export the Discord runtime.
+Add a new symphony platform template to generate a symphony platform. The symphony platform is a composition of business aspects into a unified platform.
 
-This commit adds the Discord runtime to the project, allowing aspects to be used in Discord runtimes. The Discord runtime class includes methods for creating and running application types within a Harmony runtime context. The runtime also includes a Discord aspect for further customization and configuration.
+The template generates the following files:
+- `index.ts`: exports the symphony platform.
+- `index.html`: the HTML file for the platform.
+- `${context.name}.bit-app.ts`: the symphony bit app file that composes the platform.
+- `${context.name}.docs.mdx`: documentation file for the platform.
+
+This template allows users to create a symphony platform by running the command `bit create symphony-platform`.
+
+feat(symphony-templates): add Symphony Templates module for generating templates for Symphony-based platforms
+
+This commit adds a new module called Symphony Templates, which provides functionality for generating templates for Symphony-based platforms. The module includes the following files:
+
+- `symphony-templates-options.ts`: This file defines the options interface for Symphony Templates, which extends the Harmony Templates options interface.
+
+- `symphony-templates.docs.mdx`: This file contains documentation for using Symphony Templates to build aspects for Symphony platforms. It provides an example of how to use Symphony Templates in a Harmony environment and includes instructions for forking the templates for customization.
+
+- `symphony-templates.spec.ts`: This file contains a placeholder test for Symphony Templates.
+
+- `symphony-templates.ts`: This file is the main entry point for Symphony Templates. It exports a function called `SymphonyTemplates` that takes an optional `SymphonyTemplatesOptions` object as input and returns a Harmony Templates configuration object. The function includes default options and templates for generating Symphony platform files for both the browser and node runtimes.
+
+The Symphony Templates module is designed to be used in conjunction with the Harmony Templates module to provide a comprehensive solution for generating templates for Symphony-based platforms.
+
+Signed-off-by: Jonathan Stevens &lt;jonathan.stevens@eventiva.co.uk&gt;
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">cbc7eef0</span>
-                            <span class="code">projects/envs/runtimes/discord/discord.aspect.ts</span>
+                            <span class="code">1b6e1704</span>
+                            <span class="code">projects/modules/generators/symphony-templates/index.ts</span>
                             <span class="code">
-                                <span class="snippet additions">++8</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -64,7 +82,7 @@ This commit adds the Discord runtime to the project, allowing aspects to be used
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,8 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">import { Aspect } from '@bitdev/harmony.harmony';<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">export const DiscordAspect = Aspect.create({<br /></span><span class="token prefix inserted">+</span><span class="token line"> id: 'eventiva.envs/runtimes/discord'<br /></span><span class="token prefix inserted">+</span><span class="token line">});<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">export default DiscordAspect;<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,2 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">export { SymphonyTemplates } from './symphony-templates.js';<br /></span><span class="token prefix inserted">+</span><span class="token line">export type { SymphonyTemplatesOptions } from './symphony-templates-options.js';</span></span></code>
                         </div>
                     </section>
                 </div>

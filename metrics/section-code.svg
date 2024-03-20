@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="146" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 17 Mar 2024, 15:31:19
+                            On 18 Mar 2024, 02:06:49
                         </div>
                     </section>
                 </div>
@@ -38,78 +38,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore(aspect-template.ts): update file header comments to include project information, author details, contributing guidelines, and license information
-feat(aspect-template.ts): add JSDoc comments to provide documentation for the AspectTemplateOptions and AspectTemplate classes
-refactor(aspect-template.ts): refactor the generateFiles method to improve readability and maintainability
-refactor(aspect-template.ts): refactor the prompt method to improve readability and maintainability
-refactor(aspect-template.ts): refactor the static from method to improve readability and maintainability
+                            chore: remove change-report as no longer maintaining or using
 
-chore(aspect-runtime.ts): add file header with project information, author details, contributing guidelines, code of conduct, and license information
-feat(aspect-runtime.ts): add JSDoc for the `generateSlot` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateDependencyTypes` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateStaticDeps` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateDepImports` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateUserImports` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateSlot` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateDependencyTypes` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateStaticDeps` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateDepImports` function to improve code documentation and readability
-feat(aspect-runtime.ts): add JSDoc for the `generateUserImports` function to improve code documentation and readability
-
-feat(aspect-runtime.ts): add runtimeFile function to generate a runtime file for a component with the provided context, runtime options, and slots. The function generates the content of the runtime file including dependencies, imports, class definition, methods, constructor, provider function, and default configuration.
-
-feat(config-template.ts): add header comments with project information, contributing guidelines, code of conduct, and license details
-feat(config-template.ts): update JSDoc for configFile function to include author information
-fix(config-template.ts): fix conditional check for configExtends parameter in configFile function
-feat(slot-template.ts): add JSDoc for generateName function to explain its purpose and author information
-feat(slot-template.ts): add JSDoc for slotFile function to explain its purpose and author information
-fix(config/eslintrc.ts): remove eslintConfigFile function as it is no longer needed
-fix(config/jest.config.ts): remove jestConfigFile function as it is no longer needed
-fix(config/prettier.config.ts): remove prettierConfigFile function as it is no longer needed
-fix(config/tsconfig.json.ts): remove tsConfigFile function as it is no longer needed
-fix(config/webpack-transformer.ts): remove webpackTransformerFile function as it is no longer needed
-
-chore(harmony-env-template): remove unused files and dependencies
-
-- Remove `docs.ts` file as it is no longer needed.
-- Remove `env-jsonc.ts` file as it is no longer needed.
-- Remove `index-file.ts` file as it is no longer needed.
-- Remove `node-env-bit-env.ts` file as it is no longer needed.
-- Remove `asset.ts` file as it is no longer needed.
-
-chore(harmony-templates): remove unused files and templates related to the harmony-env and harmony-platform templates
-
-feat(harmony-templates-options.ts): add JSDoc comments to the file to provide documentation and information about the file
-feat(harmony-templates-options.ts): add type definitions for HarmonyTemplatesOptions, RuntimeOptions, Dependencies, Imports, ClassExtends, and ConfigExtends to improve code readability and maintainability
-feat(harmony-templates.ts): add JSDoc comments to the file to provide documentation and information about the file
-feat(harmony-templates.ts): import HarmonyPlatformTemplate, HarmonyRuntimeTemplate, AspectTemplate, PlatformAspectTemplate, and HarmonyEnvTemplate from their respective files to use them in the template list
-
-chore(harmony-templates): remove unused files and update imports
-
-The following changes were made:
-- Removed unused files: `app-file.ts`, `backend.ts`, `client-mount.tsx`, `config.ts`, `gateway.ts`, `index-file.ts`, and `node-tests.ts`.
-- Updated imports in `index.ts` to import from `@bitdev/harmony.generators.harmony-templates` instead of local files.
-
-chore(platform-aspect): remove unused files and dependencies to clean up the project structure
-
-chore(runtime): remove unused files and templates related to Harmony runtime
-
-The following files and templates were removed:
-- `runtime-docs.ts`: This file was removed as it was no longer needed for generating the Harmony runtime documentation.
-- `runtime-impl.ts`: This file was removed as it was no longer needed for generating the Harmony runtime implementation.
-- `runtime-index.ts`: This file was removed as it was no longer needed for generating the Harmony runtime index.
-- `runtime-test.ts`: This file was removed as it was no longer needed for generating the Harmony runtime tests.
-- `runtime-template.ts`: This template was removed as it was no longer needed for generating the Harmony runtime.
+Signed-off-by: Jonathan Stevens &lt;jonathan.stevens@eventiva.co.uk&gt;
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">12fcd0c2</span>
-                            <span class="code">projects/modules/generators/harmony-templates/runtime/files/runtime-index.ts</span>
+                            <span class="code">754d9abc</span>
+                            <span class="code">projects/workflows/change-report/.gitattributes</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--10</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -117,7 +58,7 @@ The following files and templates were removed:
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,10 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import { ComponentContext } from "@teambit/generator";<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">export function runtimeIndexFile(context: ComponentContext) {<br /></span><span class="token prefix deleted">-</span><span class="token line"> return {<br /></span><span class="token prefix deleted">-</span><span class="token line">   relativePath: `index.ts`,<br /></span><span class="token prefix deleted">-</span><span class="token line">   content: `export { ${context.namePascalCase} } from './${context.name}.js';<br /></span><span class="token prefix deleted">-</span><span class="token line">`<br /></span><span class="token prefix deleted">-</span><span class="token line"> }<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">dist/** -diff linguist-generated=true <br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>

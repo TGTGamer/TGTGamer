@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CKGrafico/papanasi</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🥯Papanasi is the Frontend UI library to use cross Frameworks. A set of components to use in Angular, Preact, Qwik, React, Solid, Svelte, Vue and Web Components</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qwikifiers/qwik-storefront-ui</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A frontend library for Qwik that helps developers quickly build fast, accessible, and beautiful storefronts.</div>
@@ -430,7 +430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Mar 2024, 08:07:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 12:08:29 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

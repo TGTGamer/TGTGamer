@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="146" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="133" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,.track{display:flex;align-items:center}.column{flex-direction:column}.track{justify-content:center;margin-bottom:4px}.deleted{color:#da3633}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -28,7 +28,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 20 Mar 2024, 18:51:58
+                            On 21 Mar 2024, 13:32:50
                         </div>
                     </section>
                 </div>
@@ -38,19 +38,145 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            chore(message): remove message entity files
+                            chore(access): remove CHANGELOG.md file
+chore(authenticator): remove CHANGELOG.md file
+chore(check): remove CHANGELOG.md file
+fix(access/index.ts): update file path in file header comment
+fix(authenticator/index.ts): update file path in file header comment
+fix(check/index.ts): update file path in file header comment
+refactor(access/model.zmodel): update import paths for related models
+refactor(authenticator/index.ts): update file path in file header comment
+refactor(check/index.ts): update file path in file header comment
+refactor(server.ts): change port variable case from lowercase port to uppercase PORT to improve semantics
+feat(server.ts): add support for process.env.PORT environment variable to be able to run app on a configurable port
 
-The message entity files (index.ts, message.docs.mdx, message.spec.ts, message.ts) have been removed as they are no longer needed. These files were related to the Message entity, which supported serialization and de-serialization of Message objects. However, this functionality is no longer required in the project, so the files have been deleted.
+chore(check): remove unused import and delete version.txt file
+chore(enums): remove unused import and delete version.txt file
+chore(session): delete CHANGELOG.md file in api/session directory
+
+chore(session): remove unused export statement in session index file
+chore(session): delete version.txt file in session directory
+chore(verification_token): delete CHANGELOG.md file in verification_token directory
+chore(verification_token): delete version.txt file in verification_token directory
+chore(address): delete CHANGELOG.md file in address directory
+
+chore(address): remove unused export statement and version.txt file
+chore(enums): remove unused export statement and version.txt file
+chore(permission): remove unused CHANGELOG.md file
+
+chore(permission): remove unused imports and files
+
+chore(role): remove unused imports and files
+
+feat(role): add identifiers field to Role model to associate identifiers with roles
+fix(role): add updatedAt and createdAt fields to UserRoles model for tracking updates and creation time
+feat(role): add IdentifierRoles model to associate identifiers with roles
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server functionality
+fix(server): remove unused imports and files related to server
+
+chore(user): remove unused imports and commented out code in user index.ts file
+refactor(user): remove unused properties and permissions in user model.zmodel file
+chore(user): delete unused version.txt file in user directory
+chore(community): delete unused CHANGELOG.md file in community directory
+
+chore(communities): remove unused files and directories
+
+- Remove unused files and directories related to the communities module, including:
+  - `projects/entities/communities/community/version.txt`
+  - `projects/entities/communities/members/CHANGELOG.md`
+  - `projects/entities/communities/members/version.txt`
+  - `projects/entities/communities/resource/CHANGELOG.md`
+
+These files and directories are no longer needed and can be safely deleted.
+
+chore(communities/resource/index.ts): remove unnecessary comments and unused import statements
+chore(communities/resource/model.zmodel): add missing import statements and update field definitions
+chore(communities/resource/version.txt): delete version.txt file
+chore(communities/resourcetypes/CHANGELOG.md): delete CHANGELOG.md file
+chore(communities/resourcetypes/index.ts): remove unnecessary comments and unused import statements
+chore(communities/resourcetypes/version.txt): delete version.txt file
+
+chore(column): remove unused files and code related to the Column entity
+chore(document): remove unused files and code related to the Document entity
+chore(enums): remove CHANGELOG.md file from the enums directory
+
+chore(enums): remove unused export statement and deleted version.txt file
+chore(identifier): remove CHANGELOG.md file
+refactor(identifier): add 'community' field to the Identifier model to track communities the user is a member of
+refactor(identifier): add 'roles' field to the Identifier model to store roles and access applied to the identity
+refactor(identifier): remove unused import statements
+refactor(identifier): remove 'version.txt' file
+refactor(linked): remove CHANGELOG.md file
+
+chore(entities): remove unnecessary files and folders
+
+- Remove unused files and folders in the `linked` and `platform` directories
+- Delete `version.txt` and `CHANGELOG.md` files in the `linked`, `platform`, and `action` directories
+
+These changes were made to clean up the project and remove unnecessary files and folders that were no longer needed.
+
+chore(report): remove unused files and directories
+
+The following files and directories were removed:
+- projects/entities/report/action/version.txt
+- projects/entities/report/enums/CHANGELOG.md
+- projects/entities/report/enums/version.txt
+- projects/entities/report/files/CHANGELOG.md
+
+chore(report): remove unused import in index.ts file
+chore(report): remove unused version.txt file
+chore(report): remove unused CHANGELOG.md file
+chore(report): remove unused import in report/index.ts file
+chore(report): remove unused version.txt file
+chore(segment): remove unused CHANGELOG.md file
+
+chore(segment): remove unused files and update file paths and comments
+
+- Remove unused files: `version.txt` and `CHANGELOG.md` in `projects/entities/segment/group` and `projects/entities/segment/user` directories.
+- Update file paths and comments in `index.ts` files in `projects/entities/segment/group` and `projects/entities/segment/user` directories to reflect correct project structure and author information.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">17e23ca8</span>
-                            <span class="code">projects/entities/content/message/index.ts</span>
+                            <span class="code">ccd78d99</span>
+                            <span class="code">projects/entities/api/verification_token/version.txt</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
-                                <span class="snippet deletions">--2</span>
+                                <span class="snippet deletions">--1</span>
                             </span>
                         </div>
                     </section>
@@ -58,7 +184,7 @@ The message entity files (index.ts, message.docs.mdx, message.spec.ts, message.t
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,2 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">export { Message } from './message.js';<br /></span><span class="token prefix deleted">-</span><span class="token line">export type { PlainMessage } from './message.js';</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">0.0.0</span></span></code>
                         </div>
                     </section>
                 </div>

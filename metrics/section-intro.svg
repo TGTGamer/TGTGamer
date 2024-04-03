@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>42wim/matterbridge</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)</div>
@@ -418,7 +418,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2024, 17:06:45 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 21:07:12 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

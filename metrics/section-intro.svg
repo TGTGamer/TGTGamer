@@ -268,7 +268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tc39/proposal-iterator-helpers</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Methods for working with iterators in ECMAScript</div>
@@ -418,7 +418,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2024, 17:07:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 May 2024, 21:07:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

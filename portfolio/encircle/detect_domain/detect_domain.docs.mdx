@@ -1,0 +1,45 @@
+---
+labels: ['DetectDomain', 'module']
+description: 'A DetectDomain module.'
+---
+
+## Task - Detect the Domain Name
+Using the HTML provided, write a function to identify the unique domain names from the links and
+URLS which are embedded in the HTML markup. Output the URLs in alphabetical order.
+
+## Intuition
+
+Use the html file
+needs to be a function
+Identify unique domains
+All http links, other protocols not required
+Links are in markdown format, starting with ( and ending with )
+
+Not sure which part of the url they want alphabetically sorting - sorting by basic sort() has done alphabetically on the whole string.
+
+## Plan
+
+Import file system (node:fs)
+Import file from file system using relative path
+
+Use file as string
+Apply regex to find url's
+Use ( and ) to find the start and end of the string
+
+
+## Problems
+
+Problem 1 - not breaking link end )
+```typescript
+[
+    '(http://www.askoxford.com/concise_oed/train?view=uk). <i>(definition – Compact OED)',
+    '(http://www.hydrogencarsnow.com/blog2/index.php/hydrogen-vehicles/i-hear-the-hydrogen-train-a-comin-its-rolling-round-the-bend/)',
+  '(http://www.bnsf.com/media/news/articles/2008/01/2008-01-09a.html)',
+    '(http://web.archive.org/web/20080620033027/http://www.mrvc.indianrail.gov.in/overview.htm). _Official webpage of Mumbai Railway Vikas Corporation_. Archived from [the original](http://www.mrvc.indianrail.gov.in/overview.htm)'
+]
+```
+
+Not sure why the regex didn't break here. It should have broken at the "htm)" and "?view=uk" but didn't?
+I think it's because there isn't a whiteline break between the links so my regex is going to need changing slightly.
+
+Fixed by switching from "/\(https?:\/\/.*\)/" to "/\(https?:\/\/[^\)]*\)/"

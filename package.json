@@ -8,5 +8,6 @@
     "post-install": "bit import && bit link"
   },
   "license": "GPL-3.0-or-later",
+  "type":"module",
   "private": false
 }

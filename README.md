@@ -168,9 +168,9 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#386](https://github.com/TGTGamer/TGTGamer/pull/386) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-2. 💪 Opened PR [#386](https://github.com/TGTGamer/TGTGamer/pull/386) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
-3. 🎉 Merged PR [#600](https://github.com/Eventiva/Eventiva/pull/600) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+1. 🗣 Commented on [#809](https://github.com/xenova/transformers.js/pull/809#issuecomment-2325366041) in [xenova/transformers.js](https://github.com/xenova/transformers.js)
+2. 🎉 Merged PR [#386](https://github.com/TGTGamer/TGTGamer/pull/386) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
+3. 💪 Opened PR [#386](https://github.com/TGTGamer/TGTGamer/pull/386) in [TGTGamer/TGTGamer](https://github.com/TGTGamer/TGTGamer)
 4. ❗ Opened issue [#601](https://github.com/Eventiva/Eventiva/issues/601) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 5. 💪 Opened PR [#600](https://github.com/Eventiva/Eventiva/pull/600) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 6. ❌ Closed PR [#590](https://github.com/Eventiva/Eventiva/pull/590) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

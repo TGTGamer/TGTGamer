@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>0xeb/TheBigPromptLibrary</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of prompts, system prompts and LLM instructions</div>
@@ -430,7 +430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Sept 2024, 09:08:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Sept 2024, 13:10:25 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

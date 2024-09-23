@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muneebhashone/typescript-backend-toolkit</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript Backend Toolkit - Express.js - Swagger (OpenAPI 3.0) Autogenered docs, Zod - BullMQ - Nodemailer - Docker - MongoDB (Mongoose) - Socket.io</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AutoMQ/automq</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.</div>
@@ -430,7 +430,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2024, 05:08:26 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2024, 09:09:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

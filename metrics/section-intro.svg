@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/typespec</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -275,7 +275,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurimasniekis/idea-typespec</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primitive WebStorm plugin for TypeSpec support with LSP integration and TextMate-based syntax highlighting.</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metafloor/bwip-js</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Barcode Writer in Pure JavaScript</div>
@@ -431,7 +431,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2024, 17:07:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2024, 21:08:33 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

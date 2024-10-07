@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pkl-community/awesome-pkl</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -263,7 +263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/typespec</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -317,7 +317,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aurimasniekis/idea-typespec</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primitive WebStorm plugin for TypeSpec support with LSP integration and TextMate-based syntax highlighting.</div>
@@ -373,7 +373,7 @@
                                         <span>starred 12 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">An ecosystem of tools for building production-grade applications in TypeScript.</div>
+                                <div class="field description">An ecosystem of tools to build robust applications in TypeScript</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -420,7 +420,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2024, 17:07:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2024, 21:07:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -168,12 +168,12 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-2. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-3. 🗣 Commented on [#3116](https://github.com/drizzle-team/drizzle-orm/issues/3116#issuecomment-2420564447) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-4. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-5. 🗣 Commented on [#809](https://github.com/xenova/transformers.js/pull/809#issuecomment-2325366041) in [xenova/transformers.js](https://github.com/xenova/transformers.js)
-6. ❌ Closed PR [#590](https://github.com/Eventiva/Eventiva/pull/590) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+1. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+3. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+4. 🗣 Commented on [#3116](https://github.com/drizzle-team/drizzle-orm/issues/3116#issuecomment-2420564447) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+5. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+6. 🗣 Commented on [#809](https://github.com/xenova/transformers.js/pull/809#issuecomment-2325366041) in [xenova/transformers.js](https://github.com/xenova/transformers.js)
 7. ❌ Closed PR [#588](https://github.com/Eventiva/Eventiva/pull/588) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 8. ❌ Closed PR [#587](https://github.com/Eventiva/Eventiva/pull/587) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 9. ❗ Opened issue [#39](https://github.com/getsentry/fsl.software/issues/39) in [getsentry/fsl.software](https://github.com/getsentry/fsl.software)

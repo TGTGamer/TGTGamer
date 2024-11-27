@@ -168,14 +168,14 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-3. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-4. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-5. 🗣 Commented on [#3116](https://github.com/drizzle-team/drizzle-orm/issues/3116#issuecomment-2420564447) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-6. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-7. 🗣 Commented on [#809](https://github.com/xenova/transformers.js/pull/809#issuecomment-2325366041) in [xenova/transformers.js](https://github.com/xenova/transformers.js)
-8. ❌ Closed PR [#587](https://github.com/Eventiva/Eventiva/pull/587) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+1. 🗣 Commented on [#565](https://github.com/Resnovas/smartcloud/pull/565#issuecomment-2503525034) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+2. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+4. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+5. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+6. 🗣 Commented on [#3116](https://github.com/drizzle-team/drizzle-orm/issues/3116#issuecomment-2420564447) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+7. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+8. 🗣 Commented on [#809](https://github.com/xenova/transformers.js/pull/809#issuecomment-2325366041) in [xenova/transformers.js](https://github.com/xenova/transformers.js)
 9. ❗ Opened issue [#39](https://github.com/getsentry/fsl.software/issues/39) in [getsentry/fsl.software](https://github.com/getsentry/fsl.software)
 10. 🗣 Commented on [#596](https://github.com/Eventiva/Eventiva/pull/596#issuecomment-2016696657) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 11. 🗣 Commented on [#229](https://github.com/BuilderIO/mitosis/issues/229#issuecomment-2013704373) in [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)

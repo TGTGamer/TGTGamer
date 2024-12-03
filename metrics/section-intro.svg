@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rodush/github-action-jira-release</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Gihub Action which creates a new release in Jira to synchronise with the Release in Github.</div>
@@ -427,7 +427,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 04:08:58 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 08:10:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

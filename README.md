@@ -168,14 +168,14 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5839](https://github.com/gitbutlerapp/gitbutler/issues/5839) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#151](https://github.com/ironcalc/IronCalc/pull/151) in [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc)
-3. 🗣 Commented on [#565](https://github.com/Resnovas/smartcloud/pull/565#issuecomment-2503525034) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-4. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-6. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-7. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
-8. 🗣 Commented on [#3116](https://github.com/drizzle-team/drizzle-orm/issues/3116#issuecomment-2420564447) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. 🗣 Commented on [#5839](https://github.com/gitbutlerapp/gitbutler/issues/5839#issuecomment-2609512952) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. ❗ Opened issue [#5839](https://github.com/gitbutlerapp/gitbutler/issues/5839) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#151](https://github.com/ironcalc/IronCalc/pull/151) in [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc)
+4. 🗣 Commented on [#565](https://github.com/Resnovas/smartcloud/pull/565#issuecomment-2503525034) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+5. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+6. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+7. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+8. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
 9. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 10. 🗣 Commented on [#596](https://github.com/Eventiva/Eventiva/pull/596#issuecomment-2016696657) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 11. 🗣 Commented on [#229](https://github.com/BuilderIO/mitosis/issues/229#issuecomment-2013704373) in [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)

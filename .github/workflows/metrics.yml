@@ -81,7 +81,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: true
@@ -96,7 +96,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-followup.*
           base: ""
@@ -111,7 +111,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-habbits.*
           base: ""
@@ -132,7 +132,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-isocalendar.*
           base: ""
@@ -146,7 +146,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-languages.*
           base: ""
@@ -170,7 +170,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-sponsors.*
           base: ""
@@ -186,7 +186,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-leetcode.*
           base: ""
@@ -202,7 +202,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-code.*
           base: ""
@@ -218,7 +218,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           use_prebuilt_image: true
-          token: ${{ secrets.ACCESS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           template: classic
           filename: metrics/section-achievements.*
           base: ""

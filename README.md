@@ -168,8 +168,8 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
-2. ❗ Opened issue [#9510](https://github.com/teambit/bit/issues/9510) in [teambit/bit](https://github.com/teambit/bit)
+1. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+2. 💪 Opened PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
 3. 💪 Opened PR [#151](https://github.com/ironcalc/IronCalc/pull/151) in [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc)
 4. 🗣 Commented on [#565](https://github.com/Resnovas/smartcloud/pull/565#issuecomment-2503525034) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 5. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)

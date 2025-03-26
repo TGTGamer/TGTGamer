@@ -168,11 +168,11 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#7559](https://github.com/gitbutlerapp/gitbutler/issues/7559) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. ❗ Opened issue [#7556](https://github.com/gitbutlerapp/gitbutler/issues/7556) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-4. 💪 Opened PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
-5. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498704747) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. ❗ Opened issue [#6477](https://github.com/devtron-labs/devtron/issues/6477) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+2. ❗ Opened issue [#7559](https://github.com/gitbutlerapp/gitbutler/issues/7559) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. ❗ Opened issue [#7556](https://github.com/gitbutlerapp/gitbutler/issues/7556) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+5. 💪 Opened PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
 6. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2498362812) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 7. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
 8. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)

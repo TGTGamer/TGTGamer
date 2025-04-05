@@ -168,12 +168,12 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6437](https://github.com/devtron-labs/devtron/issues/6437#issuecomment-2758601916) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-2. ❗ Opened issue [#6477](https://github.com/devtron-labs/devtron/issues/6477) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-3. ❗ Opened issue [#7559](https://github.com/gitbutlerapp/gitbutler/issues/7559) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#7556](https://github.com/gitbutlerapp/gitbutler/issues/7556) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-6. 💪 Opened PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
+1. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-2778283625) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+2. 🗣 Commented on [#6437](https://github.com/devtron-labs/devtron/issues/6437#issuecomment-2758601916) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+3. ❗ Opened issue [#6477](https://github.com/devtron-labs/devtron/issues/6477) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
+4. ❗ Opened issue [#7559](https://github.com/gitbutlerapp/gitbutler/issues/7559) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❗ Opened issue [#7556](https://github.com/gitbutlerapp/gitbutler/issues/7556) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+6. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
 7. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
 8. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
 9. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)

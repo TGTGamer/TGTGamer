@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expatfile/next-runtime-env</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next.js Runtime Environment Configuration - Populates your environment at runtime rather than build time.</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2025, 05:12:08 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 May 2025, 09:09:59 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -168,13 +168,13 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-4024807087) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. 💪 Opened PR [#2](undefined) in [Eventiva/product_variant_dates_display_price](https://github.com/Eventiva/product_variant_dates_display_price)
-3. 💪 Opened PR [#1](undefined) in [Eventiva/product_variant_dates_display_price](https://github.com/Eventiva/product_variant_dates_display_price)
-4. 🗣 Commented on [#6437](https://github.com/devtron-labs/devtron/issues/6437#issuecomment-2758601916) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-5. ❗ Opened issue [#6477](https://github.com/devtron-labs/devtron/issues/6477) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-6. ❗ Opened issue [#6437](https://github.com/devtron-labs/devtron/issues/6437) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)
-7. 🎉 Merged PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
+1. 💪 Opened PR [#634](https://github.com/Eventiva/Eventiva/pull/634) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+2. ❌ Closed PR [#632](https://github.com/Eventiva/Eventiva/pull/632) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+3. ❌ Closed PR [#629](https://github.com/Eventiva/Eventiva/pull/629) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+4. ❌ Closed PR [#624](https://github.com/Eventiva/Eventiva/pull/624) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+5. ❌ Closed PR [#610](https://github.com/Eventiva/Eventiva/pull/610) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+6. ❌ Closed PR [#628](https://github.com/Eventiva/Eventiva/pull/628) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+7. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-4024807087) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 8. 💪 Opened PR [#1](https://github.com/Encircle-Marketing/.github/pull/1) in [Encircle-Marketing/.github](https://github.com/Encircle-Marketing/.github)
 9. 🗣 Commented on [#566](https://github.com/Resnovas/smartcloud/issues/566#issuecomment-2357660098) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 10. 🗣 Commented on [#596](https://github.com/Eventiva/Eventiva/pull/596#issuecomment-2016696657) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

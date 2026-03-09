@@ -168,7 +168,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4](https://github.com/slamwise0001/vvunderlore-toolkit-plugin/issues/4) in [slamwise0001/vvunderlore-toolkit-plugin](https://github.com/slamwise0001/vvunderlore-toolkit-plugin)
+1. 🗣 Commented on [#2665](https://github.com/drizzle-team/drizzle-orm/pull/2665#issuecomment-4024807087) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
 2. 💪 Opened PR [#2](undefined) in [Eventiva/product_variant_dates_display_price](https://github.com/Eventiva/product_variant_dates_display_price)
 3. 💪 Opened PR [#1](undefined) in [Eventiva/product_variant_dates_display_price](https://github.com/Eventiva/product_variant_dates_display_price)
 4. 🗣 Commented on [#6437](https://github.com/devtron-labs/devtron/issues/6437#issuecomment-2758601916) in [devtron-labs/devtron](https://github.com/devtron-labs/devtron)

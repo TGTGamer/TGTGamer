@@ -168,7 +168,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#723](https://github.com/Eventiva/Eventiva/issues/723) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
+1. 🗣 Commented on [#3457](https://github.com/screenpipe/screenpipe/pull/3457#issuecomment-5344267399) in [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 2. 🎉 Merged PR [#177](https://github.com/FusionAuth/fusionauth-javascript-sdk/pull/177) in [FusionAuth/fusionauth-javascript-sdk](https://github.com/FusionAuth/fusionauth-javascript-sdk)
 3. 🎉 Merged PR [#713](https://github.com/Eventiva/Eventiva/pull/713) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 4. 💪 Opened PR [#713](https://github.com/Eventiva/Eventiva/pull/713) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

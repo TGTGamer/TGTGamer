@@ -168,11 +168,11 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#12217](https://github.com/paperclipai/paperclip/pull/12217) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-2. ❗ Opened issue [#11856](https://github.com/paperclipai/paperclip/issues/11856) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-3. ℹ️ Labeled issue [#11856](https://github.com/paperclipai/paperclip/issues/11856) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-4. 🗣 Commented on [#3457](https://github.com/screenpipe/screenpipe/pull/3457#issuecomment-5344267399) in [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
-5. 🗣 Commented on [#334](https://github.com/TibixDev/winboat/issues/334#issuecomment-4145813673) in [TibixDev/winboat](https://github.com/TibixDev/winboat)
+1. ❌ Closed PR [#12217](https://github.com/paperclipai/paperclip/pull/12217) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+2. 💪 Opened PR [#12217](https://github.com/paperclipai/paperclip/pull/12217) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+3. ❗ Opened issue [#11856](https://github.com/paperclipai/paperclip/issues/11856) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+4. ℹ️ Labeled issue [#11856](https://github.com/paperclipai/paperclip/issues/11856) in [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+5. 🗣 Commented on [#3457](https://github.com/screenpipe/screenpipe/pull/3457#issuecomment-5344267399) in [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 6. ❗ Opened issue [#701](https://github.com/Eventiva/Eventiva/issues/701) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 7. ❗ Opened issue [#696](https://github.com/Eventiva/Eventiva/issues/696) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)
 8. 🎉 Merged PR [#681](https://github.com/Eventiva/Eventiva/pull/681) in [Eventiva/Eventiva](https://github.com/Eventiva/Eventiva)

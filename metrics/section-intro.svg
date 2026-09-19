@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>upstash/box</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript SDK and CLI for Upstash Box — sandboxed AI coding agents</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>upstash/context7</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors</div>
@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>upstash/skills</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of skills for Upstash</div>
@@ -380,7 +380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Graphify-Labs/graphify</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</div>
@@ -430,7 +430,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Sept 2026, 05:01:46 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2026, 09:46:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

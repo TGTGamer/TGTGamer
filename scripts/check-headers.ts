@@ -10,11 +10,21 @@
  *   node --experimental-strip-types scripts/check-headers.ts --write  # apply
  */
 import { readdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
-import { join, relative } from "node:path"
+import { basename, join, relative } from "node:path"
+import { fileURLToPath } from "node:url"
 
-const ROOT = new URL("..", import.meta.url).pathname
+const ROOT = fileURLToPath(new URL("..", import.meta.url))
 const TEMPLATE = readFileSync(join(ROOT, "scripts/header.txt"), "utf8")
-const SKIP = new Set(["node_modules", "dist", ".git", ".nx", "scripts", "coverage", "externals", ".idea"])
+const SKIP = new Set([
+  "node_modules",
+  "dist",
+  ".git",
+  ".nx",
+  "scripts",
+  "coverage",
+  "externals",
+  ".idea",
+])
 const MARKER = "DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE"
 
 const sources = (dir: string): Array<string> => {
@@ -30,9 +40,9 @@ const sources = (dir: string): Array<string> => {
 
 /** Render the header for one file, stamped with its name and modification date. */
 const headerFor = (path: string): string =>
-  TEMPLATE.replace("__FILE__", path.split("/").pop() ?? path).replace(
+  TEMPLATE.replace("__FILE__", basename(path)).replace(
     "__MODIFIED__",
-    new Date(statSync(path).mtime).toISOString().slice(0, 10)
+    new Date(statSync(path).mtime).toISOString().slice(0, 10),
   )
 
 const write = process.argv.includes("--write")

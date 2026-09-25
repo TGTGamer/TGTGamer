@@ -36,35 +36,38 @@
 
 export function IsomorphicStrings(s: string, t: string): boolean {
   // Strings of different lengths can never map onto each other character for
-  // character. Compare normalised code points, so a precomposed "é" and an "e"
-  // plus combining accent count as the same length.
-  if ([...s.normalize()].length !== [...t.normalize()].length) return false
+  // character. Map normalised code points, so a precomposed "é" and an "e"
+  // plus combining accent are the same character in both the length check and
+  // the index map.
+  const sChars = [...s.normalize()]
+  const tChars = [...t.normalize()]
+  if (sChars.length !== tChars.length) return false
   const s_map: { [index: string]: number[] } = {}
-    // Create a map of the first string and thier indices
-    for (const i in [...s]) {
-        // get the letter from the string
-        const letter = s[i]
-        // if the letter is not in the array, add it
-        if (!s_map[letter]) s_map[letter] = [Number(i)]
-        // if the letter is in the array, add the index to the array
-        else s_map[letter].push(Number(i))
-    }
-    // Create an array to store used characters for restriction (No two characters may map to the same character)
-    const used_letters: string[] = []
+  // Create a map of the first string and thier indices
+  for (const i in sChars) {
+    // get the letter from the string
+    const letter = sChars[i]
+    // if the letter is not in the array, add it
+    if (!s_map[letter]) s_map[letter] = [Number(i)]
+    // if the letter is in the array, add the index to the array
+    else s_map[letter].push(Number(i))
+  }
+  // Create an array to store used characters for restriction (No two characters may map to the same character)
+  const used_letters: string[] = []
 
-    // Test the second string against the map
-    for (const i in s_map) {
-        // get the replacement letter
-        const new_char = t[s_map[i][0]]
-        // if the letter is already used, return false due to restriction (No two characters may map to the same character)
-        if (used_letters.includes(new_char)) return false
-        else used_letters.push(new_char)
-        // for each value in the s string, change it to the new character
-        for (const value of s_map[i]) {
-            // if the new character is not the same as the needed character, return false
-            if (t[value] !== new_char) return false
-        }
+  // Test the second string against the map
+  for (const i in s_map) {
+    // get the replacement letter
+    const new_char = tChars[s_map[i][0]]
+    // if the letter is already used, return false due to restriction (No two characters may map to the same character)
+    if (used_letters.includes(new_char)) return false
+    else used_letters.push(new_char)
+    // for each value in the s string, change it to the new character
+    for (const value of s_map[i]) {
+      // if the new character is not the same as the needed character, return false
+      if (tChars[value] !== new_char) return false
     }
-    // if all the characters are the same, return true
-    return true
+  }
+  // if all the characters are the same, return true
+  return true
 }

@@ -168,10 +168,10 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#26](https://github.com/Resnovas/openclaw-proton-pass/issues/26) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
-2. ℹ️ Labeled issue [#22](https://github.com/Resnovas/openclaw-proton-pass/issues/22) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
-3. 🔒 Closed issue [#31](https://github.com/Resnovas/openclaw-proton-pass/issues/31) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
-4. ℹ️ Assigned issue [#31](https://github.com/Resnovas/openclaw-proton-pass/issues/31) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
+1. 🗣 Commented on [#1](https://github.com/TGTGamer/home-assistant-setup/pull/1#issuecomment-5840211817) in [TGTGamer/home-assistant-setup](https://github.com/TGTGamer/home-assistant-setup)
+2. 🗣 Commented on [#1](https://github.com/TGTGamer/home-assistant-setup/pull/1#issuecomment-5840067150) in [TGTGamer/home-assistant-setup](https://github.com/TGTGamer/home-assistant-setup)
+3. 🗣 Commented on [#1](https://github.com/TGTGamer/home-assistant-setup/pull/1#issuecomment-5839892630) in [TGTGamer/home-assistant-setup](https://github.com/TGTGamer/home-assistant-setup)
+4. 🗣 Commented on [#1](https://github.com/TGTGamer/home-assistant-setup/pull/1#issuecomment-5838962660) in [TGTGamer/home-assistant-setup](https://github.com/TGTGamer/home-assistant-setup)
 5. ℹ️ Labeled issue [#31](https://github.com/Resnovas/openclaw-proton-pass/issues/31) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
 6. ❗ Opened issue [#31](https://github.com/Resnovas/openclaw-proton-pass/issues/31) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)
 7. 🎉 Merged PR [#24](https://github.com/Resnovas/openclaw-proton-pass/pull/24) in [Resnovas/openclaw-proton-pass](https://github.com/Resnovas/openclaw-proton-pass)

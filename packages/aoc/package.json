@@ -1,0 +1,14 @@
+{
+  "name": "@tgtgamer/aoc",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Advent of Code solutions",
+  "license": "LicenseRef-FCL-1.0-MIT",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  }
+}

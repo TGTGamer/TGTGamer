@@ -1,8 +1,13 @@
-**/node_modules
-**/pnpm-lock.yaml
-**/yarn.lock
-**/lib
-**/coverage
-**/web
-.eslintrc.json
-.prettierrc.cjs
+node_modules/
+dist/
+.nx/
+*.tsbuildinfo
+coverage/
+
+# Editor state that is personal, not shared. Shared run configs live in
+# .vscode/tasks.json, .vscode/launch.json and .run/.
+.idea/
+.vscode/settings.json
+
+.claude/worktrees
+.claude/settings.local.json

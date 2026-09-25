@@ -17,7 +17,7 @@
       "cache": true
     },
     "lint": {
-      "inputs": ["default", "{workspaceRoot}/eslint.config.ts"],
+      "inputs": ["default", "{workspaceRoot}/eslint.config.ts", "{workspaceRoot}/tests/**/*"],
       "cache": true
     },
     "test": {

@@ -201,3 +201,13 @@ describe('IsSubsequence', () => {
       expect(result).toBe(true);
     });
 });
+
+it.each([
+    ['😀x', '😀y', false],
+    ['😀x', 'a😀bx', true],
+    ['😀😀', '😀', false],
+    ['😃', '😀', false],
+    ['😀a😃', '😀xa😃', true]
+])('checks complete characters in %s against %s', (s, t, expected) => {
+    expect(IsSubsequence(s, t)).toBe(expected)
+})

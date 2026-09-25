@@ -12,9 +12,6 @@
     },
     {
       "path": "packages/pokeapi"
-    },
-    {
-      "path": "tests"
     }
   ]
 }

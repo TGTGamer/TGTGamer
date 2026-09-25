@@ -65,7 +65,10 @@ export function jsonToCsv(json: obj[]) {
             value.noise_rating,
             value.price
         ]
-        return line.join(", ")
+        return line.map(value => {
+            const field = String(value ?? "")
+            return /[,"\r\n]/.test(field) ? `"${field.replace(/"/g, '""')}"` : field
+        }).join(", ")
     })
 
     return writeCSV(jsonMapped)

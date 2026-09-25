@@ -394,7 +394,7 @@ describe('Triangle', () => {
         const triangle = new Triangle("Equilateral", sides);
 
         // Then
-        expect(triangle.getArea).toBe(8);
+        expect(triangle.getArea).toBeCloseTo(6.928203230); // Equilateral sides of length 4
     });
 
     // Calculating the perimeter of an equilateral triangle
@@ -418,7 +418,7 @@ describe('Triangle', () => {
         const triangle = new Triangle("Isosceles", sides);
 
         // Then
-        expect(triangle.getArea).toBe(10);
+        expect(triangle.getArea).toBeCloseTo(7.806247498); // Sides 4, 5, 4
     });
 
     // Creating a triangle with zero-length sides

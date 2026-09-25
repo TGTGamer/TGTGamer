@@ -40,14 +40,14 @@ export function IsSubsequence(s: string, t: string): boolean {
   let sIndex = -1;
 
   // Lets test each character in s to see if it exists and which position it is in
-  for (const i in [...s]) {
+  for (const character of s) {
       // Lets get the index of the current letter which starts after the last index
-      const index = t.indexOf(s[i], sIndex + 1)
+      const index = t.indexOf(character, sIndex + 1)
       // If the character doesn't exist in t, return false
       // Or if the character position is before the previous character position, return false
-      if (!t.includes(s[i]) || index < sIndex) return false
+      if (index === -1) return false
       // If the character exists & isnt before the previous character, set the position to the current index
-      sIndex = index
+      sIndex = index + character.length - 1
   }
   // If everything is good, return true
   return true

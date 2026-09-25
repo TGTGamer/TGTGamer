@@ -35,6 +35,7 @@
  */
 
 export function checkTrees(levels: string[], right: number, down: number) {
+    if (!Number.isInteger(down) || down <= 0) throw new RangeError("down must be a positive integer")
     let location = 0
     let trees = 0
     for (let level = 0; level < levels.length; level = level + down) {
@@ -46,11 +47,12 @@ export function checkTrees(levels: string[], right: number, down: number) {
     return trees
 }
 export function checkTreesv2(levels: string[], right: number, down: number) {
+    if (!Number.isInteger(down) || down <= 0) throw new RangeError("down must be a positive integer")
     let location = 0
     let trees = 0
     for (let level = 0; level < levels.length; level = level + down) {
         let map = levels[level].trim()
-        while (location > map.length) map = map+map
+        while (map.length > 0 && location >= map.length) map = map+map
         if (map[location] == "#") trees++
         location = location + right
     }
@@ -58,11 +60,10 @@ export function checkTreesv2(levels: string[], right: number, down: number) {
 }
 
 export function multiply(input: number[][], levelDesign: string[]) {
-    let returnable = 0
+    let returnable = 1
     input.forEach(route => {
         const trees = checkTrees(levelDesign, route[0], route[1])
-        if (returnable == 0) returnable = trees
-        else returnable = returnable*trees
+        returnable = returnable*trees
     })
     return returnable
 }

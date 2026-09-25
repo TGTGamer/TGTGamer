@@ -34,40 +34,96 @@
  * DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE
  */
 
-import { expect, it } from "vitest"
-import { evolutionChainGraphQL } from "../../../packages/pokeapi/src/evolution_chain_graphql.js"; 
+import { afterEach, beforeEach, expect, it, vi } from "vitest"
+import { evolutionChainGraphQL, evolutionChainRaw } from "../../../packages/pokeapi/src/evolution_chain_graphql.js";
 
-it('Should return all variations of the input value', async () => { 
+const response = {
+  data: {
+    pokemon_v2_pokemon: [{
+      name: "metapod",
+      pokemon_v2_pokemonspecy: {
+        evolution_chain_id: 4,
+        pokemon_v2_evolutionchain: {
+          pokemon_v2_pokemonspecies: [
+            { name: "caterpie", id: 10, evolves_from_species_id: null },
+            { name: "metapod", id: 11, evolves_from_species_id: 10 },
+            { name: "butterfree", id: 12, evolves_from_species_id: 11 }
+          ]
+        }
+      }
+    }]
+  }
+}
+
+const fetchMock = vi.fn<typeof fetch>()
+beforeEach(() => {
+  fetchMock.mockReset().mockResolvedValue(Response.json(response))
+  vi.stubGlobal("fetch", fetchMock)
+})
+afterEach(() => vi.unstubAllGlobals())
+
+it('Should return all variations by name', async () => {
   expect(await evolutionChainGraphQL({name: "metapod"})).toMatchObject({
 		name: 'caterpie',
 		variations: [
 			{
 				name: 'metapod',
-				variations: [ 
-					{ 
-						name: 'butterfree', 
-						variations: [] 
-					} 
+				variations: [
+					{
+						name: 'butterfree',
+						variations: []
+					}
 				]
 			},
 			{ name: 'butterfree', variations: [] }
 		]
 	});
+  expect(JSON.parse(String(fetchMock.mock.calls[0][1]?.body))).toMatchObject({
+    operationName: "byName", variables: { name: "metapod" }
+  })
 });
-it('Should return all variations of the input value', async () => { 
+it('Should return all variations by ID', async () => {
   expect(await evolutionChainGraphQL({id: 11})).toMatchObject({
 		name: 'caterpie',
 		variations: [
 			{
 				name: 'metapod',
-				variations: [ 
-					{ 
-						name: 'butterfree', 
-						variations: [] 
-					} 
+				variations: [
+					{
+						name: 'butterfree',
+						variations: []
+					}
 				]
 			},
 			{ name: 'butterfree', variations: [] }
 		]
 	});
+  expect(JSON.parse(String(fetchMock.mock.calls[0][1]?.body))).toMatchObject({
+    operationName: "byID", variables: { id: 11 }
+  })
 });
+
+it('returns no evolution for an empty result', async () => {
+  fetchMock.mockImplementation(async () => Response.json({ data: { pokemon_v2_pokemon: [] } }))
+  expect(await evolutionChainRaw({ name: "missing" })).toEqual([])
+  expect(await evolutionChainGraphQL({ name: "missing" })).toBeUndefined()
+})
+
+it.each([
+  null,
+  {},
+  { data: {} },
+  { data: { pokemon_v2_pokemon: [null] } },
+  { data: { pokemon_v2_pokemon: [{}] } },
+  { data: { pokemon_v2_pokemon: [{ name: "metapod", pokemon_v2_pokemonspecy: null }] } },
+  ...[null, {}, { pokemon_v2_pokemonspecies: [] }, {
+    pokemon_v2_pokemonspecies: [{ id: 10, name: "caterpie" }]
+  }].map(chain => ({ data: { pokemon_v2_pokemon: [{
+    name: "metapod", pokemon_v2_pokemonspecy: {
+      evolution_chain_id: 4, pokemon_v2_evolutionchain: chain
+    }
+  }] } }))
+])('rejects malformed responses: %j', async value => {
+  fetchMock.mockResolvedValue(Response.json(value))
+  await expect(evolutionChainGraphQL()).rejects.toThrow("unexpected response shape")
+})

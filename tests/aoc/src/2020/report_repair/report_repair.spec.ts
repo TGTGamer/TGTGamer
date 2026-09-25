@@ -35,7 +35,7 @@
  */
 
 import { describe, expect, test } from "vitest"
-import { get2, get3 } from "../../../../../packages/aoc/src/2020/report_repair/report_repair.js";
+import { get2, get3, getall } from "../../../../../packages/aoc/src/2020/report_repair/report_repair.js";
 import { acc } from "../../../../../packages/aoc/src/2020/report_repair/values.js"
 
 const accounts: number[] = [
@@ -70,4 +70,28 @@ describe('get3', () => {
         const values = get3(acc)
         expect(values[0] + values[1] + values[2]).toBe(2020)
     })
+})
+
+test('requires distinct entries while allowing duplicate values', () => {
+    expect(get2([1010])).toEqual([])
+    expect(get2([1010, 1010])).toEqual([1010, 1010])
+    expect(get3([1000, 20])).toEqual([])
+    expect(get3([1000, 20, 1000]).sort()).toEqual([1000, 1000, 20])
+})
+
+test('keeps zero and negative values in triples', () => {
+    expect(get3([1000, 1020, 0])).toHaveLength(3)
+    expect(get3([-1, 1, 2020]).sort()).toEqual([-1, 1, 2020])
+})
+
+test('selects exactly the requested number of distinct entries', () => {
+    expect(getall([2020], 1)).toEqual([2020])
+    expect(getall([1010], 2)).toEqual([])
+    expect(getall([1010, 1010], 2)).toEqual([1010, 1010])
+    expect(getall([1000, 1020, 0], 3)).toEqual([1000, 1020, 0])
+    expect(getall([1000, 20], 3)).toEqual([])
+    expect(getall([500, 500, 500, 520], 4)).toEqual([500, 500, 500, 520])
+    expect(getall([2020, 0], 3)).toEqual([])
+    expect(getall([2020], 0)).toEqual([])
+    expect(getall([2020], 1.5)).toEqual([])
 })

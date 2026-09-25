@@ -66,3 +66,20 @@ describe('multiply', () => {
     expect(tobogganTrajectory.multiply([[1,1], [3,1], [5,1], [7,1], [1,2]], valuesSplit)).toBe(1355323200);
   });
 })
+
+it.each([tobogganTrajectory.checkTrees, tobogganTrajectory.checkTreesv2])(
+  'rejects down steps that cannot traverse rows', check => {
+    for (const down of [0, -1, 0.5, NaN, Infinity]) {
+      expect(() => check(['..', '##'], 1, down)).toThrow(RangeError)
+    }
+  }
+)
+
+it('wraps at exactly one map width', () => {
+  expect(tobogganTrajectory.checkTreesv2(['...', '#..'], 3, 1)).toBe(1)
+})
+
+it('preserves zero counts in slope products', () => {
+  expect(tobogganTrajectory.multiply([[1, 1], [2, 1]], ['...', '..#'])).toBe(0)
+  expect(tobogganTrajectory.multiply([[2, 1], [1, 1], [2, 1]], ['...', '..#'])).toBe(0)
+})

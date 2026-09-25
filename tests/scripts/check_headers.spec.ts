@@ -1,6 +1,6 @@
 /*
  * Project: TGTGamer
- * File: report_repair.ts
+ * File: check_headers.spec.ts
  * Last Modified: 2026-09-25
  *
  * Contributing: Please read through our contributing guidelines. Included are directions for opening issues, coding standards,
@@ -34,47 +34,51 @@
  * DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE
  */
 
-export function get2(accounts: number[]) {
-    let result: number[] = []
-    accounts.forEach((x, index) => {
-        if (result.length !== 0) return
-        for (let y = accounts.length - 1; y >= 0; y--) {
-            if (y !== index && accounts[y] + x == 2020) {
-                result = [accounts[y], x]
-            }
-        }
-    })
-    return result
-}
+import { afterEach, beforeEach, expect, it } from "vitest"
+import { execFileSync, spawnSync } from "node:child_process"
+import { copyFileSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { tmpdir } from "node:os"
+import { join } from "node:path"
+import { fileURLToPath } from "node:url"
 
-export function get3(accounts: number[]) {
-  let result: number[] = []
-  accounts.forEach((x, index) => {
-      if (result.length !== 0) return
-      for (let y = accounts.length - 1; y >= 0; y--) {
-          if (result.length !== 0) return
-          if (y === index) continue
-          const totalLeft = 2020 - (accounts[y] + x)
-          const value = accounts.find((value, pairIndex) =>
-              pairIndex !== index && pairIndex !== y && value === totalLeft)
-          if (value !== undefined) result = [accounts[y], x, value]
-      }
+const repo = fileURLToPath(new URL("../../", import.meta.url))
+let root: string
+let checker: string
+let header: string
 
-  })
-  return result
-}
+beforeEach(() => {
+  root = mkdtempSync(join(tmpdir(), "header check # "))
+  mkdirSync(join(root, "scripts"))
+  checker = join(root, "scripts/check-headers.ts")
+  copyFileSync(join(repo, "scripts/check-headers.ts"), checker)
+  copyFileSync(join(repo, "scripts/header.txt"), join(root, "scripts/header.txt"))
+  header = readFileSync(join(repo, "scripts/header.txt"), "utf8")
+    .replace("__FILE__", "example.ts").replace("__MODIFIED__", "2020-01-01")
+})
 
-export function getall(accounts: number[], nums: number): number[] {
-  if (!Number.isInteger(nums) || nums < 1 || nums > accounts.length) return []
+afterEach(() => rmSync(root, { recursive: true, force: true }))
 
-  const search = (start: number, count: number, total: number): number[] | undefined => {
-    if (count === 0) return total === 0 ? [] : undefined
-    for (let index = start; index <= accounts.length - count; index++) {
-      const rest = search(index + 1, count - 1, total - accounts[index])
-      if (rest !== undefined) return [accounts[index], ...rest]
-    }
-    return undefined
-  }
+it('accepts canonical headers with file/date variations, CRLF and a shebang', () => {
+  writeFileSync(join(root, "example.ts"), '#!/usr/bin/env node\n' + header.replace(/\n/g, '\r\n'))
+  expect(spawnSync(process.execPath, [checker]).status).toBe(0)
+})
 
-  return search(0, nums, 2020) ?? []
-}
+it('rejects altered licence text and markers outside the leading comment, including scripts', () => {
+  writeFileSync(join(root, "altered.ts"), header.replace("All Rights Reserved", "Modified text"))
+  writeFileSync(join(root, "scripts/missing.ts"), '/* ordinary comment */\n' + header)
+  const result = spawnSync(process.execPath, [checker], { encoding: "utf8" })
+  expect(result.status).toBe(1)
+  expect(result.stderr).toContain("altered.ts")
+  expect(result.stderr).toContain(join("scripts", "missing.ts"))
+})
+
+it('writes a canonical header once and preserves shebangs', () => {
+  const file = join(root, "example.ts")
+  writeFileSync(file, '#!/usr/bin/env node\n/* ordinary comment */\n')
+  execFileSync(process.execPath, [checker, "--write"])
+  const first = readFileSync(file, "utf8")
+  execFileSync(process.execPath, [checker, "--write"])
+  expect(readFileSync(file, "utf8")).toBe(first)
+  expect(first.startsWith('#!/usr/bin/env node\n/*\n * Project: TGTGamer')).toBe(true)
+  expect(spawnSync(process.execPath, [checker]).status).toBe(0)
+})

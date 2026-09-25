@@ -103,21 +103,29 @@ export type Pokemon = {
  */
 type Variables = {id?: number, name?: string }
 
-/**
- * Narrows the untyped GraphQL response to the shape the evolution query asks
- * for. It checks only the envelope; the query itself fixes the inner fields.
- */
-function isPokemonResponse(value: unknown): value is { data: Pokemon } {
-  if (typeof value !== "object" || value === null || !("data" in value)) return false
-  const data: unknown = value.data
-  return (
-    typeof data === "object" &&
-    data !== null &&
-    "pokemon_v2_pokemon" in data &&
-    Array.isArray(data.pokemon_v2_pokemon)
-  )
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null
 }
 
+function pokemonResults(value: unknown): unknown[] | undefined {
+  if (!isRecord(value) || !isRecord(value.data)) return undefined
+  const pokemon: unknown = value.data.pokemon_v2_pokemon
+  return Array.isArray(pokemon) ? pokemon : undefined
+}
+
+/** Validate the nested fields used by the evolution transformation. */
+function isPokemonResponse(value: unknown): value is { data: Pokemon } {
+  const pokemon = pokemonResults(value)?.[0]
+  if (!isRecord(pokemon) || typeof pokemon.name !== "string") return false
+  const species = pokemon.pokemon_v2_pokemonspecy
+  if (!isRecord(species) || typeof species.evolution_chain_id !== "number") return false
+  const chain = species.pokemon_v2_evolutionchain
+  if (!isRecord(chain)) return false
+  const entries: unknown = chain.pokemon_v2_pokemonspecies
+  return Array.isArray(entries) && entries.length > 0 && entries.every((entry: unknown) =>
+    isRecord(entry) && typeof entry.name === "string" && typeof entry.id === "number" &&
+    (entry.evolves_from_species_id === null || typeof entry.evolves_from_species_id === "number"))
+}
 
 
 /**
@@ -131,7 +139,7 @@ function isPokemonResponse(value: unknown): value is { data: Pokemon } {
  * @param {{id?: number, name?: string }} [variables={id: 1}]
  * @returns {Promise<Pokemon>}
  */
-export async function evolutionChainRaw(variables: Variables): Promise<Pokemon['pokemon_v2_pokemon']> {
+export async function evolutionChainRaw(variables: Variables): Promise<Pokemon['pokemon_v2_pokemon'] | []> {
   /**
    * Defines the GraphQL query to be sent to the PokeAPI
    * @date 8/15/2023 - 7:17:43 PM
@@ -174,6 +182,7 @@ export async function evolutionChainRaw(variables: Variables): Promise<Pokemon['
   `
 
   const result = await fetchGraphQL(query, variables, variables?.id !== undefined ? "byID" : "byName")
+  if (pokemonResults(result)?.length === 0) return []
   if (!isPokemonResponse(result)) {
     throw new Error("PokeAPI returned an unexpected response shape")
   }
@@ -190,8 +199,10 @@ export async function evolutionChainRaw(variables: Variables): Promise<Pokemon['
 * @param {?Variables} [variables={id: 1}]
 * @returns {Promise<Variations>}
  */
-export async function evolutionChainGraphQL (variables: Variables = {id: 1}): Promise<Variations> {
-  const data = (await evolutionChainRaw(variables))[0]
+export async function evolutionChainGraphQL (variables: Variables = {id: 1}): Promise<Variations | undefined> {
+  const results = await evolutionChainRaw(variables)
+  if (results.length === 0) return undefined
+  const data = results[0]
 
   const routeSpecies = data.pokemon_v2_pokemonspecy.pokemon_v2_evolutionchain.pokemon_v2_pokemonspecies[0].id
   

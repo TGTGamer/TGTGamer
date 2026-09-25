@@ -35,6 +35,7 @@
  */
 
 import { afterAll, beforeAll, expect, it, vi } from "vitest"
+import fs from "node:fs"
 import {jsonToCsv} from "../../../../packages/encircle/src/json_to_csv/json_to_csv.js";
 import json from "../../fixtures/task_2_and_3.json" with { type: "json" }
 
@@ -118,3 +119,15 @@ afterAll(() => {
 it('renders with the correct text', () => {
     expect(jsonToCsv(json)).toEqual(expected);
 });
+
+it('quotes delimiters, quotes and line breaks while preserving empty fields', () => {
+    const row = { ...json[0], manufacturer: 'Brand, Inc.', pattern: 'A "quote"\r\nnext' }
+    const write = vi.spyOn(fs, 'writeFileSync').mockImplementation(() => undefined)
+    try {
+        expect(jsonToCsv([row])).toContain(
+            'Tue Jul 30 2024, "Brand, Inc.", "A ""quote""\r\nnext", 205, Winter'
+        )
+    } finally {
+        write.mockRestore()
+    }
+})

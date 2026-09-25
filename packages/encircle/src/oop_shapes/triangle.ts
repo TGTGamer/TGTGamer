@@ -102,7 +102,9 @@ export class Triangle {
     }
 
     public calculateArea() {
-        this.area = (this.one * this.two) / 2
+        const semiPerimeter = (this.one + this.two + this.three) / 2
+        this.area = Math.sqrt(semiPerimeter * (semiPerimeter - this.one) *
+            (semiPerimeter - this.two) * (semiPerimeter - this.three))
         return this // returns the object for piping
     }
 

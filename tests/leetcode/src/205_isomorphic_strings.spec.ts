@@ -198,3 +198,13 @@ describe('IsomorphicStrings', () => {
     });
 });
 
+it.each([
+    ['😀😀', 'ab', false],
+    ['😀😀', 'aa', true],
+    ['ab', '😀😀', false],
+    ['😀😃😀', 'xyx', true],
+    ['😀a', 'xy', true],
+    ['éé', 'e\u0301e\u0301', true]
+])('maps complete characters in %s and %s', (s, t, expected) => {
+    expect(IsomorphicStrings(s, t)).toBe(expected)
+})

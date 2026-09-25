@@ -106,11 +106,19 @@ export function byMetricAveraged(json: Partial<obj>[], filter: string, sortValue
 
 export function averagePrice(json: Partial<obj>[]) {
     let totalPrice = 0
+    let validPrices = 0
     json.forEach(value => {
-        totalPrice += Number(value.price)
+        const price = value.price
+        if (typeof price !== "number" && typeof price !== "string") return
+        if (typeof price === "string" && price.trim() === "") return
+        const numericPrice = Number(price)
+        if (!Number.isFinite(numericPrice)) return
+        totalPrice += numericPrice
+        validPrices++
     })
 
-    return totalPrice / json.length
+    // An average is undefined without prices; preserve the numeric NaN result.
+    return validPrices === 0 ? NaN : totalPrice / validPrices
 }
 
 /**

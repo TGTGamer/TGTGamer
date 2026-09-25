@@ -1,0 +1,28 @@
+{
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "name": "leetcode",
+  "projectType": "library",
+  "sourceRoot": "packages/leetcode/src",
+  "tags": ["type_shared", "layer_shared"],
+  "targets": {
+    "build": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/leetcode/tsconfig.json" }
+    },
+    "typecheck": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/leetcode/tsconfig.json && tsc -p tests/tsconfig.json" }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": { "command": "eslint packages/leetcode tests/leetcode" }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "vitest run tests/leetcode",
+        "cwd": "{workspaceRoot}"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "name": "encircle",
+  "projectType": "library",
+  "sourceRoot": "packages/encircle/src",
+  "tags": ["type_shared", "layer_shared"],
+  "targets": {
+    "build": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/encircle/tsconfig.json" }
+    },
+    "typecheck": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/encircle/tsconfig.json && tsc -p tests/tsconfig.json" }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": { "command": "eslint packages/encircle tests/encircle" }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "vitest run tests/encircle",
+        "cwd": "{workspaceRoot}"
+      }
+    }
+  }
+}

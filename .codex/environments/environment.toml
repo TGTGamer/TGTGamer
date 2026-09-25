@@ -1,0 +1,20 @@
+version = 1
+name = "TGTGamer"
+
+[setup]
+script = "node scripts/agent-setup.ts"
+
+[[actions]]
+name = "Test"
+icon = "run"
+command = "pnpm test:offline"
+
+[[actions]]
+name = "Verify"
+icon = "run"
+command = "pnpm verify"
+
+[[actions]]
+name = "Lint"
+icon = "run"
+command = "pnpm lint"

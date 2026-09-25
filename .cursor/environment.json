@@ -1,0 +1,3 @@
+{
+  "install": "node scripts/agent-setup.ts --skip-verify"
+}

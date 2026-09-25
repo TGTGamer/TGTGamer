@@ -1,0 +1,6 @@
+# Orca runs this after creating each worktree. Tabs and startup policy are
+# left to app settings; see AGENT-SETUP.md.
+scripts:
+  setup: |
+    #!/usr/bin/env bash
+    node scripts/agent-setup.ts

@@ -168,13 +168,13 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com/Resnovas/.github/pull/31) in [Resnovas/.github](https://github.com/Resnovas/.github)
-2. 🎉 Merged PR [#29](https://github.com/Resnovas/.github/pull/29) in [Resnovas/.github](https://github.com/Resnovas/.github)
-3. 🎉 Merged PR [#711](https://github.com/Resnovas/smartcloud/pull/711) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-4. 🎉 Merged PR [#28](https://github.com/Resnovas/.github/pull/28) in [Resnovas/.github](https://github.com/Resnovas/.github)
-5. 🎉 Merged PR [#710](https://github.com/Resnovas/smartcloud/pull/710) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-6. 🗣 Commented on [#590](https://github.com/Resnovas/smartcloud/pull/590#issuecomment-5856371785) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
-7. ❌ Closed PR [#590](https://github.com/Resnovas/smartcloud/pull/590) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+1. 💪 Opened PR [#32](https://github.com/Resnovas/.github/pull/32) in [Resnovas/.github](https://github.com/Resnovas/.github)
+2. 💪 Opened PR [#714](https://github.com/Resnovas/smartcloud/pull/714) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+3. 💪 Opened PR [#31](https://github.com/Resnovas/.github/pull/31) in [Resnovas/.github](https://github.com/Resnovas/.github)
+4. 🎉 Merged PR [#29](https://github.com/Resnovas/.github/pull/29) in [Resnovas/.github](https://github.com/Resnovas/.github)
+5. 🎉 Merged PR [#711](https://github.com/Resnovas/smartcloud/pull/711) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
+6. 🎉 Merged PR [#28](https://github.com/Resnovas/.github/pull/28) in [Resnovas/.github](https://github.com/Resnovas/.github)
+7. 🎉 Merged PR [#710](https://github.com/Resnovas/smartcloud/pull/710) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 8. 💪 Opened PR [#710](https://github.com/Resnovas/smartcloud/pull/710) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 9. ❌ Closed PR [#683](https://github.com/Resnovas/smartcloud/pull/683) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)
 10. 🗣 Commented on [#683](https://github.com/Resnovas/smartcloud/pull/683#issuecomment-5856198524) in [Resnovas/smartcloud](https://github.com/Resnovas/smartcloud)

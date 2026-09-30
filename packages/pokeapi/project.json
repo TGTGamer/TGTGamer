@@ -1,0 +1,28 @@
+{
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "name": "pokeapi",
+  "projectType": "library",
+  "sourceRoot": "packages/pokeapi/src",
+  "tags": ["type_shared", "layer_shared"],
+  "targets": {
+    "build": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/pokeapi/tsconfig.json" }
+    },
+    "typecheck": {
+      "executor": "nx:run-commands",
+      "options": { "command": "tsc -b packages/pokeapi/tsconfig.json && tsc -p tests/tsconfig.json" }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": { "command": "eslint packages/pokeapi tests/pokeapi" }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "vitest run tests/pokeapi",
+        "cwd": "{workspaceRoot}"
+      }
+    }
+  }
+}

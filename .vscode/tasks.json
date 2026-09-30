@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Setup", "type": "shell", "command": "node scripts/agent-setup.ts", "problemMatcher": [] },
+    { "label": "Build", "type": "shell", "command": "pnpm build", "problemMatcher": ["$tsc"], "group": { "kind": "build", "isDefault": true } },
+    { "label": "Typecheck", "type": "shell", "command": "pnpm typecheck", "problemMatcher": ["$tsc"] },
+    { "label": "Lint", "type": "shell", "command": "pnpm lint", "problemMatcher": ["$eslint-stylish"] },
+    { "label": "Test", "type": "shell", "command": "pnpm test:offline", "problemMatcher": [], "group": { "kind": "test", "isDefault": true } },
+    { "label": "Test (including network)", "type": "shell", "command": "pnpm test", "problemMatcher": [] },
+    { "label": "Test watch", "type": "shell", "command": "pnpm test:watch", "isBackground": true, "problemMatcher": [] },
+    { "label": "Format", "type": "shell", "command": "pnpm format", "problemMatcher": [] },
+    { "label": "Verify", "type": "shell", "command": "pnpm verify", "problemMatcher": ["$tsc", "$eslint-stylish"] }
+  ]
+}

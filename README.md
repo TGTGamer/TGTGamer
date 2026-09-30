@@ -23,7 +23,7 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <div align="center">
 
-[![bit.cloud](./assets/Bit.cloud.png)](https://bit.cloud/tgtgamer)
+**Coding portfolio:** [LeetCode](./packages/leetcode) · [Advent of Code](./packages/aoc) · [PokeAPI](./packages/pokeapi) · [Encircle technical test](./packages/encircle)
 
 </div>
 

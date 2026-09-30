@@ -1,13 +1,48 @@
 {
-  "author": {
-    "name": "Jonathan Stevens",
-    "email": "jonathan@resnovas.com"
+  "name": "@tgtgamer/portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Jonathan Stevens' GitHub profile and coding portfolio: LeetCode, Advent of Code and PokeAPI solutions",
+  "license": "LicenseRef-FCL-1.0-MIT",
+  "author": "Jonathan Stevens T/A Resnovas <hello@resnovas.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TGTGamer/TGTGamer.git"
   },
-  "version": "1.0.0",
+  "packageManager": "pnpm@12.4.2",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "type": "module",
   "scripts": {
-    "post-install": "bit import && bit link"
+    "setup": "node scripts/agent-setup.ts",
+    "build": "nx run-many -t build",
+    "typecheck": "nx run-many -t typecheck",
+    "lint": "nx run-many -t lint",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:offline": "vitest run --project offline",
+    "coverage": "vitest run --coverage",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint:headers": "node scripts/check-headers.ts",
+    "lint:prose": "node scripts/check-prose.ts",
+    "verify": "pnpm typecheck && pnpm lint && pnpm lint:headers && pnpm lint:prose && pnpm test:offline"
   },
-  "license": "GPL-3.0-or-later",
-  "type":"module",
-  "private": false
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@nx/eslint-plugin": "23.2.1",
+    "@nx/js": "23.2.1",
+    "@types/node": "^24.0.0",
+    "@typescript-eslint/parser": "^8.70.1",
+    "@vitest/coverage-v8": "^4.1.11",
+    "eslint": "^10.11.0",
+    "eslint-config-prettier": "^10.0.0",
+    "jiti": "^2.7.0",
+    "nx": "23.2.1",
+    "prettier": "^3.9.9",
+    "typescript": "~5.9.0",
+    "typescript-eslint": "^8.70.1",
+    "vitest": "^4.1.11"
+  }
 }

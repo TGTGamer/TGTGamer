@@ -200,8 +200,8 @@ Find me answering community coding questions in [The Coding Den](https://discord
 30. 💪 Opened PR [#37](https://github.com/Climb-Group/Brand-System/pull/37) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
 31. 🎉 Merged PR [#36](https://github.com/Climb-Group/Brand-System/pull/36) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
 32. ℹ️ Assigned PR [#36](https://github.com/Climb-Group/Brand-System/pull/36) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
-33. ℹ️ Assigned PR [#21](https://github.com/Climb-Group/Brand-System/pull/21) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
-34. 💪 Opened PR [#37](https://github.com/Resnovas/.github/pull/37) in [Resnovas/.github](https://github.com/Resnovas/.github)
+33. 💪 Opened PR [#36](https://github.com/Climb-Group/Brand-System/pull/36) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
+34. ℹ️ Assigned PR [#35](https://github.com/Climb-Group/Brand-System/pull/35) in [Climb-Group/Brand-System](https://github.com/Climb-Group/Brand-System)
 <!--END_SECTION:activity-->
 
 </td></tr></table></details>

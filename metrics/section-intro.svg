@@ -322,7 +322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angr/angr</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful and user-friendly binary analysis platform!</div>
@@ -375,7 +375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dnSpyEx/dnSpy</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial revival of the well known .NET debugger and assembly editor, dnSpy</div>
@@ -425,7 +425,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Oct 2026, 04:55:43 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Oct 2026, 14:26:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

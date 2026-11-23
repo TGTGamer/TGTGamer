@@ -168,12 +168,12 @@ Find me answering community coding questions in [The Coding Den](https://discord
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#83](https://github.com/Resnovas/.github/pull/83) in [Resnovas/.github](https://github.com/Resnovas/.github)
-2. 💪 Opened PR [#1099](https://github.com/Resnovas/Eventiva/pull/1099) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-3. ❗ Opened issue [#1098](https://github.com/Resnovas/Eventiva/issues/1098) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-4. ❗ Opened issue [#1097](https://github.com/Resnovas/Eventiva/issues/1097) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
-5. 🎉 Merged PR [#82](https://github.com/Resnovas/.github/pull/82) in [Resnovas/.github](https://github.com/Resnovas/.github)
-6. 💪 Opened PR [#1096](https://github.com/Resnovas/Eventiva/pull/1096) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+1. ℹ️ Labeled issue [#1101](https://github.com/Resnovas/Eventiva/issues/1101) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+2. ℹ️ Assigned issue [#1101](https://github.com/Resnovas/Eventiva/issues/1101) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+3. 🔒 Closed issue [#1101](https://github.com/Resnovas/Eventiva/issues/1101) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+4. ℹ️ Labeled issue [#1101](https://github.com/Resnovas/Eventiva/issues/1101) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+5. ❗ Opened issue [#1101](https://github.com/Resnovas/Eventiva/issues/1101) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
+6. 🎉 Merged PR [#1099](https://github.com/Resnovas/Eventiva/pull/1099) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
 7. 💪 Opened PR [#82](https://github.com/Resnovas/.github/pull/82) in [Resnovas/.github](https://github.com/Resnovas/.github)
 8. 🗣 Commented on [#1035](https://github.com/Resnovas/Eventiva/issues/1035#issuecomment-7046467163) in [Resnovas/Eventiva](https://github.com/Resnovas/Eventiva)
 9. 🗣 Commented on [#55](https://github.com/Resnovas/.github/issues/55#issuecomment-7046463816) in [Resnovas/.github](https://github.com/Resnovas/.github)
